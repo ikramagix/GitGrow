@@ -191,6 +191,33 @@
     ],
     "eslco": [
       "eslco/Hexo-Blog"
+    ],
+    "nasrokamora": [
+      "nasrokamora/booking-apps"
+    ],
+    "gr33kurious": [
+      "gr33kurious/todoism"
+    ],
+    "mikemaz-dev": [
+      "mikemaz-dev/portfolio-site"
+    ],
+    "deepblizzard": [
+      "deepblizzard/adwitya"
+    ],
+    "YulietM": [
+      "YulietM/proyectos-backend"
+    ],
+    "heliocarbex": [
+      "heliocarbex/conta-paginas"
+    ],
+    "xhkyyy": [
+      "xhkyyy/elasticsearch-http-discovery"
+    ],
+    "Husky-Devel": [
+      "Husky-Devel/url-shortner"
+    ],
+    "HI6Cypher": [
+      "HI6Cypher/IPinfo"
     ]
   },
   "unstargazers": []
