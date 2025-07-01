@@ -785,6 +785,21 @@
     ],
     "Ansel-Ch": [
       "Ansel-Ch/catcher-smoke-test"
+    ],
+    "notlmn": [
+      "notlmn/webpack-html-entrypoint"
+    ],
+    "t-kot": [
+      "t-kot/BackOfficeUtil"
+    ],
+    "SwanseN21": [
+      "SwanseN21/SwanseN21-AWS-APP-DEV-ADOBE"
+    ],
+    "KamChanLiu": [
+      "KamChanLiu/Simple-Forum-Meteor-React"
+    ],
+    "soominkimu": [
+      "soominkimu/css-emotion"
     ]
   },
   "unstargazers": []
