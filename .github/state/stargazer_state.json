@@ -180,5 +180,66 @@
   },
   "unstargazers": [],
   "unresponsive": {},
-  "growth_starred": {}
+  "growth_starred": {
+    "HassanNemir": [
+      {
+        "repo": "HassanNemir/addbook-",
+        "starred_at": "2025-07-02T23:23:35.658402+00:00"
+      }
+    ],
+    "brunoportis": [
+      {
+        "repo": "brunoportis/bitwasm",
+        "starred_at": "2025-07-02T23:23:35.658402+00:00"
+      }
+    ],
+    "303489429": [
+      {
+        "repo": "303489429/gitlecture",
+        "starred_at": "2025-07-02T23:23:35.658402+00:00"
+      }
+    ],
+    "vr428987": [
+      {
+        "repo": "vr428987/hell-word",
+        "starred_at": "2025-07-02T23:23:35.658402+00:00"
+      }
+    ],
+    "imwally": [
+      {
+        "repo": "imwally/aoc2018",
+        "starred_at": "2025-07-02T23:23:35.658402+00:00"
+      }
+    ],
+    "YixiaoOrg": [
+      {
+        "repo": "YixiaoOrg/blog_giscus",
+        "starred_at": "2025-07-02T23:23:35.658402+00:00"
+      }
+    ],
+    "coppinger": [
+      {
+        "repo": "coppinger/aoc-2023",
+        "starred_at": "2025-07-02T23:23:35.658402+00:00"
+      }
+    ],
+    "Shervin7900": [
+      {
+        "repo": "Shervin7900/Auth",
+        "starred_at": "2025-07-02T23:23:35.658402+00:00"
+      }
+    ],
+    "JimmieKings": [
+      {
+        "repo": "JimmieKings/Bank-Account-Usage-inclusion-predictor",
+        "starred_at": "2025-07-02T23:23:35.658402+00:00"
+      }
+    ],
+    "Musador13": [
+      {
+        "repo": "Musador13/adityatheoctocatdev",
+        "starred_at": "2025-07-02T23:23:35.658402+00:00"
+      }
+    ]
+  }
 }
