@@ -887,6 +887,21 @@
     ],
     "scsdw": [
       "scsdw/skin-1-in-pcl2-home"
+    ],
+    "t-matsudate": [
+      "t-matsudate/docker-coursier"
+    ],
+    "chaturrved": [
+      "chaturrved/dotfiles"
+    ],
+    "hhhello0507": [
+      "hhhello0507/system"
+    ],
+    "zhengsubei": [
+      "zhengsubei/trival-time"
+    ],
+    "TownBeginner": [
+      "TownBeginner/jpMobileSample"
     ]
   },
   "unstargazers": []
