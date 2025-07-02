@@ -845,6 +845,21 @@
     ],
     "jnirschl": [
       "jnirschl/kinesin-3_guedes-dias_2018"
+    ],
+    "mcauto": [
+      "mcauto/japronto-example"
+    ],
+    "furkantektas": [
+      "furkantektas/docker-nginx-php-postgis"
+    ],
+    "liuml07": [
+      "liuml07/PopClipExtensions"
+    ],
+    "mr-kasper": [
+      "mr-kasper/Rock_Paper_Scissors"
+    ],
+    "hayduke19us": [
+      "hayduke19us/pliny_docs"
     ]
   },
   "unstargazers": []
