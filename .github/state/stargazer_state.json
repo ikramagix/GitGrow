@@ -510,5 +510,55 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "mishalpk17": [
+      {
+        "repo": "mishalpk17/hashtag",
+        "starred_at": "2025-07-03T06:46:11.595319+00:00"
+      }
+    ],
+    "thilinaucsc": [
+      {
+        "repo": "thilinaucsc/Camel-excample",
+        "starred_at": "2025-07-03T06:46:11.595319+00:00"
+      }
+    ],
+    "bravotorres": [
+      {
+        "repo": "bravotorres/api-rest_java",
+        "starred_at": "2025-07-03T06:46:11.595319+00:00"
+      }
+    ],
+    "Mayandev": [
+      {
+        "repo": "Mayandev/clean-react-init",
+        "starred_at": "2025-07-03T06:46:11.595319+00:00"
+      }
+    ],
+    "HammadArif777": [
+      {
+        "repo": "HammadArif777/Backend-Node",
+        "starred_at": "2025-07-03T06:46:11.595319+00:00"
+      }
+    ],
+    "dplem": [
+      {
+        "repo": "dplem/Covid-Stock-Market-Analysis",
+        "starred_at": "2025-07-03T06:46:11.595319+00:00"
+      }
+    ],
+    "cgkjdfyfrebiqur3y": [
+      {
+        "repo": "cgkjdfyfrebiqur3y/fluffy-octo-invention",
+        "starred_at": "2025-07-03T06:46:11.595319+00:00"
+      }
+    ],
+    "deepgolani4": [
+      {
+        "repo": "deepgolani4/bajaj-react-task",
+        "starred_at": "2025-07-03T06:46:11.595319+00:00"
+      }
+    ]
   }
 }
