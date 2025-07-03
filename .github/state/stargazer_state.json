@@ -712,6 +712,61 @@
       "last_unbalanced_attempt": "2025-07-03T14:38:17.924625+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "matyson": [
+      {
+        "repo": "matyson/bernardic",
+        "starred_at": "2025-07-03T16:43:33.738917+00:00"
+      }
+    ],
+    "PhilipAmissah": [
+      {
+        "repo": "PhilipAmissah/file_manager_app",
+        "starred_at": "2025-07-03T16:43:33.738917+00:00"
+      }
+    ],
+    "soroushfathi": [
+      {
+        "repo": "soroushfathi/Blog_API",
+        "starred_at": "2025-07-03T16:43:33.738917+00:00"
+      }
+    ],
+    "atrevino89": [
+      {
+        "repo": "atrevino89/litefarm4j",
+        "starred_at": "2025-07-03T16:43:33.738917+00:00"
+      }
+    ],
+    "lucaired": [
+      {
+        "repo": "lucaired/cloud-computing",
+        "starred_at": "2025-07-03T16:43:33.738917+00:00"
+      }
+    ],
+    "KelvinLR": [
+      {
+        "repo": "KelvinLR/ComputerVisionTraining",
+        "starred_at": "2025-07-03T16:43:33.738917+00:00"
+      }
+    ],
+    "believe3301": [
+      {
+        "repo": "believe3301/believe3301.github.com",
+        "starred_at": "2025-07-03T16:43:33.738917+00:00"
+      }
+    ],
+    "vikasswebdev": [
+      {
+        "repo": "vikasswebdev/api-graphql",
+        "starred_at": "2025-07-03T16:43:33.738917+00:00"
+      }
+    ],
+    "cristianvogel": [
+      {
+        "repo": "cristianvogel/basic-layercake-template",
+        "starred_at": "2025-07-03T16:43:33.738917+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
