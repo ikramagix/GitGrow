@@ -510,5 +510,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "anhtuank7c": [
+      {
+        "repo": "anhtuank7c/2048",
+        "starred_at": "2025-07-03T12:59:33.487604+00:00"
+      }
+    ],
+    "HenriqueRicardoFigueira": [
+      {
+        "repo": "HenriqueRicardoFigueira/apsRedes1",
+        "starred_at": "2025-07-03T12:59:33.487604+00:00"
+      }
+    ],
+    "bsalex": [
+      {
+        "repo": "bsalex/angular-loading-overlay-http-interceptor",
+        "starred_at": "2025-07-03T12:59:33.487604+00:00"
+      }
+    ],
+    "Kakaluote000": [
+      {
+        "repo": "Kakaluote000/Anime-inPainting",
+        "starred_at": "2025-07-03T12:59:33.487604+00:00"
+      }
+    ],
+    "Jesdexq": [
+      {
+        "repo": "Jesdexq/shudaiotaryhon",
+        "starred_at": "2025-07-03T12:59:33.487604+00:00"
+      }
+    ],
+    "Sthefani-Coscrato": [
+      {
+        "repo": "Sthefani-Coscrato/Hello-Stranger",
+        "starred_at": "2025-07-03T12:59:33.487604+00:00"
+      }
+    ],
+    "cargilgar": [
+      {
+        "repo": "cargilgar/Smart-Alarm-using-tinyML",
+        "starred_at": "2025-07-03T12:59:33.487604+00:00"
+      }
+    ],
+    "Konstantilieris": [
+      {
+        "repo": "Konstantilieris/Apollon_Admin",
+        "starred_at": "2025-07-03T12:59:33.487604+00:00"
+      }
+    ],
+    "sirupsen": [
+      {
+        "repo": "sirupsen/airtable-rs",
+        "starred_at": "2025-07-03T12:59:33.487604+00:00"
+      }
+    ]
   }
 }
