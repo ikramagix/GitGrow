@@ -72,7 +72,17 @@
         "ikramagix/ikramagix",
         "ikramagix/notefleex"
       ],
-      "starred_back": []
+      "starred_back": [
+        "masechkacat/Nokogiri",
+        "masechkacat/api",
+        "masechkacat/test-api-meta",
+        "masechkacat/tic-tac-toe-server",
+        "masechkacat/portfolio",
+        "masechkacat/Block-Note-React",
+        "masechkacat/CLI-SortingAlgorithms-NodeJS",
+        "masechkacat/InfoVelo",
+        "masechkacat/masechkacat"
+      ]
     },
     "yyle88": {
       "starred_by": [
@@ -86,7 +96,12 @@
         "ikramagix/simple-proxy",
         "ikramagix/Tic_Tac_Toe_IA"
       ],
-      "starred_back": []
+      "starred_back": [
+        "yyle88/osexistpath",
+        "yyle88/gormmom",
+        "yyle88/formatgo",
+        "yyle88/rese"
+      ]
     },
     "KostasSliazas": {
       "starred_by": [
@@ -100,7 +115,15 @@
         "ikramagix/simple-proxy",
         "ikramagix/Tic_Tac_Toe_IA"
       ],
-      "starred_back": []
+      "starred_back": [
+        "KostasSliazas/Kcalculator.github.io",
+        "KostasSliazas/links",
+        "KostasSliazas/todo2",
+        "KostasSliazas/K7",
+        "KostasSliazas/todo-app-qr.io",
+        "KostasSliazas/project-kitten",
+        "KostasSliazas/questions"
+      ]
     },
     "stayupdatedorgetinfected": {
       "starred_by": [
@@ -128,7 +151,12 @@
         "ikramagix/simple-proxy",
         "ikramagix/Tic_Tac_Toe_IA"
       ],
-      "starred_back": []
+      "starred_back": [
+        "elenagalun/carry",
+        "elenagalun/adroid",
+        "elenagalun/elenatest",
+        "elenagalun/next"
+      ]
     },
     "elhadjx": {
       "starred_by": [
@@ -136,7 +164,12 @@
         "ikramagix/Booksy",
         "ikramagix/Confiable"
       ],
-      "starred_back": []
+      "starred_back": [
+        "elhadjx/svgtopng",
+        "elhadjx/elhadjx",
+        "elhadjx/tileserver",
+        "elhadjx/AdminMasjidna"
+      ]
     },
     "mikemaz-dev": {
       "starred_by": [
@@ -149,7 +182,12 @@
         "ikramagix/notefleex",
         "ikramagix/Tic_Tac_Toe_IA"
       ],
-      "starred_back": []
+      "starred_back": [
+        "mikemaz-dev/justbank",
+        "mikemaz-dev/PomodoroTimer",
+        "mikemaz-dev/portfolio-site",
+        "mikemaz-dev/next-pizza"
+      ]
     },
     "DelignyS": {
       "starred_by": [
@@ -158,20 +196,35 @@
         "ikramagix/ikramagix",
         "ikramagix/simple-proxy"
       ],
-      "starred_back": []
+      "starred_back": [
+        "DelignyS/myGoogleLandingPage",
+        "DelignyS/BrewMyUi",
+        "DelignyS/sfdCLIENT",
+        "DelignyS/My-linktree",
+        "DelignyS/MyPortfolio",
+        "DelignyS/Pokedex",
+        "DelignyS/BlocNote",
+        "DelignyS/WorkoutsTracker",
+        "DelignyS/mini_game_OOP"
+      ]
     },
     "shravanramv": {
       "starred_by": [
         "ikramagix/Booksy",
         "ikramagix/notefleex"
       ],
-      "starred_back": []
+      "starred_back": [
+        "shravanramv/Java-Swing-GUI-Application"
+      ]
     },
     "JustinFrost47": {
       "starred_by": [
         "ikramagix/Booksy"
       ],
-      "starred_back": []
+      "starred_back": [
+        "JustinFrost47/aframe-virtual-joystick",
+        "JustinFrost47/Outpass_api"
+      ]
     },
     "ahnshy": {
       "starred_by": [
@@ -187,7 +240,12 @@
         "ikramagix/OwnOmail",
         "ikramagix/simple-proxy"
       ],
-      "starred_back": []
+      "starred_back": [
+        "ahnshy/WSL2-BackupService",
+        "ahnshy/Win32-Resource-Automatic-Translator",
+        "ahnshy/Korea-Weather-Dashboard",
+        "ahnshy/GitLogService"
+      ]
     },
     "sadrax4": {
       "starred_by": [
@@ -196,7 +254,11 @@
         "ikramagix/ikramagix",
         "ikramagix/inspagram"
       ],
-      "starred_back": []
+      "starred_back": [
+        "sadrax4/nestjs-GraphQL",
+        "sadrax4/nest-restapi",
+        "sadrax4/nestjs-Rabbitmq"
+      ]
     },
     "deepblizzard": {
       "starred_by": [
@@ -206,7 +268,11 @@
         "ikramagix/inspagram",
         "ikramagix/Tic_Tac_Toe_IA"
       ],
-      "starred_back": []
+      "starred_back": [
+        "deepblizzard/adwitya",
+        "deepblizzard/deepv",
+        "deepblizzard/about"
+      ]
     },
     "JawherKl": {
       "starred_by": [
@@ -216,13 +282,19 @@
         "ikramagix/ikramagix",
         "ikramagix/inspagram"
       ],
-      "starred_back": []
+      "starred_back": [
+        "JawherKl/design-patterns-in-multiple-languages"
+      ]
     },
     "istarengwa": {
       "starred_by": [
         "ikramagix/faussaire"
       ],
-      "starred_back": []
+      "starred_back": [
+        "istarengwa/Immotep_API",
+        "istarengwa/canincompris",
+        "istarengwa/THP_HEROKU_PIPELINE"
+      ]
     },
     "JoseLucasapp": {
       "starred_by": [
@@ -231,21 +303,33 @@
         "ikramagix/GitGrowBot",
         "ikramagix/moodle-local_yeswecanquiz"
       ],
-      "starred_back": []
+      "starred_back": [
+        "JoseLucasapp/spreadsheet_analysis_python",
+        "JoseLucasapp/roseira",
+        "JoseLucasapp/joselucasapp-home",
+        "JoseLucasapp/boot-buddy",
+        "JoseLucasapp/Zumbra-lang"
+      ]
     },
     "discodot": {
       "starred_by": [
         "ikramagix/faussaire",
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "discodot/discodot"
+      ]
     },
     "cornel-cp": {
       "starred_by": [
         "ikramagix/faussaire",
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "cornel-cp/history",
+        "cornel-cp/NFT-marketplace",
+        "cornel-cp/Car-ball"
+      ]
     },
     "gr33kurious": {
       "starred_by": [
@@ -256,7 +340,9 @@
         "ikramagix/moodle-local_yeswecanquiz",
         "ikramagix/OwnOmail"
       ],
-      "starred_back": []
+      "starred_back": [
+        "gr33kurious/todoism"
+      ]
     },
     "develectro": {
       "starred_by": [
@@ -265,7 +351,13 @@
         "ikramagix/GitGrowBot",
         "ikramagix/moodle-local_yeswecanquiz"
       ],
-      "starred_back": []
+      "starred_back": [
+        "develectro/javascriptApps",
+        "develectro/sliderComponent",
+        "develectro/GTK-Themes",
+        "develectro/majestic-maamoul",
+        "develectro/MathQuizz"
+      ]
     },
     "ayoubgm": {
       "starred_by": [
@@ -280,20 +372,31 @@
       "starred_by": [
         "ikramagix/gem_badge"
       ],
-      "starred_back": []
+      "starred_back": [
+        "Meetjain1/Forecast-app",
+        "Meetjain1/sveltewebfullstack",
+        "Meetjain1/TextifyAI"
+      ]
     },
     "thisismydesign": {
       "starred_by": [
         "ikramagix/gem_badge"
       ],
-      "starred_back": []
+      "starred_back": [
+        "thisismydesign/crshelper",
+        "thisismydesign/dotenv_rails_db_tasks_fix",
+        "thisismydesign/batch_dependent_associations"
+      ]
     },
     "pedropanzo": {
       "starred_by": [
         "ikramagix/gem_badge",
         "ikramagix/notefleex"
       ],
-      "starred_back": []
+      "starred_back": [
+        "pedropanzo/Praticas-WinForm",
+        "pedropanzo/pedropanzo"
+      ]
     },
     "muhammad-ali-bright": {
       "starred_by": [
@@ -301,62 +404,99 @@
         "ikramagix/GitGrowBot",
         "ikramagix/notefleex"
       ],
-      "starred_back": []
+      "starred_back": [
+        "muhammad-ali-bright/cryptoket-v2",
+        "muhammad-ali-bright/fullstack-pro-",
+        "muhammad-ali-bright/hotel-booking-backend"
+      ]
     },
     "0joseDark": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "0joseDark/arduino-draw-map",
+        "0joseDark/websockets-server-webpage"
+      ]
     },
     "jjp1n": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "jjp1n/Testing-repository",
+        "jjp1n/dino"
+      ]
     },
     "Contractor-x": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "Contractor-x/E.L.L.A-Enhanced-Locust-Logic-Architecture-",
+        "Contractor-x/STOCK-ML-MODEL",
+        "Contractor-x/Gmail-bot"
+      ]
     },
     "ibugithub": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "ibugithub/LeJava",
+        "ibugithub/gitHubAction_examples",
+        "ibugithub/ibugithub"
+      ]
     },
     "IgorSilvaZZ": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "IgorSilvaZZ/TCCIonicApp"
+      ]
     },
     "rennf93": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "rennf93/fast-man",
+        "rennf93/two-fast-auth",
+        "rennf93/rennf93",
+        "rennf93/parse-docker-scout-output"
+      ]
     },
     "monzter50": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "monzter50/graphQL-practices",
+        "monzter50/platzi-video",
+        "monzter50/template-react-component-library"
+      ]
     },
     "criszst": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "criszst/bookApp",
+        "criszst/Music-Notes",
+        "criszst/keylogger-py",
+        "criszst/passwordGenerator"
+      ]
     },
     "samuelsonbrito": {
       "starred_by": [
         "ikramagix/GitGrowBot",
         "ikramagix/moodle-local_yeswecanquiz"
       ],
-      "starred_back": []
+      "starred_back": [
+        "samuelsonbrito/diverge",
+        "samuelsonbrito/schoolcontrol"
+      ]
     },
     "coreres1": {
       "starred_by": [
@@ -368,37 +508,63 @@
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "Sanskar-Bhushankar/Key-Logger--Python",
+        "Sanskar-Bhushankar/Video-Speed-Controller-Extension"
+      ]
     },
     "heavenyoung1": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "heavenyoung1/fast_api_test",
+        "heavenyoung1/leetcode",
+        "heavenyoung1/auth_service"
+      ]
     },
     "oguzhan-yilmaz": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "oguzhan-yilmaz/blogs",
+        "oguzhan-yilmaz/powerpipe-mod-kubernetes-vpa-right-sizing",
+        "oguzhan-yilmaz/balcony",
+        "oguzhan-yilmaz/endpoint-latency-exporter",
+        "oguzhan-yilmaz/balcony-assets",
+        "oguzhan-yilmaz/steampipe-powerpipe-kubernetes"
+      ]
     },
     "Iankulani": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "Iankulani/network-bandwidth-monitoring-tool",
+        "Iankulani/2020_Malawi_Fresh_Presidential_Election"
+      ]
     },
     "AbbasDehganzadeh": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "AbbasDehganzadeh/go-introductory",
+        "AbbasDehganzadeh/Faraz-danesh",
+        "AbbasDehganzadeh/faxteh",
+        "AbbasDehganzadeh/py-excersize"
+      ]
     },
     "hafsalodhi2023": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "hafsalodhi2023/hafsalodhi2023",
+        "hafsalodhi2023/Shoppy-APIs",
+        "hafsalodhi2023/QR_code_generator"
+      ]
     },
     "ikramagix": {
       "starred_by": [
@@ -406,55 +572,91 @@
         "ikramagix/inspagram",
         "ikramagix/simple-proxy"
       ],
-      "starred_back": []
+      "starred_back": [
+        "ikramagix/inspagram",
+        "ikramagix/simple-proxy",
+        "ikramagix/GitGrowBot"
+      ]
     },
     "anayarojo": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "anayarojo/angular-heros-web-app",
+        "anayarojo/react-test",
+        "anayarojo/anayarojo-tools"
+      ]
     },
     "sarkarshuvojit": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "sarkarshuvojit/lamp-home",
+        "sarkarshuvojit/lomboktojson"
+      ]
     },
     "EduardoDosSantosFerreira": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "EduardoDosSantosFerreira/landing_page_saque-credito",
+        "EduardoDosSantosFerreira/crowvert",
+        "EduardoDosSantosFerreira/project-etec"
+      ]
     },
     "aflacake": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "aflacake/aflacake",
+        "aflacake/flaroti-dialogflow",
+        "aflacake/earl-lang",
+        "aflacake/skills-introduction-to-github"
+      ]
     },
     "PayasPandey11": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "PayasPandey11/Deeplearning.ai_Neural-network-scratch",
+        "PayasPandey11/NMT-keras-pytorch",
+        "PayasPandey11/Cleaner",
+        "PayasPandey11/gitwise"
+      ]
     },
     "nasrokamora": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "nasrokamora/booking-apps",
+        "nasrokamora/my-app3",
+        "nasrokamora/Cars_app",
+        "nasrokamora/NesDev-Project"
+      ]
     },
     "Ayokanmi-Adejola": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "Ayokanmi-Adejola/Task-Management",
+        "Ayokanmi-Adejola/Agency-Landing-Page"
+      ]
     },
     "emaraschio": {
       "starred_by": [
         "ikramagix/GitGrowBot"
       ],
-      "starred_back": []
+      "starred_back": [
+        "emaraschio/rock-paper-scissors-ror-game",
+        "emaraschio/swapi-ruby"
+      ]
     },
     "asif256000": {
       "starred_by": [
@@ -478,7 +680,10 @@
       "starred_by": [
         "ikramagix/ikramagix"
       ],
-      "starred_back": []
+      "starred_back": [
+        "GylanSalih/RetroVerse-Batocera-Theme",
+        "GylanSalih/OrganizeMyFiles"
+      ]
     },
     "seanpm2001": {
       "starred_by": [
@@ -490,19 +695,30 @@
       "starred_by": [
         "ikramagix/ikramagix"
       ],
-      "starred_back": []
+      "starred_back": [
+        "sins921/friendly-funicular",
+        "sins921/sins921"
+      ]
     },
     "Buda9": {
       "starred_by": [
         "ikramagix/moodle-local_yeswecanquiz"
       ],
-      "starred_back": []
+      "starred_back": [
+        "Buda9/gulp-flexbox-perfect-starter",
+        "Buda9/moodle-local_chatwoot",
+        "Buda9/local_mailchimpsync"
+      ]
     },
     "cirilocanganjo": {
       "starred_by": [
         "ikramagix/moodle-local_yeswecanquiz"
       ],
-      "starred_back": []
+      "starred_back": [
+        "cirilocanganjo/TrainingCenter",
+        "cirilocanganjo/SIGU-UNIBELAS",
+        "cirilocanganjo/SIGU-UnibelasClone2021"
+      ]
     },
     "01725973292": {
       "starred_by": [
@@ -510,61 +726,5 @@
       ],
       "starred_back": []
     }
-  },
-  "growth_starred": {
-    "anhtuank7c": [
-      {
-        "repo": "anhtuank7c/2048",
-        "starred_at": "2025-07-03T12:59:33.487604+00:00"
-      }
-    ],
-    "HenriqueRicardoFigueira": [
-      {
-        "repo": "HenriqueRicardoFigueira/apsRedes1",
-        "starred_at": "2025-07-03T12:59:33.487604+00:00"
-      }
-    ],
-    "bsalex": [
-      {
-        "repo": "bsalex/angular-loading-overlay-http-interceptor",
-        "starred_at": "2025-07-03T12:59:33.487604+00:00"
-      }
-    ],
-    "Kakaluote000": [
-      {
-        "repo": "Kakaluote000/Anime-inPainting",
-        "starred_at": "2025-07-03T12:59:33.487604+00:00"
-      }
-    ],
-    "Jesdexq": [
-      {
-        "repo": "Jesdexq/shudaiotaryhon",
-        "starred_at": "2025-07-03T12:59:33.487604+00:00"
-      }
-    ],
-    "Sthefani-Coscrato": [
-      {
-        "repo": "Sthefani-Coscrato/Hello-Stranger",
-        "starred_at": "2025-07-03T12:59:33.487604+00:00"
-      }
-    ],
-    "cargilgar": [
-      {
-        "repo": "cargilgar/Smart-Alarm-using-tinyML",
-        "starred_at": "2025-07-03T12:59:33.487604+00:00"
-      }
-    ],
-    "Konstantilieris": [
-      {
-        "repo": "Konstantilieris/Apollon_Admin",
-        "starred_at": "2025-07-03T12:59:33.487604+00:00"
-      }
-    ],
-    "sirupsen": [
-      {
-        "repo": "sirupsen/airtable-rs",
-        "starred_at": "2025-07-03T12:59:33.487604+00:00"
-      }
-    ]
   }
 }
