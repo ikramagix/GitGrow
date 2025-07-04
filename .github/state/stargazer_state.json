@@ -677,6 +677,55 @@
       "last_unbalanced_attempt": "2025-07-04T05:41:51.252566+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "alvaro5801": [
+      {
+        "repo": "alvaro5801/-An-lisedeSentimento",
+        "starred_at": "2025-07-04T08:42:38.191552+00:00"
+      }
+    ],
+    "pranalikadukar": [
+      {
+        "repo": "pranalikadukar/Basic_PropertyDeal_Application",
+        "starred_at": "2025-07-04T08:42:38.191552+00:00"
+      }
+    ],
+    "SaschaKrug": [
+      {
+        "repo": "SaschaKrug/django-component-kit",
+        "starred_at": "2025-07-04T08:42:38.191552+00:00"
+      }
+    ],
+    "thesunghwan": [
+      {
+        "repo": "thesunghwan/amazon-kickstarter-crawler",
+        "starred_at": "2025-07-04T08:42:38.191552+00:00"
+      }
+    ],
+    "Agungvpzz": [
+      {
+        "repo": "Agungvpzz/Agungvpzz",
+        "starred_at": "2025-07-04T08:42:38.191552+00:00"
+      }
+    ],
+    "rlesiyon": [
+      {
+        "repo": "rlesiyon/cmse823project",
+        "starred_at": "2025-07-04T08:42:38.191552+00:00"
+      }
+    ],
+    "HallucinatedYUVRAJ": [
+      {
+        "repo": "HallucinatedYUVRAJ/HallucinatedYUVRAJ",
+        "starred_at": "2025-07-04T08:42:38.191552+00:00"
+      }
+    ],
+    "ReddZhu": [
+      {
+        "repo": "ReddZhu/Test",
+        "starred_at": "2025-07-04T08:42:38.191552+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
