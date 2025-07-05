@@ -686,6 +686,55 @@
       "last_unbalanced_attempt": "2025-07-05T05:38:02.602187+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "williansql": [
+      {
+        "repo": "williansql/bootcamp-deal-backend",
+        "starred_at": "2025-07-05T08:38:02.799896+00:00"
+      }
+    ],
+    "vigimus": [
+      {
+        "repo": "vigimus/Animate",
+        "starred_at": "2025-07-05T08:38:02.799896+00:00"
+      }
+    ],
+    "WynterDing": [
+      {
+        "repo": "WynterDing/WynterDing",
+        "starred_at": "2025-07-05T08:38:02.799896+00:00"
+      }
+    ],
+    "hiroshisekiya644": [
+      {
+        "repo": "hiroshisekiya644/anchor-nft-staking-test",
+        "starred_at": "2025-07-05T08:38:02.799896+00:00"
+      }
+    ],
+    "AmyPennm": [
+      {
+        "repo": "AmyPennm/Pennm",
+        "starred_at": "2025-07-05T08:38:02.799896+00:00"
+      }
+    ],
+    "ilias1111": [
+      {
+        "repo": "ilias1111/box-office-prediction",
+        "starred_at": "2025-07-05T08:38:02.799896+00:00"
+      }
+    ],
+    "nvlanvn": [
+      {
+        "repo": "nvlanvn/codingchallenges",
+        "starred_at": "2025-07-05T08:38:02.799896+00:00"
+      }
+    ],
+    "rimpi123": [
+      {
+        "repo": "rimpi123/rimpi123",
+        "starred_at": "2025-07-05T08:38:02.799896+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
