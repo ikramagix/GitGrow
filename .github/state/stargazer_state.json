@@ -32,6 +32,7 @@
     "develectro",
     "discodot",
     "dmkjfs",
+    "dulanjayabhanu",
     "elenagalun",
     "elhadjx",
     "emaraschio",
@@ -100,8 +101,7 @@
         "yyle88/gormmom",
         "yyle88/formatgo",
         "yyle88/rese"
-      ],
-      "last_unbalanced_attempt": "2025-07-05T19:28:19.731092+00:00"
+      ]
     },
     "KostasSliazas": {
       "starred_by": [
@@ -123,8 +123,7 @@
         "KostasSliazas/todo-app-qr.io",
         "KostasSliazas/project-kitten",
         "KostasSliazas/questions"
-      ],
-      "last_unbalanced_attempt": "2025-07-05T19:28:19.731092+00:00"
+      ]
     },
     "stayupdatedorgetinfected": {
       "starred_by": [
@@ -137,8 +136,7 @@
         "ikramagix/notefleex",
         "ikramagix/Tic_Tac_Toe_IA"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-05T21:29:34.081356+00:00"
+      "starred_back": []
     },
     "elenagalun": {
       "starred_by": [
@@ -158,8 +156,7 @@
         "elenagalun/adroid",
         "elenagalun/elenatest",
         "elenagalun/next"
-      ],
-      "last_unbalanced_attempt": "2025-07-05T19:28:19.731092+00:00"
+      ]
     },
     "elhadjx": {
       "starred_by": [
@@ -189,8 +186,7 @@
         "mikemaz-dev/PomodoroTimer",
         "mikemaz-dev/portfolio-site",
         "mikemaz-dev/next-pizza"
-      ],
-      "last_unbalanced_attempt": "2025-07-05T19:28:19.731092+00:00"
+      ]
     },
     "DelignyS": {
       "starred_by": [
@@ -213,8 +209,7 @@
       ],
       "starred_back": [
         "shravanramv/Java-Swing-GUI-Application"
-      ],
-      "last_unbalanced_attempt": "2025-07-05T19:28:19.731092+00:00"
+      ]
     },
     "JustinFrost47": {
       "starred_by": [
@@ -243,8 +238,13 @@
         "ahnshy/Win32-Resource-Automatic-Translator",
         "ahnshy/Korea-Weather-Dashboard",
         "ahnshy/GitLogService"
+      ]
+    },
+    "dulanjayabhanu": {
+      "starred_by": [
+        "ikramagix/Booksy"
       ],
-      "last_unbalanced_attempt": "2025-07-05T19:28:19.731092+00:00"
+      "starred_back": []
     },
     "sadrax4": {
       "starred_by": [
@@ -257,8 +257,7 @@
         "sadrax4/nestjs-GraphQL",
         "sadrax4/nest-restapi",
         "sadrax4/nestjs-Rabbitmq"
-      ],
-      "last_unbalanced_attempt": "2025-07-05T19:28:19.731092+00:00"
+      ]
     },
     "deepblizzard": {
       "starred_by": [
@@ -272,8 +271,7 @@
         "deepblizzard/adwitya",
         "deepblizzard/deepv",
         "deepblizzard/about"
-      ],
-      "last_unbalanced_attempt": "2025-07-05T19:28:19.731092+00:00"
+      ]
     },
     "JawherKl": {
       "starred_by": [
@@ -285,8 +283,7 @@
       ],
       "starred_back": [
         "JawherKl/design-patterns-in-multiple-languages"
-      ],
-      "last_unbalanced_attempt": "2025-07-05T19:28:19.731092+00:00"
+      ]
     },
     "istarengwa": {
       "starred_by": [
@@ -317,8 +314,7 @@
       ],
       "starred_back": [
         "discodot/discodot"
-      ],
-      "last_unbalanced_attempt": "2025-07-05T21:29:34.081356+00:00"
+      ]
     },
     "cornel-cp": {
       "starred_by": [
@@ -341,8 +337,7 @@
       ],
       "starred_back": [
         "gr33kurious/todoism"
-      ],
-      "last_unbalanced_attempt": "2025-07-05T21:29:34.081356+00:00"
+      ]
     },
     "develectro": {
       "starred_by": [
@@ -365,8 +360,7 @@
         "ikramagix/GitGrow",
         "ikramagix/moodle-local_yeswecanquiz"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-05T19:28:19.731092+00:00"
+      "starred_back": []
     },
     "Meetjain1": {
       "starred_by": [
@@ -484,8 +478,7 @@
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-05T21:29:34.081356+00:00"
+      "starred_back": []
     },
     "Sanskar-Bhushankar": {
       "starred_by": [
@@ -615,22 +608,19 @@
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-05T19:28:19.731092+00:00"
+      "starred_back": []
     },
     "RafalW3bCraft": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-05T19:28:19.731092+00:00"
+      "starred_back": []
     },
     "dmkjfs": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-05T19:28:19.731092+00:00"
+      "starred_back": []
     },
     "pomponchik": {
       "starred_by": [
@@ -644,8 +634,7 @@
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-05T19:28:19.731092+00:00"
+      "starred_back": []
     },
     "GylanSalih": {
       "starred_by": [
@@ -659,8 +648,7 @@
       "starred_by": [
         "ikramagix/ikramagix"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-05T19:28:19.731092+00:00"
+      "starred_back": []
     },
     "sins921": {
       "starred_by": [
@@ -690,173 +678,7 @@
       "starred_by": [
         "ikramagix/notefleex"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-05T21:29:34.081356+00:00"
+      "starred_back": []
     }
-  },
-  "growth_starred": {
-    "tianshigeily360": [
-      {
-        "repo": "tianshigeily360/bjsfa",
-        "starred_at": "2025-07-05T16:38:56.891683+00:00"
-      }
-    ],
-    "GeauxWeisbeck4": [
-      {
-        "repo": "GeauxWeisbeck4/a11pineTY-bu11maTY",
-        "starred_at": "2025-07-05T16:38:56.891683+00:00"
-      }
-    ],
-    "amangupta201": [
-      {
-        "repo": "amangupta201/djangodictionary",
-        "starred_at": "2025-07-05T16:38:56.891683+00:00"
-      }
-    ],
-    "hicarorios": [
-      {
-        "repo": "hicarorios/Patterns",
-        "starred_at": "2025-07-05T16:38:56.891683+00:00"
-      }
-    ],
-    "Monil123-code": [
-      {
-        "repo": "Monil123-code/Monil123-code",
-        "starred_at": "2025-07-05T16:38:56.891683+00:00"
-      }
-    ],
-    "valtou007": [
-      {
-        "repo": "valtou007/10m",
-        "starred_at": "2025-07-05T16:38:56.891683+00:00"
-      }
-    ],
-    "treylin": [
-      {
-        "repo": "treylin/UIImage-Border",
-        "starred_at": "2025-07-05T16:38:56.891683+00:00"
-      }
-    ],
-    "reduxionist": [
-      {
-        "repo": "reduxionist/poe-looty-stash-export-csv",
-        "starred_at": "2025-07-05T16:38:56.891683+00:00"
-      }
-    ],
-    "SIGEWlNNE": [
-      {
-        "repo": "SIGEWlNNE/SIGEWlNNE",
-        "starred_at": "2025-07-05T23:31:05.473618+00:00"
-      }
-    ],
-    "Unagwu-Chimezie": [
-      {
-        "repo": "Unagwu-Chimezie/getlinked-pre-hackathon",
-        "starred_at": "2025-07-05T23:31:05.473618+00:00"
-      }
-    ],
-    "humangrass": [
-      {
-        "repo": "humangrass/axum-template",
-        "starred_at": "2025-07-05T23:31:05.473618+00:00"
-      }
-    ],
-    "laicoffee": [
-      {
-        "repo": "laicoffee/-_",
-        "starred_at": "2025-07-05T23:31:05.473618+00:00"
-      }
-    ],
-    "Robertrabbit": [
-      {
-        "repo": "Robertrabbit/contentrain-nextjs-blog-starter",
-        "starred_at": "2025-07-05T23:31:05.473618+00:00"
-      }
-    ],
-    "hennyobay": [
-      {
-        "repo": "hennyobay/alx-pre_course",
-        "starred_at": "2025-07-05T23:31:05.473618+00:00"
-      }
-    ],
-    "Albusus": [
-      {
-        "repo": "Albusus/Mode-Contract-Deploy",
-        "starred_at": "2025-07-05T23:31:05.473618+00:00"
-      }
-    ],
-    "holoto": [
-      {
-        "repo": "holoto/color-scheme",
-        "starred_at": "2025-07-05T23:31:05.473618+00:00"
-      }
-    ],
-    "JenR8ed": [
-      {
-        "repo": "JenR8ed/DiscordBot",
-        "starred_at": "2025-07-05T23:31:05.473618+00:00"
-      }
-    ],
-    "bytemania": [
-      {
-        "repo": "bytemania/akka-course1",
-        "starred_at": "2025-07-05T23:31:05.473618+00:00"
-      }
-    ],
-    "favelado-web": [
-      {
-        "repo": "favelado-web/beautlog",
-        "starred_at": "2025-07-06T02:31:39.517796+00:00"
-      }
-    ],
-    "GuidoSantiagoReta": [
-      {
-        "repo": "GuidoSantiagoReta/02-nivelacion-JS",
-        "starred_at": "2025-07-06T02:31:39.517796+00:00"
-      }
-    ],
-    "joehua87": [
-      {
-        "repo": "joehua87/aws4-service",
-        "starred_at": "2025-07-06T02:31:39.517796+00:00"
-      }
-    ],
-    "ypchen520": [
-      {
-        "repo": "ypchen520/alishan-range",
-        "starred_at": "2025-07-06T02:31:39.517796+00:00"
-      }
-    ],
-    "EZZkhalaf": [
-      {
-        "repo": "EZZkhalaf/chatAppBack",
-        "starred_at": "2025-07-06T02:31:39.517796+00:00"
-      }
-    ],
-    "SumonKantiDey": [
-      {
-        "repo": "SumonKantiDey/Algorithm-DataStructure",
-        "starred_at": "2025-07-06T02:31:39.517796+00:00"
-      }
-    ],
-    "hp-e": [
-      {
-        "repo": "hp-e/angular-samples",
-        "starred_at": "2025-07-06T02:31:39.517796+00:00"
-      }
-    ],
-    "realfirst": [
-      {
-        "repo": "realfirst/d2l",
-        "starred_at": "2025-07-06T02:31:39.517796+00:00"
-      }
-    ],
-    "michaelflppv": [
-      {
-        "repo": "michaelflppv/bohnenspiel",
-        "starred_at": "2025-07-06T02:31:39.517796+00:00"
-      }
-    ]
-  },
-  "unresponsive": {}
+  }
 }
