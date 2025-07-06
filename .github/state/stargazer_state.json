@@ -702,6 +702,61 @@
       "last_unbalanced_attempt": "2025-07-06T05:38:34.290392+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "AmitPanja-2003": [
+      {
+        "repo": "AmitPanja-2003/AmitPanja-2003.github.io",
+        "starred_at": "2025-07-06T08:36:54.358209+00:00"
+      }
+    ],
+    "Liliatan": [
+      {
+        "repo": "Liliatan/Liliatan",
+        "starred_at": "2025-07-06T08:36:54.358209+00:00"
+      }
+    ],
+    "airbai": [
+      {
+        "repo": "airbai/bbq",
+        "starred_at": "2025-07-06T08:36:54.358209+00:00"
+      }
+    ],
+    "EimranEmir3512": [
+      {
+        "repo": "EimranEmir3512/Eimran-",
+        "starred_at": "2025-07-06T08:36:54.358209+00:00"
+      }
+    ],
+    "Foxeye-Rinx": [
+      {
+        "repo": "Foxeye-Rinx/CV",
+        "starred_at": "2025-07-06T08:36:54.358209+00:00"
+      }
+    ],
+    "Pranav-raja": [
+      {
+        "repo": "Pranav-raja/Dark-Pattern-in-ecommerce-website",
+        "starred_at": "2025-07-06T08:36:54.358209+00:00"
+      }
+    ],
+    "artpolosukhin": [
+      {
+        "repo": "artpolosukhin/doctors-tool",
+        "starred_at": "2025-07-06T08:36:54.358209+00:00"
+      }
+    ],
+    "JQ-K": [
+      {
+        "repo": "JQ-K/DjangoBook",
+        "starred_at": "2025-07-06T08:36:54.358209+00:00"
+      }
+    ],
+    "CernuFunk": [
+      {
+        "repo": "CernuFunk/datocms-Gatsby-Portfolio-Website-demo",
+        "starred_at": "2025-07-06T08:36:54.358209+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
