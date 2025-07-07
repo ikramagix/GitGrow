@@ -680,5 +680,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "kimsehwan96": [
+      {
+        "repo": "kimsehwan96/2020-fall-embeded-OS",
+        "starred_at": "2025-07-07T16:43:11.757872+00:00"
+      }
+    ],
+    "madelenfoss": [
+      {
+        "repo": "madelenfoss/frendo-pet-adoption",
+        "starred_at": "2025-07-07T16:43:11.757872+00:00"
+      }
+    ],
+    "kaahila": [
+      {
+        "repo": "kaahila/-water_level_esp",
+        "starred_at": "2025-07-07T16:43:11.757872+00:00"
+      }
+    ],
+    "happyc2001": [
+      {
+        "repo": "happyc2001/BNB-Chain-Zero2Hero-Bootcamp-powered-by-Encode",
+        "starred_at": "2025-07-07T16:43:11.757872+00:00"
+      }
+    ],
+    "NiyaziGumus": [
+      {
+        "repo": "NiyaziGumus/CppExercisesSolutions",
+        "starred_at": "2025-07-07T16:43:11.757872+00:00"
+      }
+    ],
+    "esin": [
+      {
+        "repo": "esin/dris",
+        "starred_at": "2025-07-07T16:43:11.757872+00:00"
+      }
+    ],
+    "EduardoLevy": [
+      {
+        "repo": "EduardoLevy/Fortaleza-FEC",
+        "starred_at": "2025-07-07T16:43:11.757872+00:00"
+      }
+    ],
+    "JDavid17": [
+      {
+        "repo": "JDavid17/CoolCompiler",
+        "starred_at": "2025-07-07T16:43:11.757872+00:00"
+      }
+    ],
+    "dog-trader": [
+      {
+        "repo": "dog-trader/binance-trading-bot",
+        "starred_at": "2025-07-07T16:43:11.757872+00:00"
+      }
+    ]
   }
 }
