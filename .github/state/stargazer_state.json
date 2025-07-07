@@ -702,6 +702,61 @@
       "last_unbalanced_attempt": "2025-07-07T05:41:51.797722+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "minniear": [
+      {
+        "repo": "minniear/github-slideshow",
+        "starred_at": "2025-07-07T08:44:26.609342+00:00"
+      }
+    ],
+    "mihnearad": [
+      {
+        "repo": "mihnearad/BankingInfo-Parse-Script",
+        "starred_at": "2025-07-07T08:44:26.609342+00:00"
+      }
+    ],
+    "sonic-chain": [
+      {
+        "repo": "sonic-chain/sdk-demo",
+        "starred_at": "2025-07-07T08:44:26.609342+00:00"
+      }
+    ],
+    "mmukhanov": [
+      {
+        "repo": "mmukhanov/mitefru",
+        "starred_at": "2025-07-07T08:44:26.609342+00:00"
+      }
+    ],
+    "camillez": [
+      {
+        "repo": "camillez/kenanjun.com",
+        "starred_at": "2025-07-07T08:44:26.609342+00:00"
+      }
+    ],
+    "Ementhia": [
+      {
+        "repo": "Ementhia/mommy-git-commands",
+        "starred_at": "2025-07-07T08:44:26.609342+00:00"
+      }
+    ],
+    "Ereklefullstack": [
+      {
+        "repo": "Ereklefullstack/Excercise-Tracker",
+        "starred_at": "2025-07-07T08:44:26.609342+00:00"
+      }
+    ],
+    "iamxadil": [
+      {
+        "repo": "iamxadil/alwafi",
+        "starred_at": "2025-07-07T08:44:26.609342+00:00"
+      }
+    ],
+    "BiswajeetAtul": [
+      {
+        "repo": "BiswajeetAtul/Datasets",
+        "starred_at": "2025-07-07T08:44:26.609342+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
