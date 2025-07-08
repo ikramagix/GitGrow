@@ -680,5 +680,55 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "sanbiradi": [
+      {
+        "repo": "sanbiradi/airbnb-design",
+        "starred_at": "2025-07-08T16:43:12.496352+00:00"
+      }
+    ],
+    "Foso": [
+      {
+        "repo": "Foso/3Piles",
+        "starred_at": "2025-07-08T16:43:12.496352+00:00"
+      }
+    ],
+    "stpeyyee": [
+      {
+        "repo": "stpeyyee/echarts-react-example",
+        "starred_at": "2025-07-08T16:43:12.496352+00:00"
+      }
+    ],
+    "xiaofandev": [
+      {
+        "repo": "xiaofandev/api-service",
+        "starred_at": "2025-07-08T16:43:12.496352+00:00"
+      }
+    ],
+    "blitzarx1": [
+      {
+        "repo": "blitzarx1/blitzarx1",
+        "starred_at": "2025-07-08T16:43:12.496352+00:00"
+      }
+    ],
+    "eddie-dunn": [
+      {
+        "repo": "eddie-dunn/gitdiff",
+        "starred_at": "2025-07-08T16:43:12.496352+00:00"
+      }
+    ],
+    "goseind": [
+      {
+        "repo": "goseind/ball-schubser",
+        "starred_at": "2025-07-08T16:43:12.496352+00:00"
+      }
+    ],
+    "rhotchkiss": [
+      {
+        "repo": "rhotchkiss/ParquetSharpQuery",
+        "starred_at": "2025-07-08T16:43:12.496352+00:00"
+      }
+    ]
   }
 }
