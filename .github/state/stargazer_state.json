@@ -702,6 +702,61 @@
       "last_unbalanced_attempt": "2025-07-08T05:40:57.695872+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "nthskyradiated": [
+      {
+        "repo": "nthskyradiated/AutoSap",
+        "starred_at": "2025-07-08T08:43:55.564952+00:00"
+      }
+    ],
+    "wolvever": [
+      {
+        "repo": "wolvever/codin",
+        "starred_at": "2025-07-08T08:43:55.564952+00:00"
+      }
+    ],
+    "codigocarvalho": [
+      {
+        "repo": "codigocarvalho/clubhouse",
+        "starred_at": "2025-07-08T08:43:55.564952+00:00"
+      }
+    ],
+    "mihaisavezi": [
+      {
+        "repo": "mihaisavezi/3-js-journey",
+        "starred_at": "2025-07-08T08:43:55.564952+00:00"
+      }
+    ],
+    "zyycode": [
+      {
+        "repo": "zyycode/Android-App-Demo",
+        "starred_at": "2025-07-08T08:43:55.564952+00:00"
+      }
+    ],
+    "caohy1988": [
+      {
+        "repo": "caohy1988/Computational-Probability-and-Inference",
+        "starred_at": "2025-07-08T08:43:55.564952+00:00"
+      }
+    ],
+    "Emirov": [
+      {
+        "repo": "Emirov/Carsales",
+        "starred_at": "2025-07-08T08:43:55.564952+00:00"
+      }
+    ],
+    "Mobinshahidi": [
+      {
+        "repo": "Mobinshahidi/BankNote-flow",
+        "starred_at": "2025-07-08T08:43:55.564952+00:00"
+      }
+    ],
+    "Kofiacheampong": [
+      {
+        "repo": "Kofiacheampong/careers-website-v1",
+        "starred_at": "2025-07-08T08:43:55.564952+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
