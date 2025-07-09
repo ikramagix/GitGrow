@@ -702,6 +702,67 @@
       "last_unbalanced_attempt": "2025-07-09T05:43:42.563239+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "alanpbandeira": [
+      {
+        "repo": "alanpbandeira/DAF-projects",
+        "starred_at": "2025-07-09T08:43:35.554254+00:00"
+      }
+    ],
+    "jdlar1": [
+      {
+        "repo": "jdlar1/caracterizaciones",
+        "starred_at": "2025-07-09T08:43:35.554254+00:00"
+      }
+    ],
+    "linjinhsien": [
+      {
+        "repo": "linjinhsien/0713mvccore",
+        "starred_at": "2025-07-09T08:43:35.554254+00:00"
+      }
+    ],
+    "mahisatyanarayana": [
+      {
+        "repo": "mahisatyanarayana/playwright-3t-license-manager",
+        "starred_at": "2025-07-09T08:43:35.554254+00:00"
+      }
+    ],
+    "hason": [
+      {
+        "repo": "hason/hason",
+        "starred_at": "2025-07-09T08:43:35.554254+00:00"
+      }
+    ],
+    "sanfrecce-osaka": [
+      {
+        "repo": "sanfrecce-osaka/cassini",
+        "starred_at": "2025-07-09T08:43:35.554254+00:00"
+      }
+    ],
+    "issacdchain": [
+      {
+        "repo": "issacdchain/polymer",
+        "starred_at": "2025-07-09T08:43:35.554254+00:00"
+      }
+    ],
+    "obinesto": [
+      {
+        "repo": "obinesto/E-commerce-Backend",
+        "starred_at": "2025-07-09T08:43:35.554254+00:00"
+      }
+    ],
+    "mofumofu3n": [
+      {
+        "repo": "mofumofu3n/anime-tools",
+        "starred_at": "2025-07-09T08:43:35.554254+00:00"
+      }
+    ],
+    "Jasonnor": [
+      {
+        "repo": "Jasonnor/automation-scripts-collection",
+        "starred_at": "2025-07-09T08:43:35.554254+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
