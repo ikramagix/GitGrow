@@ -680,5 +680,49 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "gcanivet": [
+      {
+        "repo": "gcanivet/personal-config",
+        "starred_at": "2025-07-09T16:44:15.385250+00:00"
+      }
+    ],
+    "Flashdaniel": [
+      {
+        "repo": "Flashdaniel/3-column-preview-card-component",
+        "starred_at": "2025-07-09T16:44:15.385250+00:00"
+      }
+    ],
+    "xavysp": [
+      {
+        "repo": "xavysp/BRIND",
+        "starred_at": "2025-07-09T16:44:15.385250+00:00"
+      }
+    ],
+    "spytheman": [
+      {
+        "repo": "spytheman/c-sdl-opengl-examples",
+        "starred_at": "2025-07-09T16:44:15.385250+00:00"
+      }
+    ],
+    "eldhoabe": [
+      {
+        "repo": "eldhoabe/CloudwatchQuery_Exampleles",
+        "starred_at": "2025-07-09T16:44:15.385250+00:00"
+      }
+    ],
+    "dhanuprys": [
+      {
+        "repo": "dhanuprys/antos-microcontroller",
+        "starred_at": "2025-07-09T16:44:15.385250+00:00"
+      }
+    ],
+    "Dqb88": [
+      {
+        "repo": "Dqb88/Dqb88",
+        "starred_at": "2025-07-09T16:44:15.385250+00:00"
+      }
+    ]
   }
 }
