@@ -702,6 +702,61 @@
       "last_unbalanced_attempt": "2025-07-10T05:42:21.226947+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "Create-Peace": [
+      {
+        "repo": "Create-Peace/antv-g-demo",
+        "starred_at": "2025-07-10T08:43:50.705836+00:00"
+      }
+    ],
+    "bart9h": [
+      {
+        "repo": "bart9h/2n",
+        "starred_at": "2025-07-10T08:43:50.705836+00:00"
+      }
+    ],
+    "protago90": [
+      {
+        "repo": "protago90/hacker-quest",
+        "starred_at": "2025-07-10T08:43:50.705836+00:00"
+      }
+    ],
+    "cdubos-fr": [
+      {
+        "repo": "cdubos-fr/cdubos-fr.github.io",
+        "starred_at": "2025-07-10T08:43:50.705836+00:00"
+      }
+    ],
+    "moutinhofuturedev": [
+      {
+        "repo": "moutinhofuturedev/Codigo-Sistema-Financeiro",
+        "starred_at": "2025-07-10T08:43:50.705836+00:00"
+      }
+    ],
+    "feiyu361": [
+      {
+        "repo": "feiyu361/new-tools",
+        "starred_at": "2025-07-10T08:43:50.705836+00:00"
+      }
+    ],
+    "a-patel": [
+      {
+        "repo": "a-patel/angular-labs",
+        "starred_at": "2025-07-10T08:43:50.705836+00:00"
+      }
+    ],
+    "wangshu24": [
+      {
+        "repo": "wangshu24/Cooking-With-React",
+        "starred_at": "2025-07-10T08:43:50.705836+00:00"
+      }
+    ],
+    "danh91": [
+      {
+        "repo": "danh91/danh91",
+        "starred_at": "2025-07-10T08:43:50.705836+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
