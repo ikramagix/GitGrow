@@ -675,5 +675,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "miguelmallquidiaz": [
+      {
+        "repo": "miguelmallquidiaz/api-rest-springboot",
+        "starred_at": "2025-07-10T16:44:35.981116+00:00"
+      }
+    ],
+    "guiara": [
+      {
+        "repo": "guiara/1B_rows",
+        "starred_at": "2025-07-10T16:44:35.981116+00:00"
+      }
+    ],
+    "azizovichteam": [
+      {
+        "repo": "azizovichteam/coding",
+        "starred_at": "2025-07-10T16:44:35.981116+00:00"
+      }
+    ],
+    "FaroukFallahi": [
+      {
+        "repo": "FaroukFallahi/interview-challenges",
+        "starred_at": "2025-07-10T16:44:35.981116+00:00"
+      }
+    ],
+    "senosa": [
+      {
+        "repo": "senosa/dotfiles",
+        "starred_at": "2025-07-10T16:44:35.981116+00:00"
+      }
+    ],
+    "aguennoune": [
+      {
+        "repo": "aguennoune/awesome-rladies-dashboard",
+        "starred_at": "2025-07-10T16:44:35.981116+00:00"
+      }
+    ],
+    "thisnanme": [
+      {
+        "repo": "thisnanme/Imaguard",
+        "starred_at": "2025-07-10T16:44:35.981116+00:00"
+      }
+    ],
+    "mhats99": [
+      {
+        "repo": "mhats99/DediDuplicator",
+        "starred_at": "2025-07-10T16:44:35.981116+00:00"
+      }
+    ],
+    "scherroman": [
+      {
+        "repo": "scherroman/AniWalls",
+        "starred_at": "2025-07-10T16:44:35.981116+00:00"
+      }
+    ]
   }
 }
