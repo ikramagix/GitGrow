@@ -673,5 +673,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "hashier": [
+      {
+        "repo": "hashier/bookmarklets",
+        "starred_at": "2025-07-11T16:42:58.755264+00:00"
+      }
+    ],
+    "Yuicon": [
+      {
+        "repo": "Yuicon/concurrent-programming",
+        "starred_at": "2025-07-11T16:42:58.755264+00:00"
+      }
+    ],
+    "MilenaStepanyan": [
+      {
+        "repo": "MilenaStepanyan/dogsAPI",
+        "starred_at": "2025-07-11T16:42:58.755264+00:00"
+      }
+    ],
+    "oddlyzen": [
+      {
+        "repo": "oddlyzen/clortho",
+        "starred_at": "2025-07-11T16:42:58.755264+00:00"
+      }
+    ],
+    "JoshOohAhhAi": [
+      {
+        "repo": "JoshOohAhhAi/hydrogen-storefront1",
+        "starred_at": "2025-07-11T16:42:58.755264+00:00"
+      }
+    ],
+    "DengpaoHuai": [
+      {
+        "repo": "DengpaoHuai/back-node",
+        "starred_at": "2025-07-11T16:42:58.755264+00:00"
+      }
+    ],
+    "harish0x": [
+      {
+        "repo": "harish0x/arch-sr",
+        "starred_at": "2025-07-11T16:42:58.755264+00:00"
+      }
+    ],
+    "MarcoFekry": [
+      {
+        "repo": "MarcoFekry/External-Directory",
+        "starred_at": "2025-07-11T16:42:58.755264+00:00"
+      }
+    ],
+    "camdowney": [
+      {
+        "repo": "camdowney/media-tracker",
+        "starred_at": "2025-07-11T16:42:58.755264+00:00"
+      }
+    ]
   }
 }
