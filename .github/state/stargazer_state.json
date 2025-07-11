@@ -694,6 +694,61 @@
       "last_unbalanced_attempt": "2025-07-11T05:42:24.769207+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "zediculz": [
+      {
+        "repo": "zediculz/backend",
+        "starred_at": "2025-07-11T08:43:18.024220+00:00"
+      }
+    ],
+    "leoj3n": [
+      {
+        "repo": "leoj3n/cameraambassador.com",
+        "starred_at": "2025-07-11T08:43:18.024220+00:00"
+      }
+    ],
+    "Bek85": [
+      {
+        "repo": "Bek85/arcdevelopment",
+        "starred_at": "2025-07-11T08:43:18.024220+00:00"
+      }
+    ],
+    "yanbo-huang": [
+      {
+        "repo": "yanbo-huang/CS61A",
+        "starred_at": "2025-07-11T08:43:18.024220+00:00"
+      }
+    ],
+    "Codethier": [
+      {
+        "repo": "Codethier/H4N1BadgerScreeps",
+        "starred_at": "2025-07-11T08:43:18.024220+00:00"
+      }
+    ],
+    "danhphan": [
+      {
+        "repo": "danhphan/ApMLPs",
+        "starred_at": "2025-07-11T08:43:18.024220+00:00"
+      }
+    ],
+    "Tharon-C": [
+      {
+        "repo": "Tharon-C/advision",
+        "starred_at": "2025-07-11T08:43:18.024220+00:00"
+      }
+    ],
+    "Sube-py": [
+      {
+        "repo": "Sube-py/Online-Vscode",
+        "starred_at": "2025-07-11T08:43:18.024220+00:00"
+      }
+    ],
+    "Anuragmukati": [
+      {
+        "repo": "Anuragmukati/Anuragmukati",
+        "starred_at": "2025-07-11T08:43:18.024220+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
