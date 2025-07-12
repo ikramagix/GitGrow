@@ -702,6 +702,49 @@
       "last_unbalanced_attempt": "2025-07-12T05:40:02.276374+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "wchisipo": [
+      {
+        "repo": "wchisipo/chisipodesigns",
+        "starred_at": "2025-07-12T08:38:51.068581+00:00"
+      }
+    ],
+    "vishwadeepti": [
+      {
+        "repo": "vishwadeepti/My_Counter",
+        "starred_at": "2025-07-12T08:38:51.068581+00:00"
+      }
+    ],
+    "smuglik": [
+      {
+        "repo": "smuglik/url-shortener-py",
+        "starred_at": "2025-07-12T08:38:51.068581+00:00"
+      }
+    ],
+    "toni-ramchandani": [
+      {
+        "repo": "toni-ramchandani/AIMasterClassTTT",
+        "starred_at": "2025-07-12T08:38:51.068581+00:00"
+      }
+    ],
+    "jvera701": [
+      {
+        "repo": "jvera701/ahmos",
+        "starred_at": "2025-07-12T08:38:51.068581+00:00"
+      }
+    ],
+    "atomwalk12": [
+      {
+        "repo": "atomwalk12/BeyondVisionQA",
+        "starred_at": "2025-07-12T08:38:51.068581+00:00"
+      }
+    ],
+    "biaozy": [
+      {
+        "repo": "biaozy/biaozy",
+        "starred_at": "2025-07-12T08:38:51.068581+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
