@@ -28,6 +28,7 @@
     "coreres1",
     "cornel-cp",
     "criszst",
+    "cvillanue",
     "deepblizzard",
     "develectro",
     "discodot",
@@ -100,8 +101,7 @@
         "yyle88/gormmom",
         "yyle88/formatgo",
         "yyle88/rese"
-      ],
-      "last_unbalanced_attempt": "2025-07-11T19:31:50.955239+00:00"
+      ]
     },
     "KostasSliazas": {
       "starred_by": [
@@ -123,8 +123,7 @@
         "KostasSliazas/todo-app-qr.io",
         "KostasSliazas/project-kitten",
         "KostasSliazas/questions"
-      ],
-      "last_unbalanced_attempt": "2025-07-11T19:31:50.955239+00:00"
+      ]
     },
     "stayupdatedorgetinfected": {
       "starred_by": [
@@ -137,8 +136,7 @@
         "ikramagix/notefleex",
         "ikramagix/Tic_Tac_Toe_IA"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-11T21:31:08.394302+00:00"
+      "starred_back": []
     },
     "elenagalun": {
       "starred_by": [
@@ -158,8 +156,7 @@
         "elenagalun/adroid",
         "elenagalun/elenatest",
         "elenagalun/next"
-      ],
-      "last_unbalanced_attempt": "2025-07-11T19:31:50.955239+00:00"
+      ]
     },
     "elhadjx": {
       "starred_by": [
@@ -189,8 +186,7 @@
         "mikemaz-dev/PomodoroTimer",
         "mikemaz-dev/portfolio-site",
         "mikemaz-dev/next-pizza"
-      ],
-      "last_unbalanced_attempt": "2025-07-11T19:31:50.955239+00:00"
+      ]
     },
     "DelignyS": {
       "starred_by": [
@@ -213,8 +209,7 @@
       ],
       "starred_back": [
         "shravanramv/Java-Swing-GUI-Application"
-      ],
-      "last_unbalanced_attempt": "2025-07-11T19:31:50.955239+00:00"
+      ]
     },
     "JustinFrost47": {
       "starred_by": [
@@ -243,15 +238,19 @@
         "ahnshy/Win32-Resource-Automatic-Translator",
         "ahnshy/Korea-Weather-Dashboard",
         "ahnshy/GitLogService"
-      ],
-      "last_unbalanced_attempt": "2025-07-11T19:31:50.955239+00:00"
+      ]
     },
     "dulanjayabhanu": {
       "starred_by": [
         "ikramagix/Booksy"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-11T19:31:50.955239+00:00"
+      "starred_back": []
+    },
+    "cvillanue": {
+      "starred_by": [
+        "ikramagix/Booksy"
+      ],
+      "starred_back": []
     },
     "sadrax4": {
       "starred_by": [
@@ -264,8 +263,7 @@
         "sadrax4/nestjs-GraphQL",
         "sadrax4/nest-restapi",
         "sadrax4/nestjs-Rabbitmq"
-      ],
-      "last_unbalanced_attempt": "2025-07-11T19:31:50.955239+00:00"
+      ]
     },
     "deepblizzard": {
       "starred_by": [
@@ -279,8 +277,7 @@
         "deepblizzard/adwitya",
         "deepblizzard/deepv",
         "deepblizzard/about"
-      ],
-      "last_unbalanced_attempt": "2025-07-11T19:31:50.955239+00:00"
+      ]
     },
     "JawherKl": {
       "starred_by": [
@@ -292,8 +289,7 @@
       ],
       "starred_back": [
         "JawherKl/design-patterns-in-multiple-languages"
-      ],
-      "last_unbalanced_attempt": "2025-07-11T19:31:50.955239+00:00"
+      ]
     },
     "istarengwa": {
       "starred_by": [
@@ -324,8 +320,7 @@
       ],
       "starred_back": [
         "discodot/discodot"
-      ],
-      "last_unbalanced_attempt": "2025-07-11T21:31:08.394302+00:00"
+      ]
     },
     "cornel-cp": {
       "starred_by": [
@@ -348,8 +343,7 @@
       ],
       "starred_back": [
         "gr33kurious/todoism"
-      ],
-      "last_unbalanced_attempt": "2025-07-11T21:31:08.394302+00:00"
+      ]
     },
     "develectro": {
       "starred_by": [
@@ -372,8 +366,7 @@
         "ikramagix/GitGrow",
         "ikramagix/moodle-local_yeswecanquiz"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-11T19:31:50.955239+00:00"
+      "starred_back": []
     },
     "Meetjain1": {
       "starred_by": [
@@ -491,8 +484,7 @@
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-11T21:31:08.394302+00:00"
+      "starred_back": []
     },
     "Sanskar-Bhushankar": {
       "starred_by": [
@@ -622,22 +614,19 @@
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-11T19:31:50.955239+00:00"
+      "starred_back": []
     },
     "RafalW3bCraft": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-11T19:31:50.955239+00:00"
+      "starred_back": []
     },
     "dmkjfs": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-11T19:31:50.955239+00:00"
+      "starred_back": []
     },
     "pomponchik": {
       "starred_by": [
@@ -659,8 +648,7 @@
       "starred_by": [
         "ikramagix/ikramagix"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-11T19:31:50.955239+00:00"
+      "starred_back": []
     },
     "sins921": {
       "starred_by": [
@@ -690,179 +678,7 @@
       "starred_by": [
         "ikramagix/notefleex"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-11T21:31:08.394302+00:00"
+      "starred_back": []
     }
-  },
-  "growth_starred": {
-    "hashier": [
-      {
-        "repo": "hashier/bookmarklets",
-        "starred_at": "2025-07-11T16:42:58.755264+00:00"
-      }
-    ],
-    "Yuicon": [
-      {
-        "repo": "Yuicon/concurrent-programming",
-        "starred_at": "2025-07-11T16:42:58.755264+00:00"
-      }
-    ],
-    "MilenaStepanyan": [
-      {
-        "repo": "MilenaStepanyan/dogsAPI",
-        "starred_at": "2025-07-11T16:42:58.755264+00:00"
-      }
-    ],
-    "oddlyzen": [
-      {
-        "repo": "oddlyzen/clortho",
-        "starred_at": "2025-07-11T16:42:58.755264+00:00"
-      }
-    ],
-    "JoshOohAhhAi": [
-      {
-        "repo": "JoshOohAhhAi/hydrogen-storefront1",
-        "starred_at": "2025-07-11T16:42:58.755264+00:00"
-      }
-    ],
-    "DengpaoHuai": [
-      {
-        "repo": "DengpaoHuai/back-node",
-        "starred_at": "2025-07-11T16:42:58.755264+00:00"
-      }
-    ],
-    "harish0x": [
-      {
-        "repo": "harish0x/arch-sr",
-        "starred_at": "2025-07-11T16:42:58.755264+00:00"
-      }
-    ],
-    "MarcoFekry": [
-      {
-        "repo": "MarcoFekry/External-Directory",
-        "starred_at": "2025-07-11T16:42:58.755264+00:00"
-      }
-    ],
-    "camdowney": [
-      {
-        "repo": "camdowney/media-tracker",
-        "starred_at": "2025-07-11T16:42:58.755264+00:00"
-      }
-    ],
-    "hassan4702": [
-      {
-        "repo": "hassan4702/backend-Charts",
-        "starred_at": "2025-07-11T23:31:29.188914+00:00"
-      }
-    ],
-    "Lua1403": [
-      {
-        "repo": "Lua1403/Lua1403",
-        "starred_at": "2025-07-11T23:31:29.188914+00:00"
-      }
-    ],
-    "aniket-mish": [
-      {
-        "repo": "aniket-mish/answer-me-tolkien",
-        "starred_at": "2025-07-11T23:31:29.188914+00:00"
-      }
-    ],
-    "Force1ess": [
-      {
-        "repo": "Force1ess/ActionClock",
-        "starred_at": "2025-07-11T23:31:29.188914+00:00"
-      }
-    ],
-    "yano3": [
-      {
-        "repo": "yano3/cws-clocking-cli",
-        "starred_at": "2025-07-11T23:31:29.188914+00:00"
-      }
-    ],
-    "mahnerak": [
-      {
-        "repo": "mahnerak/kaggle-nips-adversarial",
-        "starred_at": "2025-07-11T23:31:29.188914+00:00"
-      }
-    ],
-    "coder-gaia": [
-      {
-        "repo": "coder-gaia/a-sign-in-out-page",
-        "starred_at": "2025-07-11T23:31:29.188914+00:00"
-      }
-    ],
-    "miguelmota": [
-      {
-        "repo": "miguelmota/3box-example",
-        "starred_at": "2025-07-11T23:31:29.188914+00:00"
-      }
-    ],
-    "sharma-pratik": [
-      {
-        "repo": "sharma-pratik/css-selector",
-        "starred_at": "2025-07-11T23:31:29.188914+00:00"
-      }
-    ],
-    "lbdremy": [
-      {
-        "repo": "lbdremy/apa-node-client",
-        "starred_at": "2025-07-11T23:31:29.188914+00:00"
-      }
-    ],
-    "wuling31715": [
-      {
-        "repo": "wuling31715/2018-NCCU-Data-Structure",
-        "starred_at": "2025-07-12T02:27:44.260384+00:00"
-      }
-    ],
-    "rodrigocezarluz": [
-      {
-        "repo": "rodrigocezarluz/Projeto-POO",
-        "starred_at": "2025-07-12T02:27:44.260384+00:00"
-      }
-    ],
-    "tamnguyen2810": [
-      {
-        "repo": "tamnguyen2810/tamnguyen2810",
-        "starred_at": "2025-07-12T02:27:44.260384+00:00"
-      }
-    ],
-    "alexanmtz": [
-      {
-        "repo": "alexanmtz/AIPR-playground",
-        "starred_at": "2025-07-12T02:27:44.260384+00:00"
-      }
-    ],
-    "sangqle": [
-      {
-        "repo": "sangqle/astrovim_config",
-        "starred_at": "2025-07-12T02:27:44.260384+00:00"
-      }
-    ],
-    "valentin0897": [
-      {
-        "repo": "valentin0897/contacts",
-        "starred_at": "2025-07-12T02:27:44.260384+00:00"
-      }
-    ],
-    "samyakkkk": [
-      {
-        "repo": "samyakkkk/friends_album",
-        "starred_at": "2025-07-12T02:27:44.260384+00:00"
-      }
-    ],
-    "bosungpark": [
-      {
-        "repo": "bosungpark/asyncio-python-backend",
-        "starred_at": "2025-07-12T02:27:44.260384+00:00"
-      }
-    ],
-    "kakashy": [
-      {
-        "repo": "kakashy/alx-pre_course",
-        "starred_at": "2025-07-12T02:27:44.260384+00:00"
-      }
-    ]
-  },
-  "unresponsive": {}
+  }
 }
