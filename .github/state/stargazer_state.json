@@ -680,5 +680,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "askarsaparov": [
+      {
+        "repo": "askarsaparov/CustomUserModel",
+        "starred_at": "2025-07-12T16:40:10.960156+00:00"
+      }
+    ],
+    "Calebagoha123": [
+      {
+        "repo": "Calebagoha123/big_tech_stock_eda",
+        "starred_at": "2025-07-12T16:40:10.960156+00:00"
+      }
+    ],
+    "NawfalRAZOUK7": [
+      {
+        "repo": "NawfalRAZOUK7/3-column-preview-card-component-main",
+        "starred_at": "2025-07-12T16:40:10.960156+00:00"
+      }
+    ],
+    "Tadxss": [
+      {
+        "repo": "Tadxss/HackerRank-10DaysOfJavaScript",
+        "starred_at": "2025-07-12T16:40:10.960156+00:00"
+      }
+    ],
+    "hamlim": [
+      {
+        "repo": "hamlim/2025-template-rsc",
+        "starred_at": "2025-07-12T16:40:10.960156+00:00"
+      }
+    ],
+    "saltbo": [
+      {
+        "repo": "saltbo/awesome-stars",
+        "starred_at": "2025-07-12T16:40:10.960156+00:00"
+      }
+    ],
+    "HasnainAli313": [
+      {
+        "repo": "HasnainAli313/authentication-app",
+        "starred_at": "2025-07-12T16:40:10.960156+00:00"
+      }
+    ],
+    "declaudefrancois": [
+      {
+        "repo": "declaudefrancois/alx-zero_day",
+        "starred_at": "2025-07-12T16:40:10.960156+00:00"
+      }
+    ],
+    "eliangcs": [
+      {
+        "repo": "eliangcs/awesome-guides",
+        "starred_at": "2025-07-12T16:40:10.960156+00:00"
+      }
+    ],
+    "aytekinar": [
+      {
+        "repo": "aytekinar/pgconf-nyc-2024",
+        "starred_at": "2025-07-12T16:40:10.960156+00:00"
+      }
+    ]
   }
 }
