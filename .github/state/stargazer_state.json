@@ -710,6 +710,67 @@
       "last_unbalanced_attempt": "2025-07-13T05:40:28.490330+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "baby1194": [
+      {
+        "repo": "baby1194/baby1194.github.io",
+        "starred_at": "2025-07-13T08:38:31.219775+00:00"
+      }
+    ],
+    "faraadi": [
+      {
+        "repo": "faraadi/faraadi",
+        "starred_at": "2025-07-13T08:38:31.219775+00:00"
+      }
+    ],
+    "SvarnimN": [
+      {
+        "repo": "SvarnimN/newa_traditional_extended_m17n",
+        "starred_at": "2025-07-13T08:38:31.219775+00:00"
+      }
+    ],
+    "AmitPanja-2003": [
+      {
+        "repo": "AmitPanja-2003/2211981048",
+        "starred_at": "2025-07-13T08:38:31.219775+00:00"
+      }
+    ],
+    "neal024": [
+      {
+        "repo": "neal024/Okusha",
+        "starred_at": "2025-07-13T08:38:31.219775+00:00"
+      }
+    ],
+    "ajeetmalviya": [
+      {
+        "repo": "ajeetmalviya/interviews",
+        "starred_at": "2025-07-13T08:38:31.219775+00:00"
+      }
+    ],
+    "khazali": [
+      {
+        "repo": "khazali/GeosxIssue",
+        "starred_at": "2025-07-13T08:38:31.219775+00:00"
+      }
+    ],
+    "miracle1103": [
+      {
+        "repo": "miracle1103/easy",
+        "starred_at": "2025-07-13T08:38:31.219775+00:00"
+      }
+    ],
+    "nairgh": [
+      {
+        "repo": "nairgh/Angular17-CRUD",
+        "starred_at": "2025-07-13T08:38:31.219775+00:00"
+      }
+    ],
+    "Deldivoms514": [
+      {
+        "repo": "Deldivoms514/Deldivoms514",
+        "starred_at": "2025-07-13T08:38:31.219775+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
