@@ -689,5 +689,55 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "MastooraTurkmen": [
+      {
+        "repo": "MastooraTurkmen/1.4---overlooked-wrap-up",
+        "starred_at": "2025-07-13T16:39:53.720787+00:00"
+      }
+    ],
+    "catcat0921": [
+      {
+        "repo": "catcat0921/CaiNiaoPrintTool",
+        "starred_at": "2025-07-13T16:39:53.720787+00:00"
+      }
+    ],
+    "JFDu": [
+      {
+        "repo": "JFDu/apex-code-patrol",
+        "starred_at": "2025-07-13T16:39:53.720787+00:00"
+      }
+    ],
+    "pjmawuli": [
+      {
+        "repo": "pjmawuli/C-Breakout",
+        "starred_at": "2025-07-13T16:39:53.720787+00:00"
+      }
+    ],
+    "YasamanJahangard": [
+      {
+        "repo": "YasamanJahangard/Menu-restaurant",
+        "starred_at": "2025-07-13T16:39:53.720787+00:00"
+      }
+    ],
+    "Rabigg": [
+      {
+        "repo": "Rabigg/tictactoe",
+        "starred_at": "2025-07-13T16:39:53.720787+00:00"
+      }
+    ],
+    "saahithjanapati": [
+      {
+        "repo": "saahithjanapati/ai-implementations",
+        "starred_at": "2025-07-13T16:39:53.720787+00:00"
+      }
+    ],
+    "philipsjp26": [
+      {
+        "repo": "philipsjp26/grpc-server",
+        "starred_at": "2025-07-13T16:39:53.720787+00:00"
+      }
+    ]
   }
 }
