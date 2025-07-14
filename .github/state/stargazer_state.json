@@ -711,6 +711,67 @@
       "last_unbalanced_attempt": "2025-07-14T05:44:40.132714+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "ch1booze": [
+      {
+        "repo": "ch1booze/Data-Structures-and-Algorithms",
+        "starred_at": "2025-07-14T08:47:26.069327+00:00"
+      }
+    ],
+    "jpgiago": [
+      {
+        "repo": "jpgiago/gulp-octobercms-stylus",
+        "starred_at": "2025-07-14T08:47:26.069327+00:00"
+      }
+    ],
+    "shadyosama9": [
+      {
+        "repo": "shadyosama9/CIDR-Alignment-Logic",
+        "starred_at": "2025-07-14T08:47:26.069327+00:00"
+      }
+    ],
+    "ArthurAsenheimer": [
+      {
+        "repo": "ArthurAsenheimer/streamlit-demo",
+        "starred_at": "2025-07-14T08:47:26.069327+00:00"
+      }
+    ],
+    "mfmarcoferrero": [
+      {
+        "repo": "mfmarcoferrero/finfit",
+        "starred_at": "2025-07-14T08:47:26.069327+00:00"
+      }
+    ],
+    "carlosssdev": [
+      {
+        "repo": "carlosssdev/carlosssdev",
+        "starred_at": "2025-07-14T08:47:26.069327+00:00"
+      }
+    ],
+    "robsonpeixoto": [
+      {
+        "repo": "robsonpeixoto/airflow-dags",
+        "starred_at": "2025-07-14T08:47:26.069327+00:00"
+      }
+    ],
+    "mateogal": [
+      {
+        "repo": "mateogal/mateogal",
+        "starred_at": "2025-07-14T08:47:26.069327+00:00"
+      }
+    ],
+    "cassioestevao": [
+      {
+        "repo": "cassioestevao/barbearia",
+        "starred_at": "2025-07-14T08:47:26.069327+00:00"
+      }
+    ],
+    "sorairolake": [
+      {
+        "repo": "sorairolake/7z-rs",
+        "starred_at": "2025-07-14T08:47:26.069327+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
