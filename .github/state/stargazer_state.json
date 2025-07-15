@@ -711,6 +711,67 @@
       "last_unbalanced_attempt": "2025-07-15T05:44:17.188171+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "ankitgoyal126": [
+      {
+        "repo": "ankitgoyal126/Ankit-Goyal",
+        "starred_at": "2025-07-15T08:44:52.378321+00:00"
+      }
+    ],
+    "brean": [
+      {
+        "repo": "brean/39c3_robots_in_space",
+        "starred_at": "2025-07-15T08:44:52.378321+00:00"
+      }
+    ],
+    "jvillegasd": [
+      {
+        "repo": "jvillegasd/animeGo",
+        "starred_at": "2025-07-15T08:44:52.378321+00:00"
+      }
+    ],
+    "israr96418": [
+      {
+        "repo": "israr96418/20_python_project",
+        "starred_at": "2025-07-15T08:44:52.378321+00:00"
+      }
+    ],
+    "C4ptainCrunch": [
+      {
+        "repo": "C4ptainCrunch/ballmer-peak-challenge",
+        "starred_at": "2025-07-15T08:44:52.378321+00:00"
+      }
+    ],
+    "Atul9": [
+      {
+        "repo": "Atul9/ang_typeahead",
+        "starred_at": "2025-07-15T08:44:52.378321+00:00"
+      }
+    ],
+    "SimranKKamboj": [
+      {
+        "repo": "SimranKKamboj/SimranKKamboj",
+        "starred_at": "2025-07-15T08:44:52.378321+00:00"
+      }
+    ],
+    "guiboava": [
+      {
+        "repo": "guiboava/beeCrowd",
+        "starred_at": "2025-07-15T08:44:52.378321+00:00"
+      }
+    ],
+    "ryy197340": [
+      {
+        "repo": "ryy197340/firestoreDB_export_node",
+        "starred_at": "2025-07-15T08:44:52.378321+00:00"
+      }
+    ],
+    "FourneauxThibaut": [
+      {
+        "repo": "FourneauxThibaut/ajax-simple-web-service-request",
+        "starred_at": "2025-07-15T08:44:52.378321+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
