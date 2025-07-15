@@ -689,5 +689,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "faustomiceli": [
+      {
+        "repo": "faustomiceli/static-boilerplate",
+        "starred_at": "2025-07-15T16:44:30.034544+00:00"
+      }
+    ],
+    "Cihan-KARA-hub": [
+      {
+        "repo": "Cihan-KARA-hub/Cihan-KARA-hub",
+        "starred_at": "2025-07-15T16:44:30.034544+00:00"
+      }
+    ],
+    "ahad30": [
+      {
+        "repo": "ahad30/9am_Auth_Task",
+        "starred_at": "2025-07-15T16:44:30.034544+00:00"
+      }
+    ],
+    "AdicherlaVenkataSai": [
+      {
+        "repo": "AdicherlaVenkataSai/AdicherlaVenkataSai",
+        "starred_at": "2025-07-15T16:44:30.034544+00:00"
+      }
+    ],
+    "juansgomez87": [
+      {
+        "repo": "juansgomez87/a-challenge",
+        "starred_at": "2025-07-15T16:44:30.034544+00:00"
+      }
+    ],
+    "aqua0906": [
+      {
+        "repo": "aqua0906/FreeTalk",
+        "starred_at": "2025-07-15T16:44:30.034544+00:00"
+      }
+    ],
+    "kamalu-chioma": [
+      {
+        "repo": "kamalu-chioma/A-B-Testing",
+        "starred_at": "2025-07-15T16:44:30.034544+00:00"
+      }
+    ],
+    "stever": [
+      {
+        "repo": "stever/bintap",
+        "starred_at": "2025-07-15T16:44:30.034544+00:00"
+      }
+    ],
+    "LINDEX171": [
+      {
+        "repo": "LINDEX171/api-crud",
+        "starred_at": "2025-07-15T16:44:30.034544+00:00"
+      }
+    ]
   }
 }
