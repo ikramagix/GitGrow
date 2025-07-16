@@ -696,5 +696,55 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "makeding": [
+      {
+        "repo": "makeding/api-mitmer",
+        "starred_at": "2025-07-16T16:45:02.677719+00:00"
+      }
+    ],
+    "cruatta": [
+      {
+        "repo": "cruatta/awesome-dl",
+        "starred_at": "2025-07-16T16:45:02.677719+00:00"
+      }
+    ],
+    "joanna-janos": [
+      {
+        "repo": "joanna-janos/GestureRecognizer",
+        "starred_at": "2025-07-16T16:45:02.677719+00:00"
+      }
+    ],
+    "MADS1974": [
+      {
+        "repo": "MADS1974/-Configurando-Recursos-e-Dimensionamentos-em-M-quinas-Virtuais-na-Azure",
+        "starred_at": "2025-07-16T16:45:02.677719+00:00"
+      }
+    ],
+    "CY-18": [
+      {
+        "repo": "CY-18/CY-18.github.io",
+        "starred_at": "2025-07-16T16:45:02.677719+00:00"
+      }
+    ],
+    "JihadZaidan": [
+      {
+        "repo": "JihadZaidan/Arduino-Basics",
+        "starred_at": "2025-07-16T16:45:02.677719+00:00"
+      }
+    ],
+    "maruguMo": [
+      {
+        "repo": "maruguMo/book-notes",
+        "starred_at": "2025-07-16T16:45:02.677719+00:00"
+      }
+    ],
+    "Abbasi393": [
+      {
+        "repo": "Abbasi393/data_model_mixins",
+        "starred_at": "2025-07-16T16:45:02.677719+00:00"
+      }
+    ]
   }
 }
