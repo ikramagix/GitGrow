@@ -712,6 +712,55 @@
       "last_unbalanced_attempt": "2025-07-16T05:45:28.311777+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "BlueBigThink": [
+      {
+        "repo": "BlueBigThink/Atlas-Minging-React-Tailwind",
+        "starred_at": "2025-07-16T08:44:38.816475+00:00"
+      }
+    ],
+    "Gabriel96Caceres": [
+      {
+        "repo": "Gabriel96Caceres/Gabriel96Caceres",
+        "starred_at": "2025-07-16T08:44:38.816475+00:00"
+      }
+    ],
+    "H3lllfir3": [
+      {
+        "repo": "H3lllfir3/haproxy-cookbook",
+        "starred_at": "2025-07-16T08:44:38.816475+00:00"
+      }
+    ],
+    "honbin": [
+      {
+        "repo": "honbin/dotfiles",
+        "starred_at": "2025-07-16T08:44:38.816475+00:00"
+      }
+    ],
+    "AldowadSimanjuntak": [
+      {
+        "repo": "AldowadSimanjuntak/API-Endpoint-Personalized-Profile-Picture",
+        "starred_at": "2025-07-16T08:44:38.816475+00:00"
+      }
+    ],
+    "fijogeorgek": [
+      {
+        "repo": "fijogeorgek/justussecondevent",
+        "starred_at": "2025-07-16T08:44:38.816475+00:00"
+      }
+    ],
+    "messi18": [
+      {
+        "repo": "messi18/blogs",
+        "starred_at": "2025-07-16T08:44:38.816475+00:00"
+      }
+    ],
+    "surjikal": [
+      {
+        "repo": "surjikal/css-custom-filter-sandbox",
+        "starred_at": "2025-07-16T08:44:38.816475+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
