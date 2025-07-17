@@ -696,5 +696,55 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "antropova": [
+      {
+        "repo": "antropova/blog",
+        "starred_at": "2025-07-17T16:44:34.606061+00:00"
+      }
+    ],
+    "jez143": [
+      {
+        "repo": "jez143/jez143",
+        "starred_at": "2025-07-17T16:44:34.606061+00:00"
+      }
+    ],
+    "Guga-Nascimento": [
+      {
+        "repo": "Guga-Nascimento/app.mata.mosca.github.io",
+        "starred_at": "2025-07-17T16:44:34.606061+00:00"
+      }
+    ],
+    "do4k": [
+      {
+        "repo": "do4k/Acorn",
+        "starred_at": "2025-07-17T16:44:34.606061+00:00"
+      }
+    ],
+    "mostafax": [
+      {
+        "repo": "mostafax/Assembly-Sduko-Frist-Task",
+        "starred_at": "2025-07-17T16:44:34.606061+00:00"
+      }
+    ],
+    "jiguangmac": [
+      {
+        "repo": "jiguangmac/myvimconfig",
+        "starred_at": "2025-07-17T16:44:34.606061+00:00"
+      }
+    ],
+    "CihanHarmanoglu": [
+      {
+        "repo": "CihanHarmanoglu/CihanHarmanoglu",
+        "starred_at": "2025-07-17T16:44:34.606061+00:00"
+      }
+    ],
+    "Murtuza-Ahmed": [
+      {
+        "repo": "Murtuza-Ahmed/cisco-web-page",
+        "starred_at": "2025-07-17T16:44:34.606061+00:00"
+      }
+    ]
   }
 }
