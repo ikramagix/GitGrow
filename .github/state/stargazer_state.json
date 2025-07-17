@@ -719,6 +719,61 @@
       "last_unbalanced_attempt": "2025-07-17T05:44:46.254141+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "joker911": [
+      {
+        "repo": "joker911/gitskills",
+        "starred_at": "2025-07-17T08:44:40.044727+00:00"
+      }
+    ],
+    "MrZhang123": [
+      {
+        "repo": "MrZhang123/hexo-theme-SpecLumn",
+        "starred_at": "2025-07-17T08:44:40.044727+00:00"
+      }
+    ],
+    "BorjanKalinoski": [
+      {
+        "repo": "BorjanKalinoski/AlarmClock",
+        "starred_at": "2025-07-17T08:44:40.044727+00:00"
+      }
+    ],
+    "chetangold": [
+      {
+        "repo": "chetangold/chetan",
+        "starred_at": "2025-07-17T08:44:40.044727+00:00"
+      }
+    ],
+    "CcccGit": [
+      {
+        "repo": "CcccGit/Demo_1",
+        "starred_at": "2025-07-17T08:44:40.044727+00:00"
+      }
+    ],
+    "Anzuanas": [
+      {
+        "repo": "Anzuanas/API-for-Ecommerce",
+        "starred_at": "2025-07-17T08:44:40.044727+00:00"
+      }
+    ],
+    "Efeckc17": [
+      {
+        "repo": "Efeckc17/EduCollector",
+        "starred_at": "2025-07-17T08:44:40.044727+00:00"
+      }
+    ],
+    "erdenekhuu-bot": [
+      {
+        "repo": "erdenekhuu-bot/admin-panel",
+        "starred_at": "2025-07-17T08:44:40.044727+00:00"
+      }
+    ],
+    "KoakiMiku": [
+      {
+        "repo": "KoakiMiku/NvidiaKeeper",
+        "starred_at": "2025-07-17T08:44:40.044727+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
