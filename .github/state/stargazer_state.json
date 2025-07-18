@@ -719,6 +719,61 @@
       "last_unbalanced_attempt": "2025-07-18T05:45:41.642465+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "mortalBro": [
+      {
+        "repo": "mortalBro/calculator-js",
+        "starred_at": "2025-07-18T08:44:50.868090+00:00"
+      }
+    ],
+    "sb-child": [
+      {
+        "repo": "sb-child/ads1298-rs",
+        "starred_at": "2025-07-18T08:44:50.868090+00:00"
+      }
+    ],
+    "follow-qiao": [
+      {
+        "repo": "follow-qiao/ele",
+        "starred_at": "2025-07-18T08:44:50.868090+00:00"
+      }
+    ],
+    "delwaterman": [
+      {
+        "repo": "delwaterman/cheat_or_share",
+        "starred_at": "2025-07-18T08:44:50.868090+00:00"
+      }
+    ],
+    "Elbagoury": [
+      {
+        "repo": "Elbagoury/ASQL-Tuebingen",
+        "starred_at": "2025-07-18T08:44:50.868090+00:00"
+      }
+    ],
+    "LeeKLTW": [
+      {
+        "repo": "LeeKLTW/aiml_practice",
+        "starred_at": "2025-07-18T08:44:50.868090+00:00"
+      }
+    ],
+    "gonzaloacosta": [
+      {
+        "repo": "gonzaloacosta/argocd-production",
+        "starred_at": "2025-07-18T08:44:50.868090+00:00"
+      }
+    ],
+    "fulyaertay": [
+      {
+        "repo": "fulyaertay/advanced-javascript-projects",
+        "starred_at": "2025-07-18T08:44:50.868090+00:00"
+      }
+    ],
+    "Akinsa": [
+      {
+        "repo": "Akinsa/node33",
+        "starred_at": "2025-07-18T08:44:50.868090+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
