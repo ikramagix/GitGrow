@@ -696,5 +696,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "davidrunger": [
+      {
+        "repo": "davidrunger/david_runger",
+        "starred_at": "2025-07-18T16:44:57.130635+00:00"
+      }
+    ],
+    "RZ7272": [
+      {
+        "repo": "RZ7272/RZ7272",
+        "starred_at": "2025-07-18T16:44:57.130635+00:00"
+      }
+    ],
+    "punishermortal": [
+      {
+        "repo": "punishermortal/bot-for-slack",
+        "starred_at": "2025-07-18T16:44:57.130635+00:00"
+      }
+    ],
+    "lutoma": [
+      {
+        "repo": "lutoma/autopeer",
+        "starred_at": "2025-07-18T16:44:57.130635+00:00"
+      }
+    ],
+    "eljog": [
+      {
+        "repo": "eljog/agileboard",
+        "starred_at": "2025-07-18T16:44:57.130635+00:00"
+      }
+    ],
+    "MILANBHADARKA": [
+      {
+        "repo": "MILANBHADARKA/climatopia",
+        "starred_at": "2025-07-18T16:44:57.130635+00:00"
+      }
+    ],
+    "Pactortester": [
+      {
+        "repo": "Pactortester/CoordinatorLayout",
+        "starred_at": "2025-07-18T16:44:57.130635+00:00"
+      }
+    ],
+    "lonelydev": [
+      {
+        "repo": "lonelydev/AddressProcessor",
+        "starred_at": "2025-07-18T16:44:57.130635+00:00"
+      }
+    ],
+    "meynardtrinidad": [
+      {
+        "repo": "meynardtrinidad/box-box",
+        "starred_at": "2025-07-18T16:44:57.130635+00:00"
+      }
+    ]
   }
 }
