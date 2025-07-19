@@ -703,5 +703,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "Kaif10": [
+      {
+        "repo": "Kaif10/Action-Recognition-in-Videos",
+        "starred_at": "2025-07-19T16:41:21.484527+00:00"
+      }
+    ],
+    "yusefellban": [
+      {
+        "repo": "yusefellban/Card-selection-game",
+        "starred_at": "2025-07-19T16:41:21.484527+00:00"
+      }
+    ],
+    "agranado2k": [
+      {
+        "repo": "agranado2k/agranado2k.github.io",
+        "starred_at": "2025-07-19T16:41:21.484527+00:00"
+      }
+    ],
+    "AbhishekPatnaik": [
+      {
+        "repo": "AbhishekPatnaik/breast-cancer-datases-prediction",
+        "starred_at": "2025-07-19T16:41:21.484527+00:00"
+      }
+    ],
+    "ajju-1209": [
+      {
+        "repo": "ajju-1209/ajju-1209",
+        "starred_at": "2025-07-19T16:41:21.484527+00:00"
+      }
+    ],
+    "kalashluvr": [
+      {
+        "repo": "kalashluvr/kalashluvr",
+        "starred_at": "2025-07-19T16:41:21.484527+00:00"
+      }
+    ],
+    "VanessaB063013": [
+      {
+        "repo": "VanessaB063013/ArrayList",
+        "starred_at": "2025-07-19T16:41:21.484527+00:00"
+      }
+    ],
+    "brk-cn": [
+      {
+        "repo": "brk-cn/fcc-exercise-tracker",
+        "starred_at": "2025-07-19T16:41:21.484527+00:00"
+      }
+    ],
+    "chiel99": [
+      {
+        "repo": "chiel99/ExperienceProtobuf",
+        "starred_at": "2025-07-19T16:41:21.484527+00:00"
+      }
+    ],
+    "mortonfox": [
+      {
+        "repo": "mortonfox/captive-portal-test",
+        "starred_at": "2025-07-19T16:41:21.484527+00:00"
+      }
+    ]
   }
 }
