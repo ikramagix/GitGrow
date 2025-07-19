@@ -727,6 +727,55 @@
       "last_unbalanced_attempt": "2025-07-19T05:41:15.897506+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "guilhermedom": [
+      {
+        "repo": "guilhermedom/adaline-celsius-to-fahrenheit",
+        "starred_at": "2025-07-19T08:41:09.967089+00:00"
+      }
+    ],
+    "sagar-subedi": [
+      {
+        "repo": "sagar-subedi/angular-proj",
+        "starred_at": "2025-07-19T08:41:09.967089+00:00"
+      }
+    ],
+    "paulo846": [
+      {
+        "repo": "paulo846/Codes-WordPress",
+        "starred_at": "2025-07-19T08:41:09.967089+00:00"
+      }
+    ],
+    "sitoto": [
+      {
+        "repo": "sitoto/80pei",
+        "starred_at": "2025-07-19T08:41:09.967089+00:00"
+      }
+    ],
+    "yalaudah": [
+      {
+        "repo": "yalaudah/clever_gtc_coherence",
+        "starred_at": "2025-07-19T08:41:09.967089+00:00"
+      }
+    ],
+    "macutko": [
+      {
+        "repo": "macutko/dissertation_evaluation",
+        "starred_at": "2025-07-19T08:41:09.967089+00:00"
+      }
+    ],
+    "maxime-hanicotte": [
+      {
+        "repo": "maxime-hanicotte/HannaH",
+        "starred_at": "2025-07-19T08:41:09.967089+00:00"
+      }
+    ],
+    "taowaaCool": [
+      {
+        "repo": "taowaaCool/awesome-python3-webapp",
+        "starred_at": "2025-07-19T08:41:09.967089+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
