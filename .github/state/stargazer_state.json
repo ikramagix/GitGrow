@@ -735,6 +735,61 @@
       "last_unbalanced_attempt": "2025-07-20T05:44:24.764703+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "tenmark86": [
+      {
+        "repo": "tenmark86/AirBnB_clone_v4",
+        "starred_at": "2025-07-20T08:40:25.040878+00:00"
+      }
+    ],
+    "naumanmustafa16": [
+      {
+        "repo": "naumanmustafa16/binary_search_tree",
+        "starred_at": "2025-07-20T08:40:25.040878+00:00"
+      }
+    ],
+    "christopherdeutsch": [
+      {
+        "repo": "christopherdeutsch/bulkpr",
+        "starred_at": "2025-07-20T08:40:25.040878+00:00"
+      }
+    ],
+    "LusenoK": [
+      {
+        "repo": "LusenoK/basketball-data-analysis",
+        "starred_at": "2025-07-20T08:40:25.040878+00:00"
+      }
+    ],
+    "karthikbhyresh": [
+      {
+        "repo": "karthikbhyresh/CropSeer-python-master",
+        "starred_at": "2025-07-20T08:40:25.040878+00:00"
+      }
+    ],
+    "DataGentelman": [
+      {
+        "repo": "DataGentelman/SQL-database-for-a-dry-fruit-distributor",
+        "starred_at": "2025-07-20T08:40:25.040878+00:00"
+      }
+    ],
+    "karanganesh43": [
+      {
+        "repo": "karanganesh43/etch-a-sketch",
+        "starred_at": "2025-07-20T08:40:25.040878+00:00"
+      }
+    ],
+    "masonlee0622": [
+      {
+        "repo": "masonlee0622/masonlee0622",
+        "starred_at": "2025-07-20T08:40:25.040878+00:00"
+      }
+    ],
+    "vincejv": [
+      {
+        "repo": "vincejv/counter-app",
+        "starred_at": "2025-07-20T08:40:25.040878+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
