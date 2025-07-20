@@ -19,6 +19,7 @@
     "KostasSliazas",
     "MaxMorais",
     "Meetjain1",
+    "NickScherbakov",
     "PayasPandey11",
     "RafalW3bCraft",
     "Sanskar-Bhushankar",
@@ -70,6 +71,12 @@
   "mutual_stars": {},
   "unstargazers": [],
   "reciprocity": {
+    "NickScherbakov": {
+      "starred_by": [
+        "ikramagix/allgreektome_password_generator_template"
+      ],
+      "starred_back": []
+    },
     "masechkacat": {
       "starred_by": [
         "ikramagix/Allo_Chiner",
@@ -105,8 +112,7 @@
         "yyle88/gormmom",
         "yyle88/formatgo",
         "yyle88/rese"
-      ],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      ]
     },
     "KostasSliazas": {
       "starred_by": [
@@ -128,8 +134,7 @@
         "KostasSliazas/todo-app-qr.io",
         "KostasSliazas/project-kitten",
         "KostasSliazas/questions"
-      ],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      ]
     },
     "stayupdatedorgetinfected": {
       "starred_by": [
@@ -142,8 +147,7 @@
         "ikramagix/notefleex",
         "ikramagix/Tic_Tac_Toe_IA"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      "starred_back": []
     },
     "elenagalun": {
       "starred_by": [
@@ -163,8 +167,7 @@
         "elenagalun/adroid",
         "elenagalun/elenatest",
         "elenagalun/next"
-      ],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      ]
     },
     "elhadjx": {
       "starred_by": [
@@ -194,8 +197,7 @@
         "mikemaz-dev/PomodoroTimer",
         "mikemaz-dev/portfolio-site",
         "mikemaz-dev/next-pizza"
-      ],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      ]
     },
     "DelignyS": {
       "starred_by": [
@@ -218,8 +220,7 @@
       ],
       "starred_back": [
         "shravanramv/Java-Swing-GUI-Application"
-      ],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      ]
     },
     "JustinFrost47": {
       "starred_by": [
@@ -248,22 +249,19 @@
         "ahnshy/Win32-Resource-Automatic-Translator",
         "ahnshy/Korea-Weather-Dashboard",
         "ahnshy/GitLogService"
-      ],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      ]
     },
     "dulanjayabhanu": {
       "starred_by": [
         "ikramagix/Booksy"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      "starred_back": []
     },
     "cvillanue": {
       "starred_by": [
         "ikramagix/Booksy"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      "starred_back": []
     },
     "sadrax4": {
       "starred_by": [
@@ -276,8 +274,7 @@
         "sadrax4/nestjs-GraphQL",
         "sadrax4/nest-restapi",
         "sadrax4/nestjs-Rabbitmq"
-      ],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      ]
     },
     "deepblizzard": {
       "starred_by": [
@@ -291,8 +288,7 @@
         "deepblizzard/adwitya",
         "deepblizzard/deepv",
         "deepblizzard/about"
-      ],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      ]
     },
     "JawherKl": {
       "starred_by": [
@@ -304,8 +300,7 @@
       ],
       "starred_back": [
         "JawherKl/design-patterns-in-multiple-languages"
-      ],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      ]
     },
     "istarengwa": {
       "starred_by": [
@@ -336,8 +331,7 @@
       ],
       "starred_back": [
         "discodot/discodot"
-      ],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      ]
     },
     "cornel-cp": {
       "starred_by": [
@@ -360,8 +354,7 @@
       ],
       "starred_back": [
         "gr33kurious/todoism"
-      ],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      ]
     },
     "develectro": {
       "starred_by": [
@@ -384,8 +377,7 @@
         "ikramagix/GitGrow",
         "ikramagix/moodle-local_yeswecanquiz"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      "starred_back": []
     },
     "Meetjain1": {
       "starred_by": [
@@ -503,8 +495,7 @@
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      "starred_back": []
     },
     "Sanskar-Bhushankar": {
       "starred_by": [
@@ -634,22 +625,19 @@
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      "starred_back": []
     },
     "RafalW3bCraft": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      "starred_back": []
     },
     "dmkjfs": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      "starred_back": []
     },
     "pomponchik": {
       "starred_by": [
@@ -671,22 +659,19 @@
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      "starred_back": []
     },
     "DaniilBaida": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      "starred_back": []
     },
     "Almas-Ali": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      "starred_back": []
     },
     "GylanSalih": {
       "starred_by": [
@@ -700,8 +685,7 @@
       "starred_by": [
         "ikramagix/ikramagix"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      "starred_back": []
     },
     "sins921": {
       "starred_by": [
@@ -731,65 +715,7 @@
       "starred_by": [
         "ikramagix/notefleex"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-07-20T11:31:16.033957+00:00"
+      "starred_back": []
     }
-  },
-  "growth_starred": {
-    "tenmark86": [
-      {
-        "repo": "tenmark86/AirBnB_clone_v4",
-        "starred_at": "2025-07-20T08:40:25.040878+00:00"
-      }
-    ],
-    "naumanmustafa16": [
-      {
-        "repo": "naumanmustafa16/binary_search_tree",
-        "starred_at": "2025-07-20T08:40:25.040878+00:00"
-      }
-    ],
-    "christopherdeutsch": [
-      {
-        "repo": "christopherdeutsch/bulkpr",
-        "starred_at": "2025-07-20T08:40:25.040878+00:00"
-      }
-    ],
-    "LusenoK": [
-      {
-        "repo": "LusenoK/basketball-data-analysis",
-        "starred_at": "2025-07-20T08:40:25.040878+00:00"
-      }
-    ],
-    "karthikbhyresh": [
-      {
-        "repo": "karthikbhyresh/CropSeer-python-master",
-        "starred_at": "2025-07-20T08:40:25.040878+00:00"
-      }
-    ],
-    "DataGentelman": [
-      {
-        "repo": "DataGentelman/SQL-database-for-a-dry-fruit-distributor",
-        "starred_at": "2025-07-20T08:40:25.040878+00:00"
-      }
-    ],
-    "karanganesh43": [
-      {
-        "repo": "karanganesh43/etch-a-sketch",
-        "starred_at": "2025-07-20T08:40:25.040878+00:00"
-      }
-    ],
-    "masonlee0622": [
-      {
-        "repo": "masonlee0622/masonlee0622",
-        "starred_at": "2025-07-20T08:40:25.040878+00:00"
-      }
-    ],
-    "vincejv": [
-      {
-        "repo": "vincejv/counter-app",
-        "starred_at": "2025-07-20T08:40:25.040878+00:00"
-      }
-    ]
-  },
-  "unresponsive": {}
+  }
 }
