@@ -717,5 +717,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "nico-fleitas-caputi": [
+      {
+        "repo": "nico-fleitas-caputi/wordfinder-qubeyond-challenge",
+        "starred_at": "2025-07-20T16:41:06.483679+00:00"
+      }
+    ],
+    "Ser-Gen": [
+      {
+        "repo": "Ser-Gen/dgi-search",
+        "starred_at": "2025-07-20T16:41:06.483679+00:00"
+      }
+    ],
+    "ilhamjaya08": [
+      {
+        "repo": "ilhamjaya08/android-calculator",
+        "starred_at": "2025-07-20T16:41:06.483679+00:00"
+      }
+    ],
+    "andresprogramacion123": [
+      {
+        "repo": "andresprogramacion123/fullstack-template",
+        "starred_at": "2025-07-20T16:41:06.483679+00:00"
+      }
+    ],
+    "gippo05": [
+      {
+        "repo": "gippo05/Blackjack-Game",
+        "starred_at": "2025-07-20T16:41:06.483679+00:00"
+      }
+    ],
+    "codebryo": [
+      {
+        "repo": "codebryo/code-examples",
+        "starred_at": "2025-07-20T16:41:06.483679+00:00"
+      }
+    ],
+    "intersectRaven": [
+      {
+        "repo": "intersectRaven/arch-linux",
+        "starred_at": "2025-07-20T16:41:06.483679+00:00"
+      }
+    ],
+    "Kevin-benjamin": [
+      {
+        "repo": "Kevin-benjamin/Kevin-benjamin",
+        "starred_at": "2025-07-20T16:41:06.483679+00:00"
+      }
+    ],
+    "Friz-zy": [
+      {
+        "repo": "Friz-zy/ansible-aws-elasticsearch",
+        "starred_at": "2025-07-20T16:41:06.483679+00:00"
+      }
+    ]
   }
 }
