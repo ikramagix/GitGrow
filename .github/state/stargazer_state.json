@@ -724,5 +724,55 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "Codingtrick0": [
+      {
+        "repo": "Codingtrick0/Animated-Button",
+        "starred_at": "2025-07-21T16:45:32.766954+00:00"
+      }
+    ],
+    "Sathiyapramod": [
+      {
+        "repo": "Sathiyapramod/caching",
+        "starred_at": "2025-07-21T16:45:32.766954+00:00"
+      }
+    ],
+    "silverstein": [
+      {
+        "repo": "silverstein/naics-code-lookup",
+        "starred_at": "2025-07-21T16:45:32.766954+00:00"
+      }
+    ],
+    "crisconru": [
+      {
+        "repo": "crisconru/blui",
+        "starred_at": "2025-07-21T16:45:32.766954+00:00"
+      }
+    ],
+    "itsjihunpark": [
+      {
+        "repo": "itsjihunpark/Backend-Django",
+        "starred_at": "2025-07-21T16:45:32.766954+00:00"
+      }
+    ],
+    "DE1M0S": [
+      {
+        "repo": "DE1M0S/ibkr-tax-reporter",
+        "starred_at": "2025-07-21T16:45:32.766954+00:00"
+      }
+    ],
+    "schmidt-software": [
+      {
+        "repo": "schmidt-software/canteensuite",
+        "starred_at": "2025-07-21T16:45:32.766954+00:00"
+      }
+    ],
+    "aryan-salemababdi": [
+      {
+        "repo": "aryan-salemababdi/aryan-salemababdi",
+        "starred_at": "2025-07-21T16:45:32.766954+00:00"
+      }
+    ]
   }
 }
