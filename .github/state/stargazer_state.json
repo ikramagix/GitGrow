@@ -751,6 +751,61 @@
       "last_unbalanced_attempt": "2025-07-21T05:46:15.739917+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "esadkibar": [
+      {
+        "repo": "esadkibar/bond-index",
+        "starred_at": "2025-07-21T08:48:03.182216+00:00"
+      }
+    ],
+    "mikong": [
+      {
+        "repo": "mikong/bitreserve",
+        "starred_at": "2025-07-21T08:48:03.182216+00:00"
+      }
+    ],
+    "AnushangaWimalasena": [
+      {
+        "repo": "AnushangaWimalasena/Dental-Project",
+        "starred_at": "2025-07-21T08:48:03.182216+00:00"
+      }
+    ],
+    "daltonmatos": [
+      {
+        "repo": "daltonmatos/arduino-pong",
+        "starred_at": "2025-07-21T08:48:03.182216+00:00"
+      }
+    ],
+    "chanmya13C": [
+      {
+        "repo": "chanmya13C/coupon",
+        "starred_at": "2025-07-21T08:48:03.182216+00:00"
+      }
+    ],
+    "ElliotChong": [
+      {
+        "repo": "ElliotChong/full-throttle",
+        "starred_at": "2025-07-21T08:48:03.182216+00:00"
+      }
+    ],
+    "Only-to-top": [
+      {
+        "repo": "Only-to-top/3D-on-hover",
+        "starred_at": "2025-07-21T08:48:03.182216+00:00"
+      }
+    ],
+    "gchongo": [
+      {
+        "repo": "gchongo/gchongo.github.io",
+        "starred_at": "2025-07-21T08:48:03.182216+00:00"
+      }
+    ],
+    "Jen-create336": [
+      {
+        "repo": "Jen-create336/BEREDI-WEBSITE",
+        "starred_at": "2025-07-21T08:48:03.182216+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
