@@ -751,6 +751,61 @@
       "last_unbalanced_attempt": "2025-07-22T05:44:56.186841+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "Mizaeldouglas": [
+      {
+        "repo": "Mizaeldouglas/100DaysOfSwift",
+        "starred_at": "2025-07-22T08:45:15.300144+00:00"
+      }
+    ],
+    "pankajkoti": [
+      {
+        "repo": "pankajkoti/data-lake-with-spark",
+        "starred_at": "2025-07-22T08:45:15.300144+00:00"
+      }
+    ],
+    "alexvhicks": [
+      {
+        "repo": "alexvhicks/time-tracker",
+        "starred_at": "2025-07-22T08:45:15.300144+00:00"
+      }
+    ],
+    "baterson": [
+      {
+        "repo": "baterson/battle-city-typescript-multiplayer",
+        "starred_at": "2025-07-22T08:45:15.300144+00:00"
+      }
+    ],
+    "purple-mustache": [
+      {
+        "repo": "purple-mustache/airflow-projects",
+        "starred_at": "2025-07-22T08:45:15.300144+00:00"
+      }
+    ],
+    "lllerena2": [
+      {
+        "repo": "lllerena2/analitica-computacional",
+        "starred_at": "2025-07-22T08:45:15.300144+00:00"
+      }
+    ],
+    "tomelam": [
+      {
+        "repo": "tomelam/clone_of_biwascheme.org",
+        "starred_at": "2025-07-22T08:45:15.300144+00:00"
+      }
+    ],
+    "DeanThompson": [
+      {
+        "repo": "DeanThompson/hugo-blogs",
+        "starred_at": "2025-07-22T08:45:15.300144+00:00"
+      }
+    ],
+    "Alex222222222222": [
+      {
+        "repo": "Alex222222222222/AppOcr",
+        "starred_at": "2025-07-22T08:45:15.300144+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
