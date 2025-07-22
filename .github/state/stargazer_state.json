@@ -724,5 +724,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "hard-coders": [
+      {
+        "repo": "hard-coders/fastcampusapi",
+        "starred_at": "2025-07-22T16:45:35.619762+00:00"
+      }
+    ],
+    "2bj": [
+      {
+        "repo": "2bj/chemistry-template",
+        "starred_at": "2025-07-22T16:45:35.619762+00:00"
+      }
+    ],
+    "enomado": [
+      {
+        "repo": "enomado/baraholka-chipmaker",
+        "starred_at": "2025-07-22T16:45:35.619762+00:00"
+      }
+    ],
+    "Rouzip": [
+      {
+        "repo": "Rouzip/Calculator",
+        "starred_at": "2025-07-22T16:45:35.619762+00:00"
+      }
+    ],
+    "NBK-01": [
+      {
+        "repo": "NBK-01/clox-lang",
+        "starred_at": "2025-07-22T16:45:35.619762+00:00"
+      }
+    ],
+    "sunnysingh2003": [
+      {
+        "repo": "sunnysingh2003/s.com",
+        "starred_at": "2025-07-22T16:45:35.619762+00:00"
+      }
+    ],
+    "ttgzs": [
+      {
+        "repo": "ttgzs/iecserver",
+        "starred_at": "2025-07-22T16:45:35.619762+00:00"
+      }
+    ],
+    "zihao-cpu": [
+      {
+        "repo": "zihao-cpu/10-Books-on-Data-Science-Data-Analysis",
+        "starred_at": "2025-07-22T16:45:35.619762+00:00"
+      }
+    ],
+    "Larovitchhh": [
+      {
+        "repo": "Larovitchhh/-TALENT-token-on-Base-Network",
+        "starred_at": "2025-07-22T16:45:35.619762+00:00"
+      }
+    ],
+    "fahmiaziz98": [
+      {
+        "repo": "fahmiaziz98/ad-generator",
+        "starred_at": "2025-07-22T16:45:35.619762+00:00"
+      }
+    ]
   }
 }
