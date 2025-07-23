@@ -752,6 +752,67 @@
       "last_unbalanced_attempt": "2025-07-23T05:47:42.397618+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "gitDbits": [
+      {
+        "repo": "gitDbits/blog_noronha",
+        "starred_at": "2025-07-23T08:46:09.358211+00:00"
+      }
+    ],
+    "WswSummer": [
+      {
+        "repo": "WswSummer/community",
+        "starred_at": "2025-07-23T08:46:09.358211+00:00"
+      }
+    ],
+    "JulienGrv": [
+      {
+        "repo": "JulienGrv/awesome-python-qt",
+        "starred_at": "2025-07-23T08:46:09.358211+00:00"
+      }
+    ],
+    "yogeshmishra667": [
+      {
+        "repo": "yogeshmishra667/basic-jest-testing",
+        "starred_at": "2025-07-23T08:46:09.358211+00:00"
+      }
+    ],
+    "JasonLee2024": [
+      {
+        "repo": "JasonLee2024/skills-copilot-codespaces-vscode",
+        "starred_at": "2025-07-23T08:46:09.358211+00:00"
+      }
+    ],
+    "mohammadhasanii": [
+      {
+        "repo": "mohammadhasanii/Ada-Client",
+        "starred_at": "2025-07-23T08:46:09.358211+00:00"
+      }
+    ],
+    "Durga222-regmi": [
+      {
+        "repo": "Durga222-regmi/growing_brain",
+        "starred_at": "2025-07-23T08:46:09.358211+00:00"
+      }
+    ],
+    "Kelier": [
+      {
+        "repo": "Kelier/blog",
+        "starred_at": "2025-07-23T08:46:09.358211+00:00"
+      }
+    ],
+    "wtracy": [
+      {
+        "repo": "wtracy/bob",
+        "starred_at": "2025-07-23T08:46:09.358211+00:00"
+      }
+    ],
+    "nhathann": [
+      {
+        "repo": "nhathann/introduction-to-github",
+        "starred_at": "2025-07-23T08:46:09.358211+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
