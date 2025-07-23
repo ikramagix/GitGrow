@@ -722,5 +722,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "katherinekhine": [
+      {
+        "repo": "katherinekhine/advance-php-crud",
+        "starred_at": "2025-07-23T16:45:57.815888+00:00"
+      }
+    ],
+    "Betoso99": [
+      {
+        "repo": "Betoso99/Ahorcado_Python",
+        "starred_at": "2025-07-23T16:45:57.815888+00:00"
+      }
+    ],
+    "sinoon": [
+      {
+        "repo": "sinoon/1990",
+        "starred_at": "2025-07-23T16:45:57.815888+00:00"
+      }
+    ],
+    "yash623623": [
+      {
+        "repo": "yash623623/18CSE301J_RA2011003010314",
+        "starred_at": "2025-07-23T16:45:57.815888+00:00"
+      }
+    ],
+    "jthorniley": [
+      {
+        "repo": "jthorniley/clock",
+        "starred_at": "2025-07-23T16:45:57.815888+00:00"
+      }
+    ],
+    "NathanyuTW": [
+      {
+        "repo": "NathanyuTW/nathan.sublime",
+        "starred_at": "2025-07-23T16:45:57.815888+00:00"
+      }
+    ],
+    "Regitempus": [
+      {
+        "repo": "Regitempus/hello-blockstack",
+        "starred_at": "2025-07-23T16:45:57.815888+00:00"
+      }
+    ],
+    "janaSunrise": [
+      {
+        "repo": "janaSunrise/2d-platformer-game-godot",
+        "starred_at": "2025-07-23T16:45:57.815888+00:00"
+      }
+    ],
+    "init-esh": [
+      {
+        "repo": "init-esh/github-slideshow",
+        "starred_at": "2025-07-23T16:45:57.815888+00:00"
+      }
+    ],
+    "boyGooner98": [
+      {
+        "repo": "boyGooner98/chained_devs",
+        "starred_at": "2025-07-23T16:45:57.815888+00:00"
+      }
+    ]
   }
 }
