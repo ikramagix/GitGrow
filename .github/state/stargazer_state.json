@@ -749,6 +749,55 @@
       "last_unbalanced_attempt": "2025-07-24T05:45:14.882915+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "RichardLitt": [
+      {
+        "repo": "RichardLitt/2018-may",
+        "starred_at": "2025-07-24T08:45:29.662591+00:00"
+      }
+    ],
+    "akanksha007": [
+      {
+        "repo": "akanksha007/akanksha007.github.io",
+        "starred_at": "2025-07-24T08:45:29.662591+00:00"
+      }
+    ],
+    "ngomaf": [
+      {
+        "repo": "ngomaf/aversiculo",
+        "starred_at": "2025-07-24T08:45:29.662591+00:00"
+      }
+    ],
+    "blankwz": [
+      {
+        "repo": "blankwz/blankwz.github.io",
+        "starred_at": "2025-07-24T08:45:29.662591+00:00"
+      }
+    ],
+    "ZaikoXander": [
+      {
+        "repo": "ZaikoXander/amnesia",
+        "starred_at": "2025-07-24T08:45:29.662591+00:00"
+      }
+    ],
+    "bfc782": [
+      {
+        "repo": "bfc782/dashlytic",
+        "starred_at": "2025-07-24T08:45:29.662591+00:00"
+      }
+    ],
+    "sss4920": [
+      {
+        "repo": "sss4920/aws_test",
+        "starred_at": "2025-07-24T08:45:29.662591+00:00"
+      }
+    ],
+    "tolgahanozdemir7": [
+      {
+        "repo": "tolgahanozdemir7/Colab_ikarus_train_100_epoch",
+        "starred_at": "2025-07-24T08:45:29.662591+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
