@@ -743,6 +743,61 @@
       "last_unbalanced_attempt": "2025-07-25T05:47:27.221895+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "zfogg": [
+      {
+        "repo": "zfogg/address_filterer",
+        "starred_at": "2025-07-25T08:44:16.780103+00:00"
+      }
+    ],
+    "li-ziang": [
+      {
+        "repo": "li-ziang/-.cpp",
+        "starred_at": "2025-07-25T08:44:16.780103+00:00"
+      }
+    ],
+    "wadood42": [
+      {
+        "repo": "wadood42/accounts",
+        "starred_at": "2025-07-25T08:44:16.780103+00:00"
+      }
+    ],
+    "xtyxtyx": [
+      {
+        "repo": "xtyxtyx/arango-dart",
+        "starred_at": "2025-07-25T08:44:16.780103+00:00"
+      }
+    ],
+    "Kyle772": [
+      {
+        "repo": "Kyle772/Bishopi",
+        "starred_at": "2025-07-25T08:44:16.780103+00:00"
+      }
+    ],
+    "BrayanOB2003": [
+      {
+        "repo": "BrayanOB2003/BrayanOB2003",
+        "starred_at": "2025-07-25T08:44:16.780103+00:00"
+      }
+    ],
+    "rakibulHasan64": [
+      {
+        "repo": "rakibulHasan64/Book-Vibe",
+        "starred_at": "2025-07-25T08:44:16.780103+00:00"
+      }
+    ],
+    "bipinrajbhar": [
+      {
+        "repo": "bipinrajbhar/fem-fd-service",
+        "starred_at": "2025-07-25T08:44:16.780103+00:00"
+      }
+    ],
+    "Stool233": [
+      {
+        "repo": "Stool233/assembly-on-macos",
+        "starred_at": "2025-07-25T08:44:16.780103+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
