@@ -713,5 +713,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "orgamiryazdani": [
+      {
+        "repo": "orgamiryazdani/blog-app",
+        "starred_at": "2025-07-25T16:44:08.230816+00:00"
+      }
+    ],
+    "conich10": [
+      {
+        "repo": "conich10/comshot",
+        "starred_at": "2025-07-25T16:44:08.230816+00:00"
+      }
+    ],
+    "leocnj": [
+      {
+        "repo": "leocnj/amtvideos_rating",
+        "starred_at": "2025-07-25T16:44:08.230816+00:00"
+      }
+    ],
+    "FranciscoDitutala": [
+      {
+        "repo": "FranciscoDitutala/ecommerce-nextjs",
+        "starred_at": "2025-07-25T16:44:08.230816+00:00"
+      }
+    ],
+    "yasulab": [
+      {
+        "repo": "yasulab/aiit_final",
+        "starred_at": "2025-07-25T16:44:08.230816+00:00"
+      }
+    ],
+    "Miksus": [
+      {
+        "repo": "Miksus/Fimod",
+        "starred_at": "2025-07-25T16:44:08.230816+00:00"
+      }
+    ],
+    "mayankpal100": [
+      {
+        "repo": "mayankpal100/bucle",
+        "starred_at": "2025-07-25T16:44:08.230816+00:00"
+      }
+    ],
+    "rodneyazev": [
+      {
+        "repo": "rodneyazev/ansible-terraform-dockerbuild-qa-vagrant-lambda-others",
+        "starred_at": "2025-07-25T16:44:08.230816+00:00"
+      }
+    ],
+    "fakiot": [
+      {
+        "repo": "fakiot/go-grpc-downgrade",
+        "starred_at": "2025-07-25T16:44:08.230816+00:00"
+      }
+    ],
+    "passionatedev724": [
+      {
+        "repo": "passionatedev724/passionatedev724",
+        "starred_at": "2025-07-25T16:44:08.230816+00:00"
+      }
+    ]
   }
 }
