@@ -722,5 +722,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "snoozer05": [
+      {
+        "repo": "snoozer05/backbone-tiny-example",
+        "starred_at": "2025-07-26T16:42:45.716604+00:00"
+      }
+    ],
+    "victorrpt22": [
+      {
+        "repo": "victorrpt22/Calificar-Cursos",
+        "starred_at": "2025-07-26T16:42:45.716604+00:00"
+      }
+    ],
+    "AiroPi": [
+      {
+        "repo": "AiroPi/adh7",
+        "starred_at": "2025-07-26T16:42:45.716604+00:00"
+      }
+    ],
+    "sn": [
+      {
+        "repo": "sn/passw",
+        "starred_at": "2025-07-26T16:42:45.716604+00:00"
+      }
+    ],
+    "frankkode": [
+      {
+        "repo": "frankkode/band-project",
+        "starred_at": "2025-07-26T16:42:45.716604+00:00"
+      }
+    ],
+    "ne-sachirou": [
+      {
+        "repo": "ne-sachirou/Airi_design_prototype",
+        "starred_at": "2025-07-26T16:42:45.716604+00:00"
+      }
+    ],
+    "stuzero": [
+      {
+        "repo": "stuzero/pg-mcp-server",
+        "starred_at": "2025-07-26T16:42:45.716604+00:00"
+      }
+    ],
+    "F0XEG": [
+      {
+        "repo": "F0XEG/F0XEG",
+        "starred_at": "2025-07-26T16:42:45.716604+00:00"
+      }
+    ],
+    "j4mesim": [
+      {
+        "repo": "j4mesim/asynced",
+        "starred_at": "2025-07-26T16:42:45.716604+00:00"
+      }
+    ],
+    "YunussEmree": [
+      {
+        "repo": "YunussEmree/Calculator",
+        "starred_at": "2025-07-26T16:42:45.716604+00:00"
+      }
+    ]
   }
 }
