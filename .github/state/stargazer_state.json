@@ -741,6 +741,55 @@
       "last_unbalanced_attempt": "2025-07-26T05:42:40.965406+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "spalas": [
+      {
+        "repo": "spalas/appwriteBlog",
+        "starred_at": "2025-07-26T08:41:00.009334+00:00"
+      }
+    ],
+    "internetxangel": [
+      {
+        "repo": "internetxangel/internetxangel",
+        "starred_at": "2025-07-26T08:41:00.009334+00:00"
+      }
+    ],
+    "oggo": [
+      {
+        "repo": "oggo/Flask-Testing",
+        "starred_at": "2025-07-26T08:41:00.009334+00:00"
+      }
+    ],
+    "omarkhatibco": [
+      {
+        "repo": "omarkhatibco/adonis-nextjs-starter",
+        "starred_at": "2025-07-26T08:41:00.009334+00:00"
+      }
+    ],
+    "perade": [
+      {
+        "repo": "perade/blog",
+        "starred_at": "2025-07-26T08:41:00.009334+00:00"
+      }
+    ],
+    "koyama777wataru": [
+      {
+        "repo": "koyama777wataru/meta_ruby",
+        "starred_at": "2025-07-26T08:41:00.009334+00:00"
+      }
+    ],
+    "mirontoli": [
+      {
+        "repo": "mirontoli/android-dialer",
+        "starred_at": "2025-07-26T08:41:00.009334+00:00"
+      }
+    ],
+    "issammani": [
+      {
+        "repo": "issammani/css-grid",
+        "starred_at": "2025-07-26T08:41:00.009334+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
