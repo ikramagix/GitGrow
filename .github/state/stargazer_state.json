@@ -751,6 +751,61 @@
       "last_unbalanced_attempt": "2025-07-27T05:44:49.050476+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "echoface": [
+      {
+        "repo": "echoface/artemis",
+        "starred_at": "2025-07-27T08:41:18.390530+00:00"
+      }
+    ],
+    "andreisena": [
+      {
+        "repo": "andreisena/resize-photos",
+        "starred_at": "2025-07-27T08:41:18.390530+00:00"
+      }
+    ],
+    "Ravi-Dahiya-00": [
+      {
+        "repo": "Ravi-Dahiya-00/event-managment",
+        "starred_at": "2025-07-27T08:41:18.390530+00:00"
+      }
+    ],
+    "mustela": [
+      {
+        "repo": "mustela/blog",
+        "starred_at": "2025-07-27T08:41:18.390530+00:00"
+      }
+    ],
+    "andreikhromushin": [
+      {
+        "repo": "andreikhromushin/BurgerRestaurantLandingLayout",
+        "starred_at": "2025-07-27T08:41:18.390530+00:00"
+      }
+    ],
+    "ziel5122": [
+      {
+        "repo": "ziel5122/AccidentPrediction",
+        "starred_at": "2025-07-27T08:41:18.390530+00:00"
+      }
+    ],
+    "leonardofhy": [
+      {
+        "repo": "leonardofhy/leonardofhy.github.io",
+        "starred_at": "2025-07-27T08:41:18.390530+00:00"
+      }
+    ],
+    "Muthumaniraj26": [
+      {
+        "repo": "Muthumaniraj26/aiagent_langchain_ollama",
+        "starred_at": "2025-07-27T08:41:18.390530+00:00"
+      }
+    ],
+    "Tuhinb37": [
+      {
+        "repo": "Tuhinb37/tictactoe",
+        "starred_at": "2025-07-27T08:41:18.390530+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
