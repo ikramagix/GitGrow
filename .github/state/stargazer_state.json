@@ -729,5 +729,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "paladinescamila": [
+      {
+        "repo": "paladinescamila/Assigment-2-PP",
+        "starred_at": "2025-07-27T16:41:48.276134+00:00"
+      }
+    ],
+    "Salies": [
+      {
+        "repo": "Salies/album-chart",
+        "starred_at": "2025-07-27T16:41:48.276134+00:00"
+      }
+    ],
+    "Kleybrink": [
+      {
+        "repo": "Kleybrink/PyScriptAggregator",
+        "starred_at": "2025-07-27T16:41:48.276134+00:00"
+      }
+    ],
+    "jose-cisco": [
+      {
+        "repo": "jose-cisco/Automated-Essay-Scoring-2.0",
+        "starred_at": "2025-07-27T16:41:48.276134+00:00"
+      }
+    ],
+    "zbrukas": [
+      {
+        "repo": "zbrukas/hypercite-demo",
+        "starred_at": "2025-07-27T16:41:48.276134+00:00"
+      }
+    ],
+    "abhinow01": [
+      {
+        "repo": "abhinow01/3d-portfolio",
+        "starred_at": "2025-07-27T16:41:48.276134+00:00"
+      }
+    ],
+    "robertpotts": [
+      {
+        "repo": "robertpotts/simple-node",
+        "starred_at": "2025-07-27T16:41:48.276134+00:00"
+      }
+    ],
+    "lemonardo1": [
+      {
+        "repo": "lemonardo1/blog2",
+        "starred_at": "2025-07-27T16:41:48.276134+00:00"
+      }
+    ],
+    "boertel": [
+      {
+        "repo": "boertel/aoe2",
+        "starred_at": "2025-07-27T16:41:48.276134+00:00"
+      }
+    ],
+    "markguo": [
+      {
+        "repo": "markguo/benguo.github.io",
+        "starred_at": "2025-07-27T16:41:48.276134+00:00"
+      }
+    ]
   }
 }
