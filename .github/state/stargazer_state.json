@@ -729,5 +729,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "cangur": [
+      {
+        "repo": "cangur/AndroidMaps",
+        "starred_at": "2025-07-28T16:46:08.628054+00:00"
+      }
+    ],
+    "Ugarz": [
+      {
+        "repo": "Ugarz/blockchain",
+        "starred_at": "2025-07-28T16:46:08.628054+00:00"
+      }
+    ],
+    "timsonner": [
+      {
+        "repo": "timsonner/admin-powershell",
+        "starred_at": "2025-07-28T16:46:08.628054+00:00"
+      }
+    ],
+    "RaZer": [
+      {
+        "repo": "RaZer/dotfiles",
+        "starred_at": "2025-07-28T16:46:08.628054+00:00"
+      }
+    ],
+    "Doniben": [
+      {
+        "repo": "Doniben/0x01-shell_permissions",
+        "starred_at": "2025-07-28T16:46:08.628054+00:00"
+      }
+    ],
+    "aabdygaziev": [
+      {
+        "repo": "aabdygaziev/cats_and_dogs",
+        "starred_at": "2025-07-28T16:46:08.628054+00:00"
+      }
+    ],
+    "huaming422": [
+      {
+        "repo": "huaming422/Akashi-Landing",
+        "starred_at": "2025-07-28T16:46:08.628054+00:00"
+      }
+    ],
+    "kimman8": [
+      {
+        "repo": "kimman8/august-landing",
+        "starred_at": "2025-07-28T16:46:08.628054+00:00"
+      }
+    ],
+    "trkaydn": [
+      {
+        "repo": "trkaydn/AskanOtoLastik",
+        "starred_at": "2025-07-28T16:46:08.628054+00:00"
+      }
+    ],
+    "davidnguyen11": [
+      {
+        "repo": "davidnguyen11/app-wrapper",
+        "starred_at": "2025-07-28T16:46:08.628054+00:00"
+      }
+    ]
   }
 }
