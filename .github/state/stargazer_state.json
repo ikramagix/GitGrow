@@ -759,6 +759,55 @@
       "last_unbalanced_attempt": "2025-07-28T05:47:14.462928+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "lakshan190": [
+      {
+        "repo": "lakshan190/cli-tool",
+        "starred_at": "2025-07-28T08:46:54.475143+00:00"
+      }
+    ],
+    "sselvamani22": [
+      {
+        "repo": "sselvamani22/capybara-select2",
+        "starred_at": "2025-07-28T08:46:54.475143+00:00"
+      }
+    ],
+    "ApprenticeAlex": [
+      {
+        "repo": "ApprenticeAlex/Aula-1-pratica-fds.uninter",
+        "starred_at": "2025-07-28T08:46:54.475143+00:00"
+      }
+    ],
+    "DuaneScheepersWebDeveloper": [
+      {
+        "repo": "DuaneScheepersWebDeveloper/A-Password-Generator",
+        "starred_at": "2025-07-28T08:46:54.475143+00:00"
+      }
+    ],
+    "KerollosMelad": [
+      {
+        "repo": "KerollosMelad/Angular-8-Routing",
+        "starred_at": "2025-07-28T08:46:54.475143+00:00"
+      }
+    ],
+    "wildheart": [
+      {
+        "repo": "wildheart/curl-api-cheat-sheet",
+        "starred_at": "2025-07-28T08:46:54.475143+00:00"
+      }
+    ],
+    "jcquevedo84": [
+      {
+        "repo": "jcquevedo84/challenge-for-Software-Engineer-position",
+        "starred_at": "2025-07-28T08:46:54.475143+00:00"
+      }
+    ],
+    "usama1095854": [
+      {
+        "repo": "usama1095854/casinous-online-html",
+        "starred_at": "2025-07-28T08:46:54.475143+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
