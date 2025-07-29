@@ -759,6 +759,55 @@
       "last_unbalanced_attempt": "2025-07-29T05:47:22.031250+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "AllanazarovMadiyorbek": [
+      {
+        "repo": "AllanazarovMadiyorbek/django_blog",
+        "starred_at": "2025-07-29T08:47:36.737906+00:00"
+      }
+    ],
+    "lapc506": [
+      {
+        "repo": "lapc506/Game-Of-Life",
+        "starred_at": "2025-07-29T08:47:36.737906+00:00"
+      }
+    ],
+    "Rickybaguio": [
+      {
+        "repo": "Rickybaguio/Numeral-number",
+        "starred_at": "2025-07-29T08:47:36.737906+00:00"
+      }
+    ],
+    "atharva-lipare": [
+      {
+        "repo": "atharva-lipare/algorithms-part1-princeton-coursera",
+        "starred_at": "2025-07-29T08:47:36.737906+00:00"
+      }
+    ],
+    "NathanAlmeida2006": [
+      {
+        "repo": "NathanAlmeida2006/Agenda",
+        "starred_at": "2025-07-29T08:47:36.737906+00:00"
+      }
+    ],
+    "snguyxn": [
+      {
+        "repo": "snguyxn/snguyxn",
+        "starred_at": "2025-07-29T08:47:36.737906+00:00"
+      }
+    ],
+    "manuganji": [
+      {
+        "repo": "manuganji/freelancer-flask-template",
+        "starred_at": "2025-07-29T08:47:36.737906+00:00"
+      }
+    ],
+    "Freeskier": [
+      {
+        "repo": "Freeskier/BattleshipGame",
+        "starred_at": "2025-07-29T08:47:36.737906+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
