@@ -729,5 +729,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "nifgraup": [
+      {
+        "repo": "nifgraup/hunspell-is",
+        "starred_at": "2025-07-29T16:45:49.865005+00:00"
+      }
+    ],
+    "alanbasilio": [
+      {
+        "repo": "alanbasilio/mathler-arcade",
+        "starred_at": "2025-07-29T16:45:49.865005+00:00"
+      }
+    ],
+    "sufiancodes": [
+      {
+        "repo": "sufiancodes/caesar-cipher",
+        "starred_at": "2025-07-29T16:45:49.865005+00:00"
+      }
+    ],
+    "jdes01": [
+      {
+        "repo": "jdes01/cowrent",
+        "starred_at": "2025-07-29T16:45:49.865005+00:00"
+      }
+    ],
+    "Hari-hara7": [
+      {
+        "repo": "Hari-hara7/Academic-pal",
+        "starred_at": "2025-07-29T16:45:49.865005+00:00"
+      }
+    ],
+    "nathanielburman": [
+      {
+        "repo": "nathanielburman/app-donate-to-me",
+        "starred_at": "2025-07-29T16:45:49.865005+00:00"
+      }
+    ],
+    "Murraysims": [
+      {
+        "repo": "Murraysims/General-Manager-",
+        "starred_at": "2025-07-29T16:45:49.865005+00:00"
+      }
+    ],
+    "alan-alvarenga-telus": [
+      {
+        "repo": "alan-alvarenga-telus/DeployDashboardServer",
+        "starred_at": "2025-07-29T16:45:49.865005+00:00"
+      }
+    ],
+    "pepawel": [
+      {
+        "repo": "pepawel/etherbat",
+        "starred_at": "2025-07-29T16:45:49.865005+00:00"
+      }
+    ],
+    "simoneCavana": [
+      {
+        "repo": "simoneCavana/Ecommerce",
+        "starred_at": "2025-07-29T16:45:49.865005+00:00"
+      }
+    ]
   }
 }
