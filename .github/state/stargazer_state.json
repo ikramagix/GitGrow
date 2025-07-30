@@ -737,5 +737,55 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "sam99s": [
+      {
+        "repo": "sam99s/ApiRestFullCoderhouse",
+        "starred_at": "2025-07-30T16:44:19.546104+00:00"
+      }
+    ],
+    "Tanner": [
+      {
+        "repo": "Tanner/Blog",
+        "starred_at": "2025-07-30T16:44:19.546104+00:00"
+      }
+    ],
+    "chanmoto": [
+      {
+        "repo": "chanmoto/brock_crush",
+        "starred_at": "2025-07-30T16:44:19.546104+00:00"
+      }
+    ],
+    "sople1": [
+      {
+        "repo": "sople1/bung_calc",
+        "starred_at": "2025-07-30T16:44:19.546104+00:00"
+      }
+    ],
+    "4ndrs": [
+      {
+        "repo": "4ndrs/4ndrs",
+        "starred_at": "2025-07-30T16:44:19.546104+00:00"
+      }
+    ],
+    "Sheikh-talha01": [
+      {
+        "repo": "Sheikh-talha01/Datasets",
+        "starred_at": "2025-07-30T16:44:19.546104+00:00"
+      }
+    ],
+    "krugovvitalij": [
+      {
+        "repo": "krugovvitalij/krugovvitalij",
+        "starred_at": "2025-07-30T16:44:19.546104+00:00"
+      }
+    ],
+    "eltonoliver": [
+      {
+        "repo": "eltonoliver/ambientacao",
+        "starred_at": "2025-07-30T16:44:19.546104+00:00"
+      }
+    ]
   }
 }
