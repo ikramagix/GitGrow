@@ -768,6 +768,61 @@
       "last_unbalanced_attempt": "2025-07-30T05:48:59.011083+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "yosiat": [
+      {
+        "repo": "yosiat/git_commits_rewriter",
+        "starred_at": "2025-07-30T08:46:21.772879+00:00"
+      }
+    ],
+    "gregynard": [
+      {
+        "repo": "gregynard/database.py",
+        "starred_at": "2025-07-30T08:46:21.772879+00:00"
+      }
+    ],
+    "mfs": [
+      {
+        "repo": "mfs/aoc",
+        "starred_at": "2025-07-30T08:46:21.772879+00:00"
+      }
+    ],
+    "wxnderer": [
+      {
+        "repo": "wxnderer/beeware-import-java-sample",
+        "starred_at": "2025-07-30T08:46:21.772879+00:00"
+      }
+    ],
+    "Sayam753": [
+      {
+        "repo": "Sayam753/abms_project",
+        "starred_at": "2025-07-30T08:46:21.772879+00:00"
+      }
+    ],
+    "samcastroca": [
+      {
+        "repo": "samcastroca/crud_libros",
+        "starred_at": "2025-07-30T08:46:21.772879+00:00"
+      }
+    ],
+    "onepisYa": [
+      {
+        "repo": "onepisYa/el_table_package",
+        "starred_at": "2025-07-30T08:46:21.772879+00:00"
+      }
+    ],
+    "jodhernandezbe": [
+      {
+        "repo": "jodhernandezbe/django-specialization-coursera",
+        "starred_at": "2025-07-30T08:46:21.772879+00:00"
+      }
+    ],
+    "pinak1180": [
+      {
+        "repo": "pinak1180/angular-scafoldq",
+        "starred_at": "2025-07-30T08:46:21.772879+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
