@@ -768,6 +768,49 @@
       "last_unbalanced_attempt": "2025-07-31T05:47:16.101865+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "AdrianOlivaV": [
+      {
+        "repo": "AdrianOlivaV/-Ejercicio---Mi-casa",
+        "starred_at": "2025-07-31T08:45:56.546693+00:00"
+      }
+    ],
+    "8905096423": [
+      {
+        "repo": "8905096423/CGPA-calculator",
+        "starred_at": "2025-07-31T08:45:56.546693+00:00"
+      }
+    ],
+    "lanrion": [
+      {
+        "repo": "lanrion/baotour",
+        "starred_at": "2025-07-31T08:45:56.546693+00:00"
+      }
+    ],
+    "neurodrone": [
+      {
+        "repo": "neurodrone/aws-sqs",
+        "starred_at": "2025-07-31T08:45:56.546693+00:00"
+      }
+    ],
+    "GabriielOps": [
+      {
+        "repo": "GabriielOps/banco-terminal",
+        "starred_at": "2025-07-31T08:45:56.546693+00:00"
+      }
+    ],
+    "carlosbrando": [
+      {
+        "repo": "carlosbrando/c-skeleton",
+        "starred_at": "2025-07-31T08:45:56.546693+00:00"
+      }
+    ],
+    "huyenph": [
+      {
+        "repo": "huyenph/Android_Jetpack",
+        "starred_at": "2025-07-31T08:45:56.546693+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
