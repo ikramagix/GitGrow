@@ -744,5 +744,55 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "worldtravel": [
+      {
+        "repo": "worldtravel/empty_project",
+        "starred_at": "2025-07-31T16:45:54.967714+00:00"
+      }
+    ],
+    "DiegoAmaxmandro": [
+      {
+        "repo": "DiegoAmaxmandro/clone-tabnews",
+        "starred_at": "2025-07-31T16:45:54.967714+00:00"
+      }
+    ],
+    "muzichen": [
+      {
+        "repo": "muzichen/CZM-light-box",
+        "starred_at": "2025-07-31T16:45:54.967714+00:00"
+      }
+    ],
+    "SadeghPouriyanZadeh": [
+      {
+        "repo": "SadeghPouriyanZadeh/dev-env-setup",
+        "starred_at": "2025-07-31T16:45:54.967714+00:00"
+      }
+    ],
+    "tunght2005": [
+      {
+        "repo": "tunght2005/CNPM-PJ-FINAL",
+        "starred_at": "2025-07-31T16:45:54.967714+00:00"
+      }
+    ],
+    "nynganini": [
+      {
+        "repo": "nynganini/AndroidDevChallenge",
+        "starred_at": "2025-07-31T16:45:54.967714+00:00"
+      }
+    ],
+    "cgourlaouen": [
+      {
+        "repo": "cgourlaouen/LLM-Agents-Hackathon",
+        "starred_at": "2025-07-31T16:45:54.967714+00:00"
+      }
+    ],
+    "vassilevsky": [
+      {
+        "repo": "vassilevsky/4sq73",
+        "starred_at": "2025-07-31T16:45:54.967714+00:00"
+      }
+    ]
   }
 }
