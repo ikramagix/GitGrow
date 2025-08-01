@@ -776,6 +776,61 @@
       "last_unbalanced_attempt": "2025-08-01T05:49:35.580618+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "huzai786": [
+      {
+        "repo": "huzai786/ecommerce-website",
+        "starred_at": "2025-08-01T08:45:57.700234+00:00"
+      }
+    ],
+    "essobi": [
+      {
+        "repo": "essobi/dockerfiles",
+        "starred_at": "2025-08-01T08:45:57.700234+00:00"
+      }
+    ],
+    "khasan": [
+      {
+        "repo": "khasan/podRss",
+        "starred_at": "2025-08-01T08:45:57.700234+00:00"
+      }
+    ],
+    "mohamedhashemx": [
+      {
+        "repo": "mohamedhashemx/portfolio",
+        "starred_at": "2025-08-01T08:45:57.700234+00:00"
+      }
+    ],
+    "jciarallij": [
+      {
+        "repo": "jciarallij/Angular101",
+        "starred_at": "2025-08-01T08:45:57.700234+00:00"
+      }
+    ],
+    "Athalbraht": [
+      {
+        "repo": "Athalbraht/BINA-simulation",
+        "starred_at": "2025-08-01T08:45:57.700234+00:00"
+      }
+    ],
+    "mojtabanpe": [
+      {
+        "repo": "mojtabanpe/angular-carousel",
+        "starred_at": "2025-08-01T08:45:57.700234+00:00"
+      }
+    ],
+    "Sagittariu5A": [
+      {
+        "repo": "Sagittariu5A/dotfiles",
+        "starred_at": "2025-08-01T08:45:57.700234+00:00"
+      }
+    ],
+    "itsnicolslife": [
+      {
+        "repo": "itsnicolslife/itsnicolslife",
+        "starred_at": "2025-08-01T08:45:57.700234+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
