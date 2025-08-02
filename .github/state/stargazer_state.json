@@ -784,6 +784,67 @@
       "last_unbalanced_attempt": "2025-08-02T05:44:49.902200+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "tkeemon": [
+      {
+        "repo": "tkeemon/ansible-role-raspi-config",
+        "starred_at": "2025-08-02T08:42:08.874600+00:00"
+      }
+    ],
+    "codeguru42": [
+      {
+        "repo": "codeguru42/android-apprentice",
+        "starred_at": "2025-08-02T08:42:08.874600+00:00"
+      }
+    ],
+    "purnanandahari": [
+      {
+        "repo": "purnanandahari/android-gists",
+        "starred_at": "2025-08-02T08:42:08.874600+00:00"
+      }
+    ],
+    "8759436530": [
+      {
+        "repo": "8759436530/chatt",
+        "starred_at": "2025-08-02T08:42:08.874600+00:00"
+      }
+    ],
+    "LiquidSi1k": [
+      {
+        "repo": "LiquidSi1k/CineVault",
+        "starred_at": "2025-08-02T08:42:08.874600+00:00"
+      }
+    ],
+    "abdullah0325": [
+      {
+        "repo": "abdullah0325/Abdullah-Chatbot",
+        "starred_at": "2025-08-02T08:42:08.874600+00:00"
+      }
+    ],
+    "ChoiWheatley": [
+      {
+        "repo": "ChoiWheatley/.config.espanso",
+        "starred_at": "2025-08-02T08:42:08.874600+00:00"
+      }
+    ],
+    "sjtulucifer": [
+      {
+        "repo": "sjtulucifer/DigitalFactoryFrontEnd",
+        "starred_at": "2025-08-02T08:42:08.874600+00:00"
+      }
+    ],
+    "Idanbot": [
+      {
+        "repo": "Idanbot/AdventOfCode",
+        "starred_at": "2025-08-02T08:42:08.874600+00:00"
+      }
+    ],
+    "wagerfield": [
+      {
+        "repo": "wagerfield/cinema4D",
+        "starred_at": "2025-08-02T08:42:08.874600+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
