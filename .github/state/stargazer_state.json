@@ -758,5 +758,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "himansrivastava": [
+      {
+        "repo": "himansrivastava/angular-basics",
+        "starred_at": "2025-08-02T16:42:53.111431+00:00"
+      }
+    ],
+    "yousaf44malik": [
+      {
+        "repo": "yousaf44malik/Emailer-Spoofer-PHP-SMTP",
+        "starred_at": "2025-08-02T16:42:53.111431+00:00"
+      }
+    ],
+    "WissemBellara": [
+      {
+        "repo": "WissemBellara/Data-visualisation-ETL-and-cube-creation-project-FR",
+        "starred_at": "2025-08-02T16:42:53.111431+00:00"
+      }
+    ],
+    "theonesud": [
+      {
+        "repo": "theonesud/ai-automaton-website",
+        "starred_at": "2025-08-02T16:42:53.111431+00:00"
+      }
+    ],
+    "JorgeTiconaSanga": [
+      {
+        "repo": "JorgeTiconaSanga/aws-lambda-rust",
+        "starred_at": "2025-08-02T16:42:53.111431+00:00"
+      }
+    ],
+    "ismailrohaga": [
+      {
+        "repo": "ismailrohaga/app-android_b-attendance",
+        "starred_at": "2025-08-02T16:42:53.111431+00:00"
+      }
+    ],
+    "tingfeng-key": [
+      {
+        "repo": "tingfeng-key/2048-js",
+        "starred_at": "2025-08-02T16:42:53.111431+00:00"
+      }
+    ],
+    "xmbhasin": [
+      {
+        "repo": "xmbhasin/clann",
+        "starred_at": "2025-08-02T16:42:53.111431+00:00"
+      }
+    ],
+    "mabutou": [
+      {
+        "repo": "mabutou/blog-gridea",
+        "starred_at": "2025-08-02T16:42:53.111431+00:00"
+      }
+    ],
+    "stpeyyee": [
+      {
+        "repo": "stpeyyee/basic-react-project",
+        "starred_at": "2025-08-02T16:42:53.111431+00:00"
+      }
+    ]
   }
 }
