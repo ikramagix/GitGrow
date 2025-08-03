@@ -788,6 +788,55 @@
       "last_unbalanced_attempt": "2025-08-03T05:45:52.808339+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "Reiiham": [
+      {
+        "repo": "Reiiham/angular-E-Banking",
+        "starred_at": "2025-08-03T08:41:37.185988+00:00"
+      }
+    ],
+    "Patrick564": [
+      {
+        "repo": "Patrick564/advent-of-code",
+        "starred_at": "2025-08-03T08:41:37.185988+00:00"
+      }
+    ],
+    "Kaushik27": [
+      {
+        "repo": "Kaushik27/ar-walker-login",
+        "starred_at": "2025-08-03T08:41:37.185988+00:00"
+      }
+    ],
+    "PabloVallejo": [
+      {
+        "repo": "PabloVallejo/django-blog",
+        "starred_at": "2025-08-03T08:41:37.185988+00:00"
+      }
+    ],
+    "MouhamedSyllla": [
+      {
+        "repo": "MouhamedSyllla/Detection-des-Ravageurs-du-Mais",
+        "starred_at": "2025-08-03T08:41:37.185988+00:00"
+      }
+    ],
+    "fabiojdf": [
+      {
+        "repo": "fabiojdf/PseudoWells",
+        "starred_at": "2025-08-03T08:41:37.185988+00:00"
+      }
+    ],
+    "Samuel-Mbah": [
+      {
+        "repo": "Samuel-Mbah/Ceaser-Cipher",
+        "starred_at": "2025-08-03T08:41:37.185988+00:00"
+      }
+    ],
+    "GloireLINVANI": [
+      {
+        "repo": "GloireLINVANI/CSC_51052_EP_Data-Visualization-Project",
+        "starred_at": "2025-08-03T08:41:37.185988+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
