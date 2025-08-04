@@ -761,5 +761,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "zakicade55": [
+      {
+        "repo": "zakicade55/torrent-zaki",
+        "starred_at": "2025-08-04T16:47:54.203685+00:00"
+      }
+    ],
+    "jcartw": [
+      {
+        "repo": "jcartw/buildadb",
+        "starred_at": "2025-08-04T16:47:54.203685+00:00"
+      }
+    ],
+    "hisandan": [
+      {
+        "repo": "hisandan/Analisis-Sistema-Troncal-Transmilenio",
+        "starred_at": "2025-08-04T16:47:54.203685+00:00"
+      }
+    ],
+    "kushshiv": [
+      {
+        "repo": "kushshiv/kushshiv",
+        "starred_at": "2025-08-04T16:47:54.203685+00:00"
+      }
+    ],
+    "KianAnbarestani": [
+      {
+        "repo": "KianAnbarestani/Mobile-store-Django",
+        "starred_at": "2025-08-04T16:47:54.203685+00:00"
+      }
+    ],
+    "Shakshor": [
+      {
+        "repo": "Shakshor/api_integretion_with_flutter",
+        "starred_at": "2025-08-04T16:47:54.203685+00:00"
+      }
+    ],
+    "ryanpcmcquen": [
+      {
+        "repo": "ryanpcmcquen/amatron",
+        "starred_at": "2025-08-04T16:47:54.203685+00:00"
+      }
+    ],
+    "jeancarlosti": [
+      {
+        "repo": "jeancarlosti/Game_rpg_team_radar",
+        "starred_at": "2025-08-04T16:47:54.203685+00:00"
+      }
+    ],
+    "johnnyrock92": [
+      {
+        "repo": "johnnyrock92/django",
+        "starred_at": "2025-08-04T16:47:54.203685+00:00"
+      }
+    ],
+    "marrone": [
+      {
+        "repo": "marrone/grunt-tinypng",
+        "starred_at": "2025-08-04T16:47:54.203685+00:00"
+      }
+    ]
   }
 }
