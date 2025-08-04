@@ -788,6 +788,67 @@
       "last_unbalanced_attempt": "2025-08-04T05:54:03.132932+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "sergei-zelinsky": [
+      {
+        "repo": "sergei-zelinsky/cra-ssr-boilerplate",
+        "starred_at": "2025-08-04T08:47:48.939493+00:00"
+      }
+    ],
+    "FerAcoFajardo": [
+      {
+        "repo": "FerAcoFajardo/biblioteca",
+        "starred_at": "2025-08-04T08:47:48.939493+00:00"
+      }
+    ],
+    "yazdan": [
+      {
+        "repo": "yazdan/bfso",
+        "starred_at": "2025-08-04T08:47:48.939493+00:00"
+      }
+    ],
+    "ichynul": [
+      {
+        "repo": "ichynul/configx",
+        "starred_at": "2025-08-04T08:47:48.939493+00:00"
+      }
+    ],
+    "LuisanaMTDev": [
+      {
+        "repo": "LuisanaMTDev/conventionalgc.nvim",
+        "starred_at": "2025-08-04T08:47:48.939493+00:00"
+      }
+    ],
+    "ttaarik": [
+      {
+        "repo": "ttaarik/ttaarik",
+        "starred_at": "2025-08-04T08:47:48.939493+00:00"
+      }
+    ],
+    "kartikx": [
+      {
+        "repo": "kartikx/cs444-assignment2",
+        "starred_at": "2025-08-04T08:47:48.939493+00:00"
+      }
+    ],
+    "SeventhSoulOli": [
+      {
+        "repo": "SeventhSoulOli/learnGitBranching",
+        "starred_at": "2025-08-04T08:47:48.939493+00:00"
+      }
+    ],
+    "kinyuaallan": [
+      {
+        "repo": "kinyuaallan/hello-world2",
+        "starred_at": "2025-08-04T08:47:48.939493+00:00"
+      }
+    ],
+    "nilpeep": [
+      {
+        "repo": "nilpeep/about_nil",
+        "starred_at": "2025-08-04T08:47:48.939493+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
