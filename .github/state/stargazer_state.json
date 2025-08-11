@@ -790,5 +790,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "jshwi": [
+      {
+        "repo": "jshwi/arcon",
+        "starred_at": "2025-08-11T16:44:18.816643+00:00"
+      }
+    ],
+    "enahomurphy": [
+      {
+        "repo": "enahomurphy/Algorithms",
+        "starred_at": "2025-08-11T16:44:18.816643+00:00"
+      }
+    ],
+    "nikodemkler": [
+      {
+        "repo": "nikodemkler/nikodemkler",
+        "starred_at": "2025-08-11T16:44:18.816643+00:00"
+      }
+    ],
+    "pastuxso": [
+      {
+        "repo": "pastuxso/heroku-formation-updater",
+        "starred_at": "2025-08-11T16:44:18.816643+00:00"
+      }
+    ],
+    "Willie169": [
+      {
+        "repo": "Willie169/Android-Non-Root",
+        "starred_at": "2025-08-11T16:44:18.816643+00:00"
+      }
+    ],
+    "wnz27": [
+      {
+        "repo": "wnz27/Coding-Daily",
+        "starred_at": "2025-08-11T16:44:18.816643+00:00"
+      }
+    ],
+    "kusakusakusa": [
+      {
+        "repo": "kusakusakusa/autify",
+        "starred_at": "2025-08-11T16:44:18.816643+00:00"
+      }
+    ],
+    "vishalseshagiri": [
+      {
+        "repo": "vishalseshagiri/Angular-6-in-60-minutes",
+        "starred_at": "2025-08-11T16:44:18.816643+00:00"
+      }
+    ],
+    "aivipin197": [
+      {
+        "repo": "aivipin197/TodoList-app-vanillajs",
+        "starred_at": "2025-08-11T16:44:18.816643+00:00"
+      }
+    ],
+    "xrx": [
+      {
+        "repo": "xrx/D3playbook",
+        "starred_at": "2025-08-11T16:44:18.816643+00:00"
+      }
+    ]
   }
 }
