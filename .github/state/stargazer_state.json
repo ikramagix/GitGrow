@@ -829,6 +829,67 @@
       "last_unbalanced_attempt": "2025-08-12T05:39:08.777672+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "RileyMShea": [
+      {
+        "repo": "RileyMShea/apollo-client-upload-example",
+        "starred_at": "2025-08-12T08:42:40.886113+00:00"
+      }
+    ],
+    "Justice-Orogun": [
+      {
+        "repo": "Justice-Orogun/9ja-Music",
+        "starred_at": "2025-08-12T08:42:40.886113+00:00"
+      }
+    ],
+    "KartickVerma": [
+      {
+        "repo": "KartickVerma/Yolov4-Number-Plate-Detection",
+        "starred_at": "2025-08-12T08:42:40.886113+00:00"
+      }
+    ],
+    "Wili57": [
+      {
+        "repo": "Wili57/Wili57",
+        "starred_at": "2025-08-12T08:42:40.886113+00:00"
+      }
+    ],
+    "sturdynut": [
+      {
+        "repo": "sturdynut/angular-2-hello-world",
+        "starred_at": "2025-08-12T08:42:40.886113+00:00"
+      }
+    ],
+    "shahradelahi": [
+      {
+        "repo": "shahradelahi/axios-overdose",
+        "starred_at": "2025-08-12T08:42:40.886113+00:00"
+      }
+    ],
+    "Bedrovelsen": [
+      {
+        "repo": "Bedrovelsen/aut0sk33t",
+        "starred_at": "2025-08-12T08:42:40.886113+00:00"
+      }
+    ],
+    "murny": [
+      {
+        "repo": "murny/docker-solr-legacy",
+        "starred_at": "2025-08-12T08:42:40.886113+00:00"
+      }
+    ],
+    "tsupe-30": [
+      {
+        "repo": "tsupe-30/events-matsue-os-lab",
+        "starred_at": "2025-08-12T08:42:40.886113+00:00"
+      }
+    ],
+    "tar455": [
+      {
+        "repo": "tar455/blogBEConfig",
+        "starred_at": "2025-08-12T08:42:40.886113+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
