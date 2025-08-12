@@ -790,5 +790,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "AnAmbitiousMonk": [
+      {
+        "repo": "AnAmbitiousMonk/all_codes",
+        "starred_at": "2025-08-12T16:43:07.533459+00:00"
+      }
+    ],
+    "CodingBucket": [
+      {
+        "repo": "CodingBucket/.NET-Core2.1-WebTool",
+        "starred_at": "2025-08-12T16:43:07.533459+00:00"
+      }
+    ],
+    "maioral": [
+      {
+        "repo": "maioral/LocawebTweets",
+        "starred_at": "2025-08-12T16:43:07.533459+00:00"
+      }
+    ],
+    "snyderbrad": [
+      {
+        "repo": "snyderbrad/bayesian",
+        "starred_at": "2025-08-12T16:43:07.533459+00:00"
+      }
+    ],
+    "rliessum": [
+      {
+        "repo": "rliessum/autoclickah",
+        "starred_at": "2025-08-12T16:43:07.533459+00:00"
+      }
+    ],
+    "jwd83": [
+      {
+        "repo": "jwd83/AHKeypeat",
+        "starred_at": "2025-08-12T16:43:07.533459+00:00"
+      }
+    ],
+    "sohrabq": [
+      {
+        "repo": "sohrabq/HMAC-Auth-NET-CORE",
+        "starred_at": "2025-08-12T16:43:07.533459+00:00"
+      }
+    ],
+    "BTruer": [
+      {
+        "repo": "BTruer/Blockchain-Demo",
+        "starred_at": "2025-08-12T16:43:07.533459+00:00"
+      }
+    ],
+    "ewrtonl": [
+      {
+        "repo": "ewrtonl/abrace-front",
+        "starred_at": "2025-08-12T16:43:07.533459+00:00"
+      }
+    ],
+    "3dots": [
+      {
+        "repo": "3dots/ds3optimizer",
+        "starred_at": "2025-08-12T16:43:07.533459+00:00"
+      }
+    ]
   }
 }
