@@ -837,6 +837,67 @@
       "last_unbalanced_attempt": "2025-08-13T05:40:40.019412+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "AliSolaxay35": [
+      {
+        "repo": "AliSolaxay35/AsenaAI",
+        "starred_at": "2025-08-13T08:43:21.018885+00:00"
+      }
+    ],
+    "kichawa": [
+      {
+        "repo": "kichawa/archlinux.pl",
+        "starred_at": "2025-08-13T08:43:21.018885+00:00"
+      }
+    ],
+    "mazaheryamirali": [
+      {
+        "repo": "mazaheryamirali/simple-calculator",
+        "starred_at": "2025-08-13T08:43:21.018885+00:00"
+      }
+    ],
+    "ak2k": [
+      {
+        "repo": "ak2k/google-voice-automation",
+        "starred_at": "2025-08-13T08:43:21.018885+00:00"
+      }
+    ],
+    "Sadegh-kh": [
+      {
+        "repo": "Sadegh-kh/BroadcastReceiver",
+        "starred_at": "2025-08-13T08:43:21.018885+00:00"
+      }
+    ],
+    "vbaker007": [
+      {
+        "repo": "vbaker007/BlogRecipe_App",
+        "starred_at": "2025-08-13T08:43:21.018885+00:00"
+      }
+    ],
+    "IgorKostoski": [
+      {
+        "repo": "IgorKostoski/-Web_Development_Bootcamp",
+        "starred_at": "2025-08-13T08:43:21.018885+00:00"
+      }
+    ],
+    "michaelchi08": [
+      {
+        "repo": "michaelchi08/michaelchi08.github.io",
+        "starred_at": "2025-08-13T08:43:21.018885+00:00"
+      }
+    ],
+    "aaronize": [
+      {
+        "repo": "aaronize/cabin",
+        "starred_at": "2025-08-13T08:43:21.018885+00:00"
+      }
+    ],
+    "NouamaneTazi": [
+      {
+        "repo": "NouamaneTazi/arabicocr",
+        "starred_at": "2025-08-13T08:43:21.018885+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
