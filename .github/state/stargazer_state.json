@@ -853,6 +853,55 @@
       "last_unbalanced_attempt": "2025-08-14T05:40:23.487852+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "tchesk": [
+      {
+        "repo": "tchesk/My_cookbook_home2",
+        "starred_at": "2025-08-14T08:43:41.469137+00:00"
+      }
+    ],
+    "faizan517": [
+      {
+        "repo": "faizan517/ChatApp-",
+        "starred_at": "2025-08-14T08:43:41.469137+00:00"
+      }
+    ],
+    "MightyJoeW": [
+      {
+        "repo": "MightyJoeW/cold-messenger",
+        "starred_at": "2025-08-14T08:43:41.469137+00:00"
+      }
+    ],
+    "Miralan": [
+      {
+        "repo": "Miralan/HIFIGAN",
+        "starred_at": "2025-08-14T08:43:41.469137+00:00"
+      }
+    ],
+    "next-gonzalomellizo-soto": [
+      {
+        "repo": "next-gonzalomellizo-soto/next-poc-kubeflow",
+        "starred_at": "2025-08-14T08:43:41.469137+00:00"
+      }
+    ],
+    "Corrosion667": [
+      {
+        "repo": "Corrosion667/assistant-bot",
+        "starred_at": "2025-08-14T08:43:41.469137+00:00"
+      }
+    ],
+    "nmesomadan": [
+      {
+        "repo": "nmesomadan/alx-low_level_programming",
+        "starred_at": "2025-08-14T08:43:41.469137+00:00"
+      }
+    ],
+    "Jaaatmind": [
+      {
+        "repo": "Jaaatmind/Jaaatmind",
+        "starred_at": "2025-08-14T08:43:41.469137+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
