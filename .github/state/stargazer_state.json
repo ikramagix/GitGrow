@@ -853,6 +853,61 @@
       "last_unbalanced_attempt": "2025-08-15T05:40:20.252505+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "odee0405": [
+      {
+        "repo": "odee0405/Business-Intelligence-Dashboard-Project",
+        "starred_at": "2025-08-15T08:41:42.777664+00:00"
+      }
+    ],
+    "gerardgonzalez-io": [
+      {
+        "repo": "gerardgonzalez-io/birds_525_species",
+        "starred_at": "2025-08-15T08:41:42.777664+00:00"
+      }
+    ],
+    "siddharth-iyer1": [
+      {
+        "repo": "siddharth-iyer1/422C_Final",
+        "starred_at": "2025-08-15T08:41:42.777664+00:00"
+      }
+    ],
+    "klaipher": [
+      {
+        "repo": "klaipher/Calculator",
+        "starred_at": "2025-08-15T08:41:42.777664+00:00"
+      }
+    ],
+    "Javingles": [
+      {
+        "repo": "Javingles/Space_Surviver",
+        "starred_at": "2025-08-15T08:41:42.777664+00:00"
+      }
+    ],
+    "theayushraj3000": [
+      {
+        "repo": "theayushraj3000/unslashed",
+        "starred_at": "2025-08-15T08:41:42.777664+00:00"
+      }
+    ],
+    "myounus96": [
+      {
+        "repo": "myounus96/advanced",
+        "starred_at": "2025-08-15T08:41:42.777664+00:00"
+      }
+    ],
+    "Prere135": [
+      {
+        "repo": "Prere135/SirP",
+        "starred_at": "2025-08-15T08:41:42.777664+00:00"
+      }
+    ],
+    "lsantosdemoura": [
+      {
+        "repo": "lsantosdemoura/cashback-api",
+        "starred_at": "2025-08-15T08:41:42.777664+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
