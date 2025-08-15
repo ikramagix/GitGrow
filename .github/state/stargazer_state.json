@@ -811,5 +811,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "sjodiel": [
+      {
+        "repo": "sjodiel/CalculoNumerico",
+        "starred_at": "2025-08-15T16:40:48.471744+00:00"
+      }
+    ],
+    "sinotre": [
+      {
+        "repo": "sinotre/sinotre",
+        "starred_at": "2025-08-15T16:40:48.471744+00:00"
+      }
+    ],
+    "dildod": [
+      {
+        "repo": "dildod/dildod",
+        "starred_at": "2025-08-15T16:40:48.471744+00:00"
+      }
+    ],
+    "mem4tgo": [
+      {
+        "repo": "mem4tgo/elm",
+        "starred_at": "2025-08-15T16:40:48.471744+00:00"
+      }
+    ],
+    "lucasfr": [
+      {
+        "repo": "lucasfr/animate-WLED-API",
+        "starred_at": "2025-08-15T16:40:48.471744+00:00"
+      }
+    ],
+    "1js2002": [
+      {
+        "repo": "1js2002/1js2002.github.io",
+        "starred_at": "2025-08-15T16:40:48.471744+00:00"
+      }
+    ],
+    "TechpreneurNitish": [
+      {
+        "repo": "TechpreneurNitish/drag-drop-img",
+        "starred_at": "2025-08-15T16:40:48.471744+00:00"
+      }
+    ],
+    "23whx": [
+      {
+        "repo": "23whx/starrysky",
+        "starred_at": "2025-08-15T16:40:48.471744+00:00"
+      }
+    ],
+    "DRCLUBTRPZ": [
+      {
+        "repo": "DRCLUBTRPZ/thorappz-",
+        "starred_at": "2025-08-15T16:40:48.471744+00:00"
+      }
+    ],
+    "bitifirefly": [
+      {
+        "repo": "bitifirefly/bistu-opensource",
+        "starred_at": "2025-08-15T16:40:48.471744+00:00"
+      }
+    ]
   }
 }
