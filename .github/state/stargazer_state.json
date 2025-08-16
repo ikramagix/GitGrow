@@ -861,6 +861,61 @@
       "last_unbalanced_attempt": "2025-08-16T05:37:08.938507+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "JulianaVanier": [
+      {
+        "repo": "JulianaVanier/582-app-order-pizza-react",
+        "starred_at": "2025-08-16T08:37:24.428804+00:00"
+      }
+    ],
+    "laissydominique": [
+      {
+        "repo": "laissydominique/calculadora",
+        "starred_at": "2025-08-16T08:37:24.428804+00:00"
+      }
+    ],
+    "OftenUser": [
+      {
+        "repo": "OftenUser/mwb6763.github.io",
+        "starred_at": "2025-08-16T08:37:24.428804+00:00"
+      }
+    ],
+    "jebko0429": [
+      {
+        "repo": "jebko0429/git_test",
+        "starred_at": "2025-08-16T08:37:24.428804+00:00"
+      }
+    ],
+    "Bavadharani73": [
+      {
+        "repo": "Bavadharani73/Bavadharani73",
+        "starred_at": "2025-08-16T08:37:24.428804+00:00"
+      }
+    ],
+    "abdull6771": [
+      {
+        "repo": "abdull6771/30-days-of-machine-learning",
+        "starred_at": "2025-08-16T08:37:24.428804+00:00"
+      }
+    ],
+    "nthpaul": [
+      {
+        "repo": "nthpaul/bs-dashboard",
+        "starred_at": "2025-08-16T08:37:24.428804+00:00"
+      }
+    ],
+    "GottZ": [
+      {
+        "repo": "GottZ/game-engine",
+        "starred_at": "2025-08-16T08:37:24.428804+00:00"
+      }
+    ],
+    "rustanacexd": [
+      {
+        "repo": "rustanacexd/datacamp",
+        "starred_at": "2025-08-16T08:37:24.428804+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
