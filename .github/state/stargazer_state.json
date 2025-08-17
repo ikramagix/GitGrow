@@ -818,5 +818,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "rkmax": [
+      {
+        "repo": "rkmax/access_control_truffle",
+        "starred_at": "2025-08-17T16:37:50.632597+00:00"
+      }
+    ],
+    "mghalix": [
+      {
+        "repo": "mghalix/azure-ai-vision-person",
+        "starred_at": "2025-08-17T16:37:50.632597+00:00"
+      }
+    ],
+    "dada-engineer": [
+      {
+        "repo": "dada-engineer/Praisification",
+        "starred_at": "2025-08-17T16:37:50.632597+00:00"
+      }
+    ],
+    "Abin-Shaji-Thomas": [
+      {
+        "repo": "Abin-Shaji-Thomas/Abin-Shaji-Thomas",
+        "starred_at": "2025-08-17T16:37:50.632597+00:00"
+      }
+    ],
+    "VMS1987": [
+      {
+        "repo": "VMS1987/codespaces-preact",
+        "starred_at": "2025-08-17T16:37:50.632597+00:00"
+      }
+    ],
+    "thosil": [
+      {
+        "repo": "thosil/inventory",
+        "starred_at": "2025-08-17T16:37:50.632597+00:00"
+      }
+    ],
+    "matheuscas": [
+      {
+        "repo": "matheuscas/bluesoft-cosmos-api",
+        "starred_at": "2025-08-17T16:37:50.632597+00:00"
+      }
+    ],
+    "raghdaneiazyy6": [
+      {
+        "repo": "raghdaneiazyy6/CipherSonic-Sentinel_Voice-Access-Authentication-System",
+        "starred_at": "2025-08-17T16:37:50.632597+00:00"
+      }
+    ],
+    "da4nik": [
+      {
+        "repo": "da4nik/cp_concept",
+        "starred_at": "2025-08-17T16:37:50.632597+00:00"
+      }
+    ]
   }
 }
