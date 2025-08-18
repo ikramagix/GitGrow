@@ -825,5 +825,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "cotyledonlab": [
+      {
+        "repo": "cotyledonlab/comfy-backend",
+        "starred_at": "2025-08-18T16:43:22.302219+00:00"
+      }
+    ],
+    "splattael": [
+      {
+        "repo": "splattael/bigbrother",
+        "starred_at": "2025-08-18T16:43:22.302219+00:00"
+      }
+    ],
+    "Almarkmedina": [
+      {
+        "repo": "Almarkmedina/css_js_animation",
+        "starred_at": "2025-08-18T16:43:22.302219+00:00"
+      }
+    ],
+    "laytotame": [
+      {
+        "repo": "laytotame/laytotame",
+        "starred_at": "2025-08-18T16:43:22.302219+00:00"
+      }
+    ],
+    "rumman321": [
+      {
+        "repo": "rumman321/Assignment-3-Best-Builder",
+        "starred_at": "2025-08-18T16:43:22.302219+00:00"
+      }
+    ],
+    "abgoosht": [
+      {
+        "repo": "abgoosht/homedirstuff",
+        "starred_at": "2025-08-18T16:43:22.302219+00:00"
+      }
+    ],
+    "gavin1818": [
+      {
+        "repo": "gavin1818/frontend_script",
+        "starred_at": "2025-08-18T16:43:22.302219+00:00"
+      }
+    ],
+    "PabloLec": [
+      {
+        "repo": "PabloLec/AndroidTestApp",
+        "starred_at": "2025-08-18T16:43:22.302219+00:00"
+      }
+    ],
+    "akhilesh-chander": [
+      {
+        "repo": "akhilesh-chander/akhilesh-chander",
+        "starred_at": "2025-08-18T16:43:22.302219+00:00"
+      }
+    ]
   }
 }
