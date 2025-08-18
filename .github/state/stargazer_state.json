@@ -861,6 +861,67 @@
       "last_unbalanced_attempt": "2025-08-18T05:43:02.238393+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "danielmaiia": [
+      {
+        "repo": "danielmaiia/alurabooks",
+        "starred_at": "2025-08-18T08:44:26.627290+00:00"
+      }
+    ],
+    "ahmedmanduo": [
+      {
+        "repo": "ahmedmanduo/FirstRepo",
+        "starred_at": "2025-08-18T08:44:26.627290+00:00"
+      }
+    ],
+    "thamiscoder": [
+      {
+        "repo": "thamiscoder/clone-spotify",
+        "starred_at": "2025-08-18T08:44:26.627290+00:00"
+      }
+    ],
+    "berkhazar": [
+      {
+        "repo": "berkhazar/Etch-A-Sketch",
+        "starred_at": "2025-08-18T08:44:26.627290+00:00"
+      }
+    ],
+    "Leizhenpeng": [
+      {
+        "repo": "Leizhenpeng/awesome-kiss",
+        "starred_at": "2025-08-18T08:44:26.627290+00:00"
+      }
+    ],
+    "HackEzra": [
+      {
+        "repo": "HackEzra/advanced-ethical",
+        "starred_at": "2025-08-18T08:44:26.627290+00:00"
+      }
+    ],
+    "renatoknot": [
+      {
+        "repo": "renatoknot/aluracord-matrix",
+        "starred_at": "2025-08-18T08:44:26.627290+00:00"
+      }
+    ],
+    "vintagesucks": [
+      {
+        "repo": "vintagesucks/.github",
+        "starred_at": "2025-08-18T08:44:26.627290+00:00"
+      }
+    ],
+    "NeoFii": [
+      {
+        "repo": "NeoFii/NeoFii",
+        "starred_at": "2025-08-18T08:44:26.627290+00:00"
+      }
+    ],
+    "cbjuan": [
+      {
+        "repo": "cbjuan/cbjuan.github.io",
+        "starred_at": "2025-08-18T08:44:26.627290+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
