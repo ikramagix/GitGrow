@@ -825,5 +825,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "evadecker": [
+      {
+        "repo": "evadecker/advent-of-code-2023",
+        "starred_at": "2025-08-19T16:39:33.223861+00:00"
+      }
+    ],
+    "DylanTackoor": [
+      {
+        "repo": "DylanTackoor/CS50x-Miami",
+        "starred_at": "2025-08-19T16:39:33.223861+00:00"
+      }
+    ],
+    "nightguarder": [
+      {
+        "repo": "nightguarder/Advanced-Calculator-C",
+        "starred_at": "2025-08-19T16:39:33.223861+00:00"
+      }
+    ],
+    "nguyentheloc-eithan": [
+      {
+        "repo": "nguyentheloc-eithan/AI_assist",
+        "starred_at": "2025-08-19T16:39:33.223861+00:00"
+      }
+    ],
+    "PhillipTaylor": [
+      {
+        "repo": "PhillipTaylor/bson-to-json",
+        "starred_at": "2025-08-19T16:39:33.223861+00:00"
+      }
+    ],
+    "pkl520": [
+      {
+        "repo": "pkl520/PSO",
+        "starred_at": "2025-08-19T16:39:33.223861+00:00"
+      }
+    ],
+    "xwlee": [
+      {
+        "repo": "xwlee/blulletproof-express",
+        "starred_at": "2025-08-19T16:39:33.223861+00:00"
+      }
+    ],
+    "YZXBiz": [
+      {
+        "repo": "YZXBiz/ai-streamlit",
+        "starred_at": "2025-08-19T16:39:33.223861+00:00"
+      }
+    ],
+    "vimiix": [
+      {
+        "repo": "vimiix/django-opengauss-backend",
+        "starred_at": "2025-08-19T16:39:33.223861+00:00"
+      }
+    ]
   }
 }
