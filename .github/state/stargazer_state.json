@@ -869,6 +869,55 @@
       "last_unbalanced_attempt": "2025-08-19T05:36:45.915825+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "asad-manzoor": [
+      {
+        "repo": "asad-manzoor/asad-manzoor.github.io",
+        "starred_at": "2025-08-19T08:40:50.619060+00:00"
+      }
+    ],
+    "jhautefeuille": [
+      {
+        "repo": "jhautefeuille/go-cexio-api",
+        "starred_at": "2025-08-19T08:40:50.619060+00:00"
+      }
+    ],
+    "paonne": [
+      {
+        "repo": "paonne/hi",
+        "starred_at": "2025-08-19T08:40:50.619060+00:00"
+      }
+    ],
+    "Shivansh-25": [
+      {
+        "repo": "Shivansh-25/bajaj-shash",
+        "starred_at": "2025-08-19T08:40:50.619060+00:00"
+      }
+    ],
+    "nblo": [
+      {
+        "repo": "nblo/altair-intro",
+        "starred_at": "2025-08-19T08:40:50.619060+00:00"
+      }
+    ],
+    "Selectus2": [
+      {
+        "repo": "Selectus2/aasm-audited-example",
+        "starred_at": "2025-08-19T08:40:50.619060+00:00"
+      }
+    ],
+    "rahulsyal2512": [
+      {
+        "repo": "rahulsyal2512/ant-design-text-area",
+        "starred_at": "2025-08-19T08:40:50.619060+00:00"
+      }
+    ],
+    "Shahariya976727": [
+      {
+        "repo": "Shahariya976727/Shahariya976727",
+        "starred_at": "2025-08-19T08:40:50.619060+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
