@@ -869,6 +869,61 @@
       "last_unbalanced_attempt": "2025-08-20T05:37:45.280484+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "jeffkamau1": [
+      {
+        "repo": "jeffkamau1/flask101",
+        "starred_at": "2025-08-20T08:39:08.123718+00:00"
+      }
+    ],
+    "aicharles": [
+      {
+        "repo": "aicharles/charlesblumenthal.com",
+        "starred_at": "2025-08-20T08:39:08.123718+00:00"
+      }
+    ],
+    "ddlaws0n": [
+      {
+        "repo": "ddlaws0n/clear-framework",
+        "starred_at": "2025-08-20T08:39:08.123718+00:00"
+      }
+    ],
+    "pandaTerminator": [
+      {
+        "repo": "pandaTerminator/api-website",
+        "starred_at": "2025-08-20T08:39:08.123718+00:00"
+      }
+    ],
+    "0xNehru": [
+      {
+        "repo": "0xNehru/dns_lookup",
+        "starred_at": "2025-08-20T08:39:08.123718+00:00"
+      }
+    ],
+    "ck0123": [
+      {
+        "repo": "ck0123/ICK_implement",
+        "starred_at": "2025-08-20T08:39:08.123718+00:00"
+      }
+    ],
+    "matthewmccullough": [
+      {
+        "repo": "matthewmccullough/bookauthoringhowto",
+        "starred_at": "2025-08-20T08:39:08.123718+00:00"
+      }
+    ],
+    "Mayurifag": [
+      {
+        "repo": "Mayurifag/.dotfiles",
+        "starred_at": "2025-08-20T08:39:08.123718+00:00"
+      }
+    ],
+    "Harry-Hopkinson": [
+      {
+        "repo": "Harry-Hopkinson/algorithm-questions",
+        "starred_at": "2025-08-20T08:39:08.123718+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
