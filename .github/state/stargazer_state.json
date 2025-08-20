@@ -834,5 +834,55 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "DdyYazo": [
+      {
+        "repo": "DdyYazo/Android-Layout-Restaurantt",
+        "starred_at": "2025-08-20T16:37:49.738468+00:00"
+      }
+    ],
+    "oriolmontcreus": [
+      {
+        "repo": "oriolmontcreus/codeblog-astro-template",
+        "starred_at": "2025-08-20T16:37:49.738468+00:00"
+      }
+    ],
+    "mathrb22": [
+      {
+        "repo": "mathrb22/explorer-lab-rocketpay",
+        "starred_at": "2025-08-20T16:37:49.738468+00:00"
+      }
+    ],
+    "tmeits": [
+      {
+        "repo": "tmeits/24516",
+        "starred_at": "2025-08-20T16:37:49.738468+00:00"
+      }
+    ],
+    "GreenSheep-Studio": [
+      {
+        "repo": "GreenSheep-Studio/Game",
+        "starred_at": "2025-08-20T16:37:49.738468+00:00"
+      }
+    ],
+    "arman229": [
+      {
+        "repo": "arman229/arman229",
+        "starred_at": "2025-08-20T16:37:49.738468+00:00"
+      }
+    ],
+    "AngeloCarnevale": [
+      {
+        "repo": "AngeloCarnevale/api-stock-nestjs",
+        "starred_at": "2025-08-20T16:37:49.738468+00:00"
+      }
+    ],
+    "BarryAllen12345": [
+      {
+        "repo": "BarryAllen12345/BarryAllen12345",
+        "starred_at": "2025-08-20T16:37:49.738468+00:00"
+      }
+    ]
   }
 }
