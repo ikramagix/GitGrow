@@ -839,5 +839,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "vedangwartikar": [
+      {
+        "repo": "vedangwartikar/academic-kickstart",
+        "starred_at": "2025-08-21T16:44:11.604863+00:00"
+      }
+    ],
+    "mafi020": [
+      {
+        "repo": "mafi020/basic-rbac",
+        "starred_at": "2025-08-21T16:44:11.604863+00:00"
+      }
+    ],
+    "jiegzhan": [
+      {
+        "repo": "jiegzhan/build-elasticsearch-index",
+        "starred_at": "2025-08-21T16:44:11.604863+00:00"
+      }
+    ],
+    "dancristianb": [
+      {
+        "repo": "dancristianb/academy_web",
+        "starred_at": "2025-08-21T16:44:11.604863+00:00"
+      }
+    ],
+    "syphersamurai": [
+      {
+        "repo": "syphersamurai/inputer",
+        "starred_at": "2025-08-21T16:44:11.604863+00:00"
+      }
+    ],
+    "lucasm": [
+      {
+        "repo": "lucasm/barra-acessibilidade-emag",
+        "starred_at": "2025-08-21T16:44:11.604863+00:00"
+      }
+    ],
+    "Akinode": [
+      {
+        "repo": "Akinode/ojs-installation",
+        "starred_at": "2025-08-21T16:44:11.604863+00:00"
+      }
+    ],
+    "badgids": [
+      {
+        "repo": "badgids/badgids",
+        "starred_at": "2025-08-21T16:44:11.604863+00:00"
+      }
+    ],
+    "khloudcode": [
+      {
+        "repo": "khloudcode/Booking-an-appointment-for-a-doctor-is-just-simple",
+        "starred_at": "2025-08-21T16:44:11.604863+00:00"
+      }
+    ]
   }
 }
