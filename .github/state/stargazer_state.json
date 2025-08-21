@@ -890,6 +890,67 @@
       "last_unbalanced_attempt": "2025-08-21T05:38:24.191603+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "SebastianGasca": [
+      {
+        "repo": "SebastianGasca/due-diligence",
+        "starred_at": "2025-08-21T08:38:53.234522+00:00"
+      }
+    ],
+    "muyale": [
+      {
+        "repo": "muyale/-Solar-Yield-Prediction-using-Machine-Learning-for-Green-Energy-Optimization",
+        "starred_at": "2025-08-21T08:38:53.234522+00:00"
+      }
+    ],
+    "pepax": [
+      {
+        "repo": "pepax/pepax.github.io",
+        "starred_at": "2025-08-21T08:38:53.234522+00:00"
+      }
+    ],
+    "bdossantos": [
+      {
+        "repo": "bdossantos/bdossantos.github.com",
+        "starred_at": "2025-08-21T08:38:53.234522+00:00"
+      }
+    ],
+    "tharushaudana": [
+      {
+        "repo": "tharushaudana/any-size-matrix-frame-generator",
+        "starred_at": "2025-08-21T08:38:53.234522+00:00"
+      }
+    ],
+    "andrewmuhoro": [
+      {
+        "repo": "andrewmuhoro/DataC-TChallenges",
+        "starred_at": "2025-08-21T08:38:53.234522+00:00"
+      }
+    ],
+    "odaiwai": [
+      {
+        "repo": "odaiwai/aggregation_functions_in_pandas",
+        "starred_at": "2025-08-21T08:38:53.234522+00:00"
+      }
+    ],
+    "emijrp": [
+      {
+        "repo": "emijrp/all-human-knowledge",
+        "starred_at": "2025-08-21T08:38:53.234522+00:00"
+      }
+    ],
+    "abdelrahman0w": [
+      {
+        "repo": "abdelrahman0w/anghami-cli",
+        "starred_at": "2025-08-21T08:38:53.234522+00:00"
+      }
+    ],
+    "qitpydev": [
+      {
+        "repo": "qitpydev/free4talk-bot",
+        "starred_at": "2025-08-21T08:38:53.234522+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
