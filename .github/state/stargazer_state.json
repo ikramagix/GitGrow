@@ -890,6 +890,55 @@
       "last_unbalanced_attempt": "2025-08-22T05:36:56.120197+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "rifam": [
+      {
+        "repo": "rifam/node-api",
+        "starred_at": "2025-08-22T08:38:30.041355+00:00"
+      }
+    ],
+    "Muhammad-Elgendi": [
+      {
+        "repo": "Muhammad-Elgendi/Athena",
+        "starred_at": "2025-08-22T08:38:30.041355+00:00"
+      }
+    ],
+    "Biblotrh": [
+      {
+        "repo": "Biblotrh/Biblo",
+        "starred_at": "2025-08-22T08:38:30.041355+00:00"
+      }
+    ],
+    "Brrhehrj": [
+      {
+        "repo": "Brrhehrj/Brrhehrj",
+        "starred_at": "2025-08-22T08:38:30.041355+00:00"
+      }
+    ],
+    "syfun": [
+      {
+        "repo": "syfun/async-dataloader",
+        "starred_at": "2025-08-22T08:38:30.041355+00:00"
+      }
+    ],
+    "KOdoi-OJ": [
+      {
+        "repo": "KOdoi-OJ/Analyze-NYSE-Data",
+        "starred_at": "2025-08-22T08:38:30.041355+00:00"
+      }
+    ],
+    "raj713335": [
+      {
+        "repo": "raj713335/ADVANCE_MACHINE_LEARNING_WITH_TENSORFLOW_ON_GOOGLE_CLOUD_PLATFORM",
+        "starred_at": "2025-08-22T08:38:30.041355+00:00"
+      }
+    ],
+    "gtarique": [
+      {
+        "repo": "gtarique/ansible-practice",
+        "starred_at": "2025-08-22T08:38:30.041355+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
