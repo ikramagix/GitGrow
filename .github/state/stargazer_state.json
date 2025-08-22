@@ -862,5 +862,55 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "Rico1195": [
+      {
+        "repo": "Rico1195/Rico1195",
+        "starred_at": "2025-08-22T16:37:45.781243+00:00"
+      }
+    ],
+    "ePex": [
+      {
+        "repo": "ePex/homebrew_updater",
+        "starred_at": "2025-08-22T16:37:45.781243+00:00"
+      }
+    ],
+    "yeahdongcn": [
+      {
+        "repo": "yeahdongcn/agentman",
+        "starred_at": "2025-08-22T16:37:45.781243+00:00"
+      }
+    ],
+    "JoaoThiagoDev": [
+      {
+        "repo": "JoaoThiagoDev/joaothiagodev",
+        "starred_at": "2025-08-22T16:37:45.781243+00:00"
+      }
+    ],
+    "bekirbakar": [
+      {
+        "repo": "bekirbakar/replay-attack-detection",
+        "starred_at": "2025-08-22T16:37:45.781243+00:00"
+      }
+    ],
+    "LIPiston": [
+      {
+        "repo": "LIPiston/cf-worker-proxy",
+        "starred_at": "2025-08-22T16:37:45.781243+00:00"
+      }
+    ],
+    "Bajingan2002": [
+      {
+        "repo": "Bajingan2002/Juniorcaption",
+        "starred_at": "2025-08-22T16:37:45.781243+00:00"
+      }
+    ],
+    "ladiyusuph": [
+      {
+        "repo": "ladiyusuph/Band_name_generator",
+        "starred_at": "2025-08-22T16:37:45.781243+00:00"
+      }
+    ]
   }
 }
