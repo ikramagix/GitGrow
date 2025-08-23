@@ -910,6 +910,61 @@
       "last_unbalanced_attempt": "2025-08-23T05:33:50.565963+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "elvinafirmansyah": [
+      {
+        "repo": "elvinafirmansyah/BlindMaze_Game",
+        "starred_at": "2025-08-23T08:34:17.717310+00:00"
+      }
+    ],
+    "RahimGuerfi": [
+      {
+        "repo": "RahimGuerfi/Appointment-Planner",
+        "starred_at": "2025-08-23T08:34:17.717310+00:00"
+      }
+    ],
+    "baracoder": [
+      {
+        "repo": "baracoder/com.springrts.springlobby",
+        "starred_at": "2025-08-23T08:34:17.717310+00:00"
+      }
+    ],
+    "jackhodkinson": [
+      {
+        "repo": "jackhodkinson/lsp-editor",
+        "starred_at": "2025-08-23T08:34:17.717310+00:00"
+      }
+    ],
+    "thednp": [
+      {
+        "repo": "thednp/bootstrap.native",
+        "starred_at": "2025-08-23T08:34:17.717310+00:00"
+      }
+    ],
+    "franzuandrez": [
+      {
+        "repo": "franzuandrez/JS-AD-FreecodecampCourse",
+        "starred_at": "2025-08-23T08:34:17.717310+00:00"
+      }
+    ],
+    "ditorodev": [
+      {
+        "repo": "ditorodev/event-emitter",
+        "starred_at": "2025-08-23T08:34:17.717310+00:00"
+      }
+    ],
+    "roziukp": [
+      {
+        "repo": "roziukp/Blog-Homework-",
+        "starred_at": "2025-08-23T08:34:17.717310+00:00"
+      }
+    ],
+    "tosevzoran": [
+      {
+        "repo": "tosevzoran/go-lox",
+        "starred_at": "2025-08-23T08:34:17.717310+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
