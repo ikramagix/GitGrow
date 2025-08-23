@@ -862,5 +862,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "Gostie": [
+      {
+        "repo": "Gostie/mangata",
+        "starred_at": "2025-08-23T16:33:27.272734+00:00"
+      }
+    ],
+    "edescalona": [
+      {
+        "repo": "edescalona/Symfony4",
+        "starred_at": "2025-08-23T16:33:27.272734+00:00"
+      }
+    ],
+    "ToryNurje": [
+      {
+        "repo": "ToryNurje/tory",
+        "starred_at": "2025-08-23T16:33:27.272734+00:00"
+      }
+    ],
+    "nghenzi": [
+      {
+        "repo": "nghenzi/assets",
+        "starred_at": "2025-08-23T16:33:27.272734+00:00"
+      }
+    ],
+    "blitzarx1": [
+      {
+        "repo": "blitzarx1/aoc2024",
+        "starred_at": "2025-08-23T16:33:27.272734+00:00"
+      }
+    ],
+    "lamld203844": [
+      {
+        "repo": "lamld203844/C",
+        "starred_at": "2025-08-23T16:33:27.272734+00:00"
+      }
+    ],
+    "Phavour-EBEN": [
+      {
+        "repo": "Phavour-EBEN/Applied-AI-Lab-Computer-Vision",
+        "starred_at": "2025-08-23T16:33:27.272734+00:00"
+      }
+    ],
+    "anantn": [
+      {
+        "repo": "anantn/gcon",
+        "starred_at": "2025-08-23T16:33:27.272734+00:00"
+      }
+    ],
+    "MklMP": [
+      {
+        "repo": "MklMP/Center-PackTools",
+        "starred_at": "2025-08-23T16:33:27.272734+00:00"
+      }
+    ]
   }
 }
