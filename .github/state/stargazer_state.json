@@ -910,6 +910,61 @@
       "last_unbalanced_attempt": "2025-08-24T05:35:36.813706+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "Rammsauer": [
+      {
+        "repo": "Rammsauer/bandit",
+        "starred_at": "2025-08-24T08:34:04.232888+00:00"
+      }
+    ],
+    "jeselxe": [
+      {
+        "repo": "jeselxe/MoneyBack",
+        "starred_at": "2025-08-24T08:34:04.232888+00:00"
+      }
+    ],
+    "mark010522": [
+      {
+        "repo": "mark010522/public-",
+        "starred_at": "2025-08-24T08:34:04.232888+00:00"
+      }
+    ],
+    "Raazkhan00": [
+      {
+        "repo": "Raazkhan00/R.k",
+        "starred_at": "2025-08-24T08:34:04.232888+00:00"
+      }
+    ],
+    "Eeshu-Yadav": [
+      {
+        "repo": "Eeshu-Yadav/automated_oil_spill",
+        "starred_at": "2025-08-24T08:34:04.232888+00:00"
+      }
+    ],
+    "alfg": [
+      {
+        "repo": "alfg/alfg",
+        "starred_at": "2025-08-24T08:34:04.232888+00:00"
+      }
+    ],
+    "maxlestage": [
+      {
+        "repo": "maxlestage/7008001-Debutez-avec-React-P3C2-Begin",
+        "starred_at": "2025-08-24T08:34:04.232888+00:00"
+      }
+    ],
+    "sunnyyoung": [
+      {
+        "repo": "sunnyyoung/Alfred-Base64ToImage",
+        "starred_at": "2025-08-24T08:34:04.232888+00:00"
+      }
+    ],
+    "Jupnnn": [
+      {
+        "repo": "Jupnnn/Microsoft-Edge",
+        "starred_at": "2025-08-24T08:34:04.232888+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
