@@ -853,5 +853,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "vvrs": [
+      {
+        "repo": "vvrs/Behavior-Planner",
+        "starred_at": "2025-08-24T16:35:30.885981+00:00"
+      }
+    ],
+    "matinzx": [
+      {
+        "repo": "matinzx/devops-doc",
+        "starred_at": "2025-08-24T16:35:30.885981+00:00"
+      }
+    ],
+    "Shahariya976727": [
+      {
+        "repo": "Shahariya976727/Shahariya976727",
+        "starred_at": "2025-08-24T16:35:30.885981+00:00"
+      }
+    ],
+    "guilhermedelyra": [
+      {
+        "repo": "guilhermedelyra/champion_selector",
+        "starred_at": "2025-08-24T16:35:30.885981+00:00"
+      }
+    ],
+    "bnfshedehqan": [
+      {
+        "repo": "bnfshedehqan/bnfshedehqan.github.io",
+        "starred_at": "2025-08-24T16:35:30.885981+00:00"
+      }
+    ],
+    "Kfir-G": [
+      {
+        "repo": "Kfir-G/Big-Data_Works",
+        "starred_at": "2025-08-24T16:35:30.885981+00:00"
+      }
+    ],
+    "theselftaughtdev42": [
+      {
+        "repo": "theselftaughtdev42/advent_of_code",
+        "starred_at": "2025-08-24T16:35:30.885981+00:00"
+      }
+    ],
+    "YuchenChuangsoft": [
+      {
+        "repo": "YuchenChuangsoft/414nb",
+        "starred_at": "2025-08-24T16:35:30.885981+00:00"
+      }
+    ],
+    "abadathossain": [
+      {
+        "repo": "abadathossain/api-test",
+        "starred_at": "2025-08-24T16:35:30.885981+00:00"
+      }
+    ]
   }
 }
