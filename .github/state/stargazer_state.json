@@ -865,5 +865,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "hero-rq": [
+      {
+        "repo": "hero-rq/AI_Network_attack_game-",
+        "starred_at": "2025-08-25T16:39:30.893235+00:00"
+      }
+    ],
+    "ericyangpan": [
+      {
+        "repo": "ericyangpan/arielyang.github.com",
+        "starred_at": "2025-08-25T16:39:30.893235+00:00"
+      }
+    ],
+    "henrikvtcodes": [
+      {
+        "repo": "henrikvtcodes/appdir-nextauth-tailwind-template",
+        "starred_at": "2025-08-25T16:39:30.893235+00:00"
+      }
+    ],
+    "jzhang533": [
+      {
+        "repo": "jzhang533/cookbooks",
+        "starred_at": "2025-08-25T16:39:30.893235+00:00"
+      }
+    ],
+    "nqduy1999": [
+      {
+        "repo": "nqduy1999/one-day-project-series",
+        "starred_at": "2025-08-25T16:39:30.893235+00:00"
+      }
+    ],
+    "mxttwoods": [
+      {
+        "repo": "mxttwoods/ansible-demo",
+        "starred_at": "2025-08-25T16:39:30.893235+00:00"
+      }
+    ],
+    "caalberts": [
+      {
+        "repo": "caalberts/algorithmic-toolbox",
+        "starred_at": "2025-08-25T16:39:30.893235+00:00"
+      }
+    ],
+    "yuhjia": [
+      {
+        "repo": "yuhjia/invoice-editor",
+        "starred_at": "2025-08-25T16:39:30.893235+00:00"
+      }
+    ],
+    "momoogles": [
+      {
+        "repo": "momoogles/mmsotsuken",
+        "starred_at": "2025-08-25T16:39:30.893235+00:00"
+      }
+    ]
   }
 }
