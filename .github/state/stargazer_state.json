@@ -914,6 +914,49 @@
       "last_unbalanced_attempt": "2025-08-25T05:39:03.959106+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "montyanderson": [
+      {
+        "repo": "montyanderson/2darray",
+        "starred_at": "2025-08-25T08:42:49.744321+00:00"
+      }
+    ],
+    "Juan31416": [
+      {
+        "repo": "Juan31416/AITEC",
+        "starred_at": "2025-08-25T08:42:49.744321+00:00"
+      }
+    ],
+    "fezzopro": [
+      {
+        "repo": "fezzopro/awesome-books",
+        "starred_at": "2025-08-25T08:42:49.744321+00:00"
+      }
+    ],
+    "Bahtiyar-h": [
+      {
+        "repo": "Bahtiyar-h/bahtiyar-h",
+        "starred_at": "2025-08-25T08:42:49.744321+00:00"
+      }
+    ],
+    "xiaodi007": [
+      {
+        "repo": "xiaodi007/agent-game",
+        "starred_at": "2025-08-25T08:42:49.744321+00:00"
+      }
+    ],
+    "PopStar0724": [
+      {
+        "repo": "PopStar0724/Chatgpt-LLM",
+        "starred_at": "2025-08-25T08:42:49.744321+00:00"
+      }
+    ],
+    "9ovn": [
+      {
+        "repo": "9ovn/ChatGPT-Next-Web",
+        "starred_at": "2025-08-25T08:42:49.744321+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
