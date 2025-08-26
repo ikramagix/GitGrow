@@ -905,6 +905,61 @@
       "last_unbalanced_attempt": "2025-08-26T05:38:14.058400+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "ThisWaySir": [
+      {
+        "repo": "ThisWaySir/dev-env",
+        "starred_at": "2025-08-26T08:41:45.799042+00:00"
+      }
+    ],
+    "GabrielCappelli": [
+      {
+        "repo": "GabrielCappelli/meta-di",
+        "starred_at": "2025-08-26T08:41:45.799042+00:00"
+      }
+    ],
+    "Tiaonmmn": [
+      {
+        "repo": "Tiaonmmn/asis_2019_unicorn_shop",
+        "starred_at": "2025-08-26T08:41:45.799042+00:00"
+      }
+    ],
+    "LUCASFRANKINC": [
+      {
+        "repo": "LUCASFRANKINC/filament-spatie-roles-permissions",
+        "starred_at": "2025-08-26T08:41:45.799042+00:00"
+      }
+    ],
+    "aryanshridhar": [
+      {
+        "repo": "aryanshridhar/Advance-Cpp",
+        "starred_at": "2025-08-26T08:41:45.799042+00:00"
+      }
+    ],
+    "haubar": [
+      {
+        "repo": "haubar/ansible",
+        "starred_at": "2025-08-26T08:41:45.799042+00:00"
+      }
+    ],
+    "aguimarjr": [
+      {
+        "repo": "aguimarjr/lavajato-timeline",
+        "starred_at": "2025-08-26T08:41:45.799042+00:00"
+      }
+    ],
+    "leodutra": [
+      {
+        "repo": "leodutra/blockchain-for-rust-developers",
+        "starred_at": "2025-08-26T08:41:45.799042+00:00"
+      }
+    ],
+    "yxuegang2012": [
+      {
+        "repo": "yxuegang2012/auto-green--2",
+        "starred_at": "2025-08-26T08:41:45.799042+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
