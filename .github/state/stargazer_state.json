@@ -911,6 +911,67 @@
       "last_unbalanced_attempt": "2025-08-27T05:34:56.493431+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "shadiaislamankur": [
+      {
+        "repo": "shadiaislamankur/Adapters-App",
+        "starred_at": "2025-08-27T08:38:15.561585+00:00"
+      }
+    ],
+    "aruz": [
+      {
+        "repo": "aruz/img4skype",
+        "starred_at": "2025-08-27T08:38:15.561585+00:00"
+      }
+    ],
+    "shinebayar-g": [
+      {
+        "repo": "shinebayar-g/elasticsearch-docker",
+        "starred_at": "2025-08-27T08:38:15.561585+00:00"
+      }
+    ],
+    "dhruv-3d": [
+      {
+        "repo": "dhruv-3d/Angular5",
+        "starred_at": "2025-08-27T08:38:15.561585+00:00"
+      }
+    ],
+    "lennartblom": [
+      {
+        "repo": "lennartblom/ADbTechsFinalProject",
+        "starred_at": "2025-08-27T08:38:15.561585+00:00"
+      }
+    ],
+    "meyvelikahve": [
+      {
+        "repo": "meyvelikahve/burc_app",
+        "starred_at": "2025-08-27T08:38:15.561585+00:00"
+      }
+    ],
+    "PromzzyKoncepts": [
+      {
+        "repo": "PromzzyKoncepts/ArkRoyal",
+        "starred_at": "2025-08-27T08:38:15.561585+00:00"
+      }
+    ],
+    "rswiney86": [
+      {
+        "repo": "rswiney86/rswiney86",
+        "starred_at": "2025-08-27T08:38:15.561585+00:00"
+      }
+    ],
+    "Zylatis": [
+      {
+        "repo": "Zylatis/BusulfanOriginal",
+        "starred_at": "2025-08-27T08:38:15.561585+00:00"
+      }
+    ],
+    "mostafa": [
+      {
+        "repo": "mostafa/alav_utils",
+        "starred_at": "2025-08-27T08:38:15.561585+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
