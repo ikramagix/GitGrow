@@ -862,5 +862,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "Azamatsalesopener": [
+      {
+        "repo": "Azamatsalesopener/Azamatsalesopener",
+        "starred_at": "2025-08-27T16:38:02.141027+00:00"
+      }
+    ],
+    "DiaaEldinMalek": [
+      {
+        "repo": "DiaaEldinMalek/basic-fastAPI-app",
+        "starred_at": "2025-08-27T16:38:02.141027+00:00"
+      }
+    ],
+    "JialuGong": [
+      {
+        "repo": "JialuGong/JialuGong",
+        "starred_at": "2025-08-27T16:38:02.141027+00:00"
+      }
+    ],
+    "mfs": [
+      {
+        "repo": "mfs/aoc-2018",
+        "starred_at": "2025-08-27T16:38:02.141027+00:00"
+      }
+    ],
+    "fapulito": [
+      {
+        "repo": "fapulito/build2gether",
+        "starred_at": "2025-08-27T16:38:02.141027+00:00"
+      }
+    ],
+    "sonnie36": [
+      {
+        "repo": "sonnie36/FoodDel",
+        "starred_at": "2025-08-27T16:38:02.141027+00:00"
+      }
+    ],
+    "kamathgurudev": [
+      {
+        "repo": "kamathgurudev/LearningTest",
+        "starred_at": "2025-08-27T16:38:02.141027+00:00"
+      }
+    ],
+    "bhochhi": [
+      {
+        "repo": "bhochhi/android_apps",
+        "starred_at": "2025-08-27T16:38:02.141027+00:00"
+      }
+    ],
+    "bin2ai": [
+      {
+        "repo": "bin2ai/auto_jig",
+        "starred_at": "2025-08-27T16:38:02.141027+00:00"
+      }
+    ],
+    "Giovita": [
+      {
+        "repo": "Giovita/montecarlo_ffd",
+        "starred_at": "2025-08-27T16:38:02.141027+00:00"
+      }
+    ]
   }
 }
