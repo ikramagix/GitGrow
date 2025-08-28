@@ -862,5 +862,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "wobbince": [
+      {
+        "repo": "wobbince/Forrest",
+        "starred_at": "2025-08-28T16:37:40.863638+00:00"
+      }
+    ],
+    "iLucasPires": [
+      {
+        "repo": "iLucasPires/app-manager-product",
+        "starred_at": "2025-08-28T16:37:40.863638+00:00"
+      }
+    ],
+    "LewisDamy": [
+      {
+        "repo": "LewisDamy/cdruc-slide-over-sidebar",
+        "starred_at": "2025-08-28T16:37:40.863638+00:00"
+      }
+    ],
+    "eyuBirhanu": [
+      {
+        "repo": "eyuBirhanu/A2SV-competitive-programming-question-solutions",
+        "starred_at": "2025-08-28T16:37:40.863638+00:00"
+      }
+    ],
+    "bilgehankamber": [
+      {
+        "repo": "bilgehankamber/2B2_P5_quiz_qa",
+        "starred_at": "2025-08-28T16:37:40.863638+00:00"
+      }
+    ],
+    "lordch": [
+      {
+        "repo": "lordch/assistant",
+        "starred_at": "2025-08-28T16:37:40.863638+00:00"
+      }
+    ],
+    "hydrophobis": [
+      {
+        "repo": "hydrophobis/BinaryFormat",
+        "starred_at": "2025-08-28T16:37:40.863638+00:00"
+      }
+    ],
+    "shankarmurugesan": [
+      {
+        "repo": "shankarmurugesan/CollegeStudentMgmt",
+        "starred_at": "2025-08-28T16:37:40.863638+00:00"
+      }
+    ],
+    "CarlosOliveira-23": [
+      {
+        "repo": "CarlosOliveira-23/CarlosOliveira-23",
+        "starred_at": "2025-08-28T16:37:40.863638+00:00"
+      }
+    ],
+    "juakonap": [
+      {
+        "repo": "juakonap/curso-ia-responsable-2025",
+        "starred_at": "2025-08-28T16:37:40.863638+00:00"
+      }
+    ]
   }
 }
