@@ -911,6 +911,61 @@
       "last_unbalanced_attempt": "2025-08-28T05:35:03.609308+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "ChloeDang95": [
+      {
+        "repo": "ChloeDang95/ChloeDang95",
+        "starred_at": "2025-08-28T08:37:48.374634+00:00"
+      }
+    ],
+    "taslanidis": [
+      {
+        "repo": "taslanidis/Boston-Crime-Analysis",
+        "starred_at": "2025-08-28T08:37:48.374634+00:00"
+      }
+    ],
+    "luyaogod": [
+      {
+        "repo": "luyaogod/djw-email-fuck",
+        "starred_at": "2025-08-28T08:37:48.374634+00:00"
+      }
+    ],
+    "elcaiseri": [
+      {
+        "repo": "elcaiseri/Dog-and-Cat-Classification",
+        "starred_at": "2025-08-28T08:37:48.374634+00:00"
+      }
+    ],
+    "geraldo916": [
+      {
+        "repo": "geraldo916/alocadora-grupo6",
+        "starred_at": "2025-08-28T08:37:48.374634+00:00"
+      }
+    ],
+    "CharaeKeow": [
+      {
+        "repo": "CharaeKeow/bank-app",
+        "starred_at": "2025-08-28T08:37:48.374634+00:00"
+      }
+    ],
+    "dbaspider": [
+      {
+        "repo": "dbaspider/2012labs",
+        "starred_at": "2025-08-28T08:37:48.374634+00:00"
+      }
+    ],
+    "whathecker": [
+      {
+        "repo": "whathecker/assignment-restapi",
+        "starred_at": "2025-08-28T08:37:48.374634+00:00"
+      }
+    ],
+    "adamshabani": [
+      {
+        "repo": "adamshabani/SciMath.app",
+        "starred_at": "2025-08-28T08:37:48.374634+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
