@@ -911,6 +911,61 @@
       "last_unbalanced_attempt": "2025-08-29T05:34:23.030490+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "y-undertree": [
+      {
+        "repo": "y-undertree/dotfiles",
+        "starred_at": "2025-08-29T08:37:31.863531+00:00"
+      }
+    ],
+    "bluepine": [
+      {
+        "repo": "bluepine/alexa_mock_data",
+        "starred_at": "2025-08-29T08:37:31.863531+00:00"
+      }
+    ],
+    "Uncle-Dandry": [
+      {
+        "repo": "Uncle-Dandry/horoscope-tg-app",
+        "starred_at": "2025-08-29T08:37:31.863531+00:00"
+      }
+    ],
+    "Thirteentj": [
+      {
+        "repo": "Thirteentj/Game_solution",
+        "starred_at": "2025-08-29T08:37:31.863531+00:00"
+      }
+    ],
+    "han0110": [
+      {
+        "repo": "han0110/barista",
+        "starred_at": "2025-08-29T08:37:31.863531+00:00"
+      }
+    ],
+    "haider-sh": [
+      {
+        "repo": "haider-sh/stuff",
+        "starred_at": "2025-08-29T08:37:31.863531+00:00"
+      }
+    ],
+    "saroz": [
+      {
+        "repo": "saroz/c-programming",
+        "starred_at": "2025-08-29T08:37:31.863531+00:00"
+      }
+    ],
+    "ricky-davis": [
+      {
+        "repo": "ricky-davis/AstroServerCheck",
+        "starred_at": "2025-08-29T08:37:31.863531+00:00"
+      }
+    ],
+    "ueumd": [
+      {
+        "repo": "ueumd/clang",
+        "starred_at": "2025-08-29T08:37:31.863531+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
