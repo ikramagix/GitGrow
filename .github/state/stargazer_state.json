@@ -862,5 +862,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "IsaacFinemind": [
+      {
+        "repo": "IsaacFinemind/gaming-",
+        "starred_at": "2025-08-29T16:36:53.660399+00:00"
+      }
+    ],
+    "aditya-08": [
+      {
+        "repo": "aditya-08/auth",
+        "starred_at": "2025-08-29T16:36:53.660399+00:00"
+      }
+    ],
+    "Nagaa27": [
+      {
+        "repo": "Nagaa27/Applied-Data-Science",
+        "starred_at": "2025-08-29T16:36:53.660399+00:00"
+      }
+    ],
+    "aldo2287": [
+      {
+        "repo": "aldo2287/Data-Engineering-and-Analysis-City-Air-Quality-API-Extraction-Portfolio-Full-Project",
+        "starred_at": "2025-08-29T16:36:53.660399+00:00"
+      }
+    ],
+    "rafsaf": [
+      {
+        "repo": "rafsaf/calculator",
+        "starred_at": "2025-08-29T16:36:53.660399+00:00"
+      }
+    ],
+    "NHTAM7323": [
+      {
+        "repo": "NHTAM7323/NHTAM7323",
+        "starred_at": "2025-08-29T16:36:53.660399+00:00"
+      }
+    ],
+    "luisalro": [
+      {
+        "repo": "luisalro/IBM-QGSS21",
+        "starred_at": "2025-08-29T16:36:53.660399+00:00"
+      }
+    ],
+    "jalliet": [
+      {
+        "repo": "jalliet/Badminton",
+        "starred_at": "2025-08-29T16:36:53.660399+00:00"
+      }
+    ],
+    "not-matthias": [
+      {
+        "repo": "not-matthias/advent-of-code-2022",
+        "starred_at": "2025-08-29T16:36:53.660399+00:00"
+      }
+    ]
   }
 }
