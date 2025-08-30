@@ -919,6 +919,61 @@
       "last_unbalanced_attempt": "2025-08-30T05:32:30.156136+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "DevMata": [
+      {
+        "repo": "DevMata/AWS-EKS-Challenge",
+        "starred_at": "2025-08-30T08:33:17.069781+00:00"
+      }
+    ],
+    "alexbit-codemod": [
+      {
+        "repo": "alexbit-codemod/some-codemods",
+        "starred_at": "2025-08-30T08:33:17.069781+00:00"
+      }
+    ],
+    "Trjegul84": [
+      {
+        "repo": "Trjegul84/open_weather_service",
+        "starred_at": "2025-08-30T08:33:17.069781+00:00"
+      }
+    ],
+    "vohoaidanh": [
+      {
+        "repo": "vohoaidanh/AI-Generated-Image-Discriminator",
+        "starred_at": "2025-08-30T08:33:17.069781+00:00"
+      }
+    ],
+    "qpaseo": [
+      {
+        "repo": "qpaseo/test",
+        "starred_at": "2025-08-30T08:33:17.069781+00:00"
+      }
+    ],
+    "hezbymuhammad": [
+      {
+        "repo": "hezbymuhammad/chart",
+        "starred_at": "2025-08-30T08:33:17.069781+00:00"
+      }
+    ],
+    "Rezacrown": [
+      {
+        "repo": "Rezacrown/arylog",
+        "starred_at": "2025-08-30T08:33:17.069781+00:00"
+      }
+    ],
+    "cnarvaa": [
+      {
+        "repo": "cnarvaa/mcas",
+        "starred_at": "2025-08-30T08:33:17.069781+00:00"
+      }
+    ],
+    "repoman": [
+      {
+        "repo": "repoman/rpiips",
+        "starred_at": "2025-08-30T08:33:17.069781+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
