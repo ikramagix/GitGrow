@@ -899,5 +899,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "marofES": [
+      {
+        "repo": "marofES/4-4-4-Led-Cube-with-Embedded-C-Code",
+        "starred_at": "2025-08-30T16:33:41.520336+00:00"
+      }
+    ],
+    "DamMarin": [
+      {
+        "repo": "DamMarin/cf7-react-crud",
+        "starred_at": "2025-08-30T16:33:41.520336+00:00"
+      }
+    ],
+    "darkylein": [
+      {
+        "repo": "darkylein/dotfiles",
+        "starred_at": "2025-08-30T16:33:41.520336+00:00"
+      }
+    ],
+    "kudos": [
+      {
+        "repo": "kudos/bootc",
+        "starred_at": "2025-08-30T16:33:41.520336+00:00"
+      }
+    ],
+    "atopuzov": [
+      {
+        "repo": "atopuzov/alarm-docker",
+        "starred_at": "2025-08-30T16:33:41.520336+00:00"
+      }
+    ],
+    "sacredAST": [
+      {
+        "repo": "sacredAST/chatbot_pdf_llama",
+        "starred_at": "2025-08-30T16:33:41.520336+00:00"
+      }
+    ],
+    "SamuelWorld20": [
+      {
+        "repo": "SamuelWorld20/3MTT_react_project",
+        "starred_at": "2025-08-30T16:33:41.520336+00:00"
+      }
+    ],
+    "svjai": [
+      {
+        "repo": "svjai/AIML_images",
+        "starred_at": "2025-08-30T16:33:41.520336+00:00"
+      }
+    ],
+    "tTerranovae": [
+      {
+        "repo": "tTerranovae/Airbnb-Clone",
+        "starred_at": "2025-08-30T16:33:41.520336+00:00"
+      }
+    ]
   }
 }
