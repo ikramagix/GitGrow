@@ -961,6 +961,67 @@
       "last_unbalanced_attempt": "2025-09-01T05:37:10.350221+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "sedhukcuo": [
+      {
+        "repo": "sedhukcuo/Desawqubcc",
+        "starred_at": "2025-09-01T08:41:48.742469+00:00"
+      }
+    ],
+    "crazyguitar": [
+      {
+        "repo": "crazyguitar/actinide",
+        "starred_at": "2025-09-01T08:41:48.742469+00:00"
+      }
+    ],
+    "hygorxaraujo": [
+      {
+        "repo": "hygorxaraujo/cython_wrapper_example",
+        "starred_at": "2025-09-01T08:41:48.742469+00:00"
+      }
+    ],
+    "sbarbat": [
+      {
+        "repo": "sbarbat/allergify-serverless",
+        "starred_at": "2025-09-01T08:41:48.742469+00:00"
+      }
+    ],
+    "tiny-bxnny": [
+      {
+        "repo": "tiny-bxnny/rat",
+        "starred_at": "2025-09-01T08:41:48.742469+00:00"
+      }
+    ],
+    "carlosrod723": [
+      {
+        "repo": "carlosrod723/Advanced-OpenCV-ComputerVision",
+        "starred_at": "2025-09-01T08:41:48.742469+00:00"
+      }
+    ],
+    "hogucc": [
+      {
+        "repo": "hogucc/book_app",
+        "starred_at": "2025-09-01T08:41:48.742469+00:00"
+      }
+    ],
+    "vipulkindarkhediya": [
+      {
+        "repo": "vipulkindarkhediya/vipulkindarkhediya.github.io",
+        "starred_at": "2025-09-01T08:41:48.742469+00:00"
+      }
+    ],
+    "Mahima1": [
+      {
+        "repo": "Mahima1/ImageEncrytion",
+        "starred_at": "2025-09-01T08:41:48.742469+00:00"
+      }
+    ],
+    "Raks-Javac": [
+      {
+        "repo": "Raks-Javac/A-local-Json-App",
+        "starred_at": "2025-09-01T08:41:48.742469+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
