@@ -906,5 +906,49 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "LanaRemenyuk": [
+      {
+        "repo": "LanaRemenyuk/api_final_yatube",
+        "starred_at": "2025-09-01T16:35:33.047752+00:00"
+      }
+    ],
+    "SplashCodeDex": [
+      {
+        "repo": "SplashCodeDex/DeXDo",
+        "starred_at": "2025-09-01T16:35:33.047752+00:00"
+      }
+    ],
+    "moxue1314": [
+      {
+        "repo": "moxue1314/machine-learning-tang",
+        "starred_at": "2025-09-01T16:35:33.047752+00:00"
+      }
+    ],
+    "abdulhamit00": [
+      {
+        "repo": "abdulhamit00/abdulhamit00",
+        "starred_at": "2025-09-01T16:35:33.047752+00:00"
+      }
+    ],
+    "pabin": [
+      {
+        "repo": "pabin/facebook-poster",
+        "starred_at": "2025-09-01T16:35:33.047752+00:00"
+      }
+    ],
+    "Tourscholar": [
+      {
+        "repo": "Tourscholar/AubioJs-App",
+        "starred_at": "2025-09-01T16:35:33.047752+00:00"
+      }
+    ],
+    "yuskraft": [
+      {
+        "repo": "yuskraft/ratti",
+        "starred_at": "2025-09-01T16:35:33.047752+00:00"
+      }
+    ]
   }
 }
