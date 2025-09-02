@@ -970,6 +970,61 @@
       "last_unbalanced_attempt": "2025-09-02T05:36:48.145024+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "icghita": [
+      {
+        "repo": "icghita/aave_brownie",
+        "starred_at": "2025-09-02T08:38:36.240146+00:00"
+      }
+    ],
+    "cosbyDeveloper": [
+      {
+        "repo": "cosbyDeveloper/SkillSpring-SaaS_Landing_page",
+        "starred_at": "2025-09-02T08:38:36.240146+00:00"
+      }
+    ],
+    "ammarali0416": [
+      {
+        "repo": "ammarali0416/Dermatology-CNN",
+        "starred_at": "2025-09-02T08:38:36.240146+00:00"
+      }
+    ],
+    "CodeRaptor92": [
+      {
+        "repo": "CodeRaptor92/MY_html",
+        "starred_at": "2025-09-02T08:38:36.240146+00:00"
+      }
+    ],
+    "lesmadeit": [
+      {
+        "repo": "lesmadeit/blogApi",
+        "starred_at": "2025-09-02T08:38:36.240146+00:00"
+      }
+    ],
+    "Kai-Meiklejohn": [
+      {
+        "repo": "Kai-Meiklejohn/IT-PRO",
+        "starred_at": "2025-09-02T08:38:36.240146+00:00"
+      }
+    ],
+    "QingmingPlusPlus": [
+      {
+        "repo": "QingmingPlusPlus/qcc-canvas-configuration",
+        "starred_at": "2025-09-02T08:38:36.240146+00:00"
+      }
+    ],
+    "thenicolau": [
+      {
+        "repo": "thenicolau/basic-grpc-golang",
+        "starred_at": "2025-09-02T08:38:36.240146+00:00"
+      }
+    ],
+    "arifulmrislam": [
+      {
+        "repo": "arifulmrislam/4x4-keypad-interfacing-with-arduino-uno",
+        "starred_at": "2025-09-02T08:38:36.240146+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
