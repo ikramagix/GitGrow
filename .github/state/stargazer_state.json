@@ -978,6 +978,67 @@
       "last_unbalanced_attempt": "2025-09-03T05:33:17.460225+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "Tominous": [
+      {
+        "repo": "Tominous/2b2t-Q-Position-Server",
+        "starred_at": "2025-09-03T08:36:05.773738+00:00"
+      }
+    ],
+    "mruediger": [
+      {
+        "repo": "mruediger/emacsd",
+        "starred_at": "2025-09-03T08:36:05.773738+00:00"
+      }
+    ],
+    "AdrieanKhisbe": [
+      {
+        "repo": "AdrieanKhisbe/AdrieanKhisbe",
+        "starred_at": "2025-09-03T08:36:05.773738+00:00"
+      }
+    ],
+    "yshz": [
+      {
+        "repo": "yshz/aws-architecture-sample",
+        "starred_at": "2025-09-03T08:36:05.773738+00:00"
+      }
+    ],
+    "mdhiego": [
+      {
+        "repo": "mdhiego/compass-sprint1-assessment",
+        "starred_at": "2025-09-03T08:36:05.773738+00:00"
+      }
+    ],
+    "EzioHelios": [
+      {
+        "repo": "EzioHelios/BucketGIS",
+        "starred_at": "2025-09-03T08:36:05.773738+00:00"
+      }
+    ],
+    "lozens": [
+      {
+        "repo": "lozens/lozens",
+        "starred_at": "2025-09-03T08:36:05.773738+00:00"
+      }
+    ],
+    "aakos23": [
+      {
+        "repo": "aakos23/dwm-personal",
+        "starred_at": "2025-09-03T08:36:05.773738+00:00"
+      }
+    ],
+    "simonsan": [
+      {
+        "repo": "simonsan/aoe_playerbase_stats",
+        "starred_at": "2025-09-03T08:36:05.773738+00:00"
+      }
+    ],
+    "Dhruvi16": [
+      {
+        "repo": "Dhruvi16/discourse_quicko",
+        "starred_at": "2025-09-03T08:36:05.773738+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
