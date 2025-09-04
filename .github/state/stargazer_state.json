@@ -980,6 +980,67 @@
       "last_unbalanced_attempt": "2025-09-04T05:33:10.173827+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "ToogoAnalyst": [
+      {
+        "repo": "ToogoAnalyst/toogo",
+        "starred_at": "2025-09-04T08:35:59.063652+00:00"
+      }
+    ],
+    "daniel-alpiste": [
+      {
+        "repo": "daniel-alpiste/chatbot-brodies",
+        "starred_at": "2025-09-04T08:35:59.063652+00:00"
+      }
+    ],
+    "nath-asha": [
+      {
+        "repo": "nath-asha/AEC",
+        "starred_at": "2025-09-04T08:35:59.063652+00:00"
+      }
+    ],
+    "mfpiccolo": [
+      {
+        "repo": "mfpiccolo/adequate-demo",
+        "starred_at": "2025-09-04T08:35:59.063652+00:00"
+      }
+    ],
+    "sound0422": [
+      {
+        "repo": "sound0422/phishing_domain_detection",
+        "starred_at": "2025-09-04T08:35:59.063652+00:00"
+      }
+    ],
+    "karthik-hbr": [
+      {
+        "repo": "karthik-hbr/dbchallenge",
+        "starred_at": "2025-09-04T08:35:59.063652+00:00"
+      }
+    ],
+    "OwlHowlinMornSky": [
+      {
+        "repo": "OwlHowlinMornSky/Genshin-Start",
+        "starred_at": "2025-09-04T08:35:59.063652+00:00"
+      }
+    ],
+    "aks97cs": [
+      {
+        "repo": "aks97cs/admin-dashboard-cakephp",
+        "starred_at": "2025-09-04T08:35:59.063652+00:00"
+      }
+    ],
+    "Ahmed00002": [
+      {
+        "repo": "Ahmed00002/coffeeHubClient",
+        "starred_at": "2025-09-04T08:35:59.063652+00:00"
+      }
+    ],
+    "perborgen": [
+      {
+        "repo": "perborgen/BikeSharingDemand",
+        "starred_at": "2025-09-04T08:35:59.063652+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
