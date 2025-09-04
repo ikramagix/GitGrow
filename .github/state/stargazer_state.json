@@ -924,5 +924,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "Soulstic3": [
+      {
+        "repo": "Soulstic3/APIMercadinho",
+        "starred_at": "2025-09-04T16:36:35.727789+00:00"
+      }
+    ],
+    "danielmarkow": [
+      {
+        "repo": "danielmarkow/banking-application",
+        "starred_at": "2025-09-04T16:36:35.727789+00:00"
+      }
+    ],
+    "Irfan-Majid": [
+      {
+        "repo": "Irfan-Majid/fetch_using_redux_toolkit",
+        "starred_at": "2025-09-04T16:36:35.727789+00:00"
+      }
+    ],
+    "hgye": [
+      {
+        "repo": "hgye/cis194-spring13",
+        "starred_at": "2025-09-04T16:36:35.727789+00:00"
+      }
+    ],
+    "bottomash": [
+      {
+        "repo": "bottomash/pic",
+        "starred_at": "2025-09-04T16:36:35.727789+00:00"
+      }
+    ],
+    "Muthumaniraj26": [
+      {
+        "repo": "Muthumaniraj26/aiagent_langchain_ollama",
+        "starred_at": "2025-09-04T16:36:35.727789+00:00"
+      }
+    ],
+    "shravanksubrahmanya": [
+      {
+        "repo": "shravanksubrahmanya/BooksInventory",
+        "starred_at": "2025-09-04T16:36:35.727789+00:00"
+      }
+    ],
+    "lucasvma": [
+      {
+        "repo": "lucasvma/alura-tracker",
+        "starred_at": "2025-09-04T16:36:35.727789+00:00"
+      }
+    ],
+    "richardwesthaver": [
+      {
+        "repo": "richardwesthaver/bank",
+        "starred_at": "2025-09-04T16:36:35.727789+00:00"
+      }
+    ],
+    "j0sephh123": [
+      {
+        "repo": "j0sephh123/accountability",
+        "starred_at": "2025-09-04T16:36:35.727789+00:00"
+      }
+    ]
   }
 }
