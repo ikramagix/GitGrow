@@ -931,5 +931,49 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "Halvani": [
+      {
+        "repo": "Halvani/alphabetic",
+        "starred_at": "2025-09-05T16:33:53.666616+00:00"
+      }
+    ],
+    "Chandan9898Kumar": [
+      {
+        "repo": "Chandan9898Kumar/Browser_Stack_Movie_Rate",
+        "starred_at": "2025-09-05T16:33:53.666616+00:00"
+      }
+    ],
+    "Canvas02": [
+      {
+        "repo": "Canvas02/advent-of-code-2022",
+        "starred_at": "2025-09-05T16:33:53.666616+00:00"
+      }
+    ],
+    "Riyadhossain007": [
+      {
+        "repo": "Riyadhossain007/component",
+        "starred_at": "2025-09-05T16:33:53.666616+00:00"
+      }
+    ],
+    "xtalx": [
+      {
+        "repo": "xtalx/talwilliams.com",
+        "starred_at": "2025-09-05T16:33:53.666616+00:00"
+      }
+    ],
+    "SelectionFlag": [
+      {
+        "repo": "SelectionFlag/BedsKitte",
+        "starred_at": "2025-09-05T16:33:53.666616+00:00"
+      }
+    ],
+    "alexsnoor": [
+      {
+        "repo": "alexsnoor/personal-site-template",
+        "starred_at": "2025-09-05T16:33:53.666616+00:00"
+      }
+    ]
   }
 }
