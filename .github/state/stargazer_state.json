@@ -988,6 +988,55 @@
       "last_unbalanced_attempt": "2025-09-05T05:33:25.281546+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "HughTaiyaki": [
+      {
+        "repo": "HughTaiyaki/HughTaiyaki.github.io",
+        "starred_at": "2025-09-05T08:36:17.150024+00:00"
+      }
+    ],
+    "omivalera": [
+      {
+        "repo": "omivalera/bootstrappage",
+        "starred_at": "2025-09-05T08:36:17.150024+00:00"
+      }
+    ],
+    "allen6290": [
+      {
+        "repo": "allen6290/showGit",
+        "starred_at": "2025-09-05T08:36:17.150024+00:00"
+      }
+    ],
+    "jxrjlxc02": [
+      {
+        "repo": "jxrjlxc02/ner_practice",
+        "starred_at": "2025-09-05T08:36:17.150024+00:00"
+      }
+    ],
+    "ivandir": [
+      {
+        "repo": "ivandir/DockerContainerExamples",
+        "starred_at": "2025-09-05T08:36:17.150024+00:00"
+      }
+    ],
+    "jinjian1991": [
+      {
+        "repo": "jinjian1991/CURL",
+        "starred_at": "2025-09-05T08:36:17.150024+00:00"
+      }
+    ],
+    "rafael-neri": [
+      {
+        "repo": "rafael-neri/believers-sword",
+        "starred_at": "2025-09-05T08:36:17.150024+00:00"
+      }
+    ],
+    "padiazg": [
+      {
+        "repo": "padiazg/airelibrebot",
+        "starred_at": "2025-09-05T08:36:17.150024+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
