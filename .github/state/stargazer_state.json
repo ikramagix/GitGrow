@@ -981,6 +981,61 @@
       "last_unbalanced_attempt": "2025-09-06T05:32:09.425053+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "GuiEspim18": [
+      {
+        "repo": "GuiEspim18/alura-dash-board",
+        "starred_at": "2025-09-06T08:32:05.384708+00:00"
+      }
+    ],
+    "wassay13": [
+      {
+        "repo": "wassay13/Dialogix-Intelligent-Customer-Interaction-Bot",
+        "starred_at": "2025-09-06T08:32:05.384708+00:00"
+      }
+    ],
+    "kagetora66": [
+      {
+        "repo": "kagetora66/excelactor",
+        "starred_at": "2025-09-06T08:32:05.384708+00:00"
+      }
+    ],
+    "Rodolfo-Sampaio": [
+      {
+        "repo": "Rodolfo-Sampaio/Adopet",
+        "starred_at": "2025-09-06T08:32:05.384708+00:00"
+      }
+    ],
+    "dorcasndungu": [
+      {
+        "repo": "dorcasndungu/1022-AI",
+        "starred_at": "2025-09-06T08:32:05.384708+00:00"
+      }
+    ],
+    "brendatagna": [
+      {
+        "repo": "brendatagna/sofiasoft",
+        "starred_at": "2025-09-06T08:32:05.384708+00:00"
+      }
+    ],
+    "myugo28": [
+      {
+        "repo": "myugo28/test3d",
+        "starred_at": "2025-09-06T08:32:05.384708+00:00"
+      }
+    ],
+    "siyige2727": [
+      {
+        "repo": "siyige2727/xiaozheorz",
+        "starred_at": "2025-09-06T08:32:05.384708+00:00"
+      }
+    ],
+    "yunyu950908": [
+      {
+        "repo": "yunyu950908/algo",
+        "starred_at": "2025-09-06T08:32:05.384708+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
