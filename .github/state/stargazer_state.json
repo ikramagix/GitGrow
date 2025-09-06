@@ -11,7 +11,6 @@
     "Contractor-x",
     "DelignyS",
     "EduardoDosSantosFerreira",
-    "GylanSalih",
     "Iankulani",
     "IgorSilvaZZ",
     "IshmamAbir",
@@ -99,14 +98,15 @@
     "zakarialaoui10"
   ],
   "mutual_stars": {},
-  "unstargazers": [],
+  "unstargazers": [
+    "GylanSalih"
+  ],
   "reciprocity": {
     "NickScherbakov": {
       "starred_by": [
         "ikramagix/allgreektome_password_generator_template"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "abhijit1990": {
       "starred_by": [
@@ -114,8 +114,7 @@
         "ikramagix/gem_badge",
         "ikramagix/simple-proxy"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "discodot": {
       "starred_by": [
@@ -126,8 +125,7 @@
       ],
       "starred_back": [
         "discodot/discodot"
-      ],
-      "last_unbalanced_attempt": "2025-09-05T21:27:04.567497+00:00"
+      ]
     },
     "masechkacat": {
       "starred_by": [
@@ -164,8 +162,7 @@
         "yyle88/gormmom",
         "yyle88/formatgo",
         "yyle88/rese"
-      ],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      ]
     },
     "KostasSliazas": {
       "starred_by": [
@@ -187,8 +184,7 @@
         "KostasSliazas/todo-app-qr.io",
         "KostasSliazas/project-kitten",
         "KostasSliazas/questions"
-      ],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      ]
     },
     "stayupdatedorgetinfected": {
       "starred_by": [
@@ -201,8 +197,7 @@
         "ikramagix/notefleex",
         "ikramagix/Tic_Tac_Toe_IA"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T21:27:04.567497+00:00"
+      "starred_back": []
     },
     "elenagalun": {
       "starred_by": [
@@ -222,8 +217,7 @@
         "elenagalun/adroid",
         "elenagalun/elenatest",
         "elenagalun/next"
-      ],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      ]
     },
     "elhadjx": {
       "starred_by": [
@@ -253,8 +247,7 @@
         "mikemaz-dev/PomodoroTimer",
         "mikemaz-dev/portfolio-site",
         "mikemaz-dev/next-pizza"
-      ],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      ]
     },
     "DelignyS": {
       "starred_by": [
@@ -277,8 +270,7 @@
       ],
       "starred_back": [
         "macvsrpro/Java-Swing-GUI-Application"
-      ],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      ]
     },
     "JustinFrost47": {
       "starred_by": [
@@ -307,22 +299,19 @@
         "ahnshy/Win32-Resource-Automatic-Translator",
         "ahnshy/Korea-Weather-Dashboard",
         "ahnshy/GitLogService"
-      ],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      ]
     },
     "dulanjayabhanu": {
       "starred_by": [
         "ikramagix/Booksy"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "cvillanue": {
       "starred_by": [
         "ikramagix/Booksy"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "sadrax4": {
       "starred_by": [
@@ -335,8 +324,7 @@
         "sadrax4/nestjs-GraphQL",
         "sadrax4/nest-restapi",
         "sadrax4/nestjs-Rabbitmq"
-      ],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      ]
     },
     "deepblizzard": {
       "starred_by": [
@@ -346,8 +334,7 @@
         "ikramagix/inspagram",
         "ikramagix/Tic_Tac_Toe_IA"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "JawherKl": {
       "starred_by": [
@@ -359,24 +346,21 @@
       ],
       "starred_back": [
         "JawherKl/design-patterns-in-multiple-languages"
-      ],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      ]
     },
     "xinxingwu-uk": {
       "starred_by": [
         "ikramagix/Confiable",
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "alxbnct": {
       "starred_by": [
         "ikramagix/Confiable",
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "istarengwa": {
       "starred_by": [
@@ -421,8 +405,7 @@
       ],
       "starred_back": [
         "gr33kurious/todoism"
-      ],
-      "last_unbalanced_attempt": "2025-09-05T21:27:04.567497+00:00"
+      ]
     },
     "develectro": {
       "starred_by": [
@@ -445,8 +428,7 @@
         "ikramagix/GitGrow",
         "ikramagix/moodle-local_yeswecanquiz"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "getintogit1": {
       "starred_by": [
@@ -454,24 +436,21 @@
         "ikramagix/gem_badge",
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "pboling": {
       "starred_by": [
         "ikramagix/faussaire",
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "metaory": {
       "starred_by": [
         "ikramagix/faussaire",
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "Meetjain1": {
       "starred_by": [
@@ -589,8 +568,7 @@
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T21:27:04.567497+00:00"
+      "starred_back": []
     },
     "Sanskar-Bhushankar": {
       "starred_by": [
@@ -712,22 +690,19 @@
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "RafalW3bCraft": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "dmkjfs": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "MaxMorais": {
       "starred_by": [
@@ -741,113 +716,97 @@
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "Almas-Ali": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "NamesMT": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "ravizhan": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "IshmamAbir": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "Argaven": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "naimo84": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "amjadjibon": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "Ripwords": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "lrepo52": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T21:27:04.567497+00:00"
+      "starred_back": []
     },
     "zakarialaoui10": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "alexrigler": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T21:27:04.567497+00:00"
+      "starred_back": []
     },
     "h4rldev": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "Afzal-husen": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "sedegah": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "glassBead-tc": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "AbbasDehganzadeh": {
       "starred_by": [
@@ -861,64 +820,55 @@
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "YanisBenekaa": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "devid8642": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "nhat-tien": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "leewr9": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "nuts-rice": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "freakynit": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "najafi-saeed": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "OmarAglan": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "SplashCodeDex": {
       "starred_by": [
@@ -932,30 +882,19 @@
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "antoniolago": {
       "starred_by": [
         "ikramagix/GitGrow"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
-    },
-    "GylanSalih": {
-      "starred_by": [
-        "ikramagix/ikramagix"
-      ],
-      "starred_back": [
-        "GylanSalih/RetroVerse-Batocera-Theme"
-      ]
+      "starred_back": []
     },
     "seanpm2001": {
       "starred_by": [
         "ikramagix/ikramagix"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "sins921": {
       "starred_by": [
@@ -977,168 +916,13 @@
       "starred_by": [
         "ikramagix/moodle-local_yeswecanquiz"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T19:27:21.196745+00:00"
+      "starred_back": []
     },
     "01725973292": {
       "starred_by": [
         "ikramagix/notefleex"
       ],
-      "starred_back": [],
-      "last_unbalanced_attempt": "2025-09-05T21:27:04.567497+00:00"
+      "starred_back": []
     }
-  },
-  "growth_starred": {
-    "Halvani": [
-      {
-        "repo": "Halvani/alphabetic",
-        "starred_at": "2025-09-05T16:33:53.666616+00:00"
-      }
-    ],
-    "Chandan9898Kumar": [
-      {
-        "repo": "Chandan9898Kumar/Browser_Stack_Movie_Rate",
-        "starred_at": "2025-09-05T16:33:53.666616+00:00"
-      }
-    ],
-    "Canvas02": [
-      {
-        "repo": "Canvas02/advent-of-code-2022",
-        "starred_at": "2025-09-05T16:33:53.666616+00:00"
-      }
-    ],
-    "Riyadhossain007": [
-      {
-        "repo": "Riyadhossain007/component",
-        "starred_at": "2025-09-05T16:33:53.666616+00:00"
-      }
-    ],
-    "xtalx": [
-      {
-        "repo": "xtalx/talwilliams.com",
-        "starred_at": "2025-09-05T16:33:53.666616+00:00"
-      }
-    ],
-    "SelectionFlag": [
-      {
-        "repo": "SelectionFlag/BedsKitte",
-        "starred_at": "2025-09-05T16:33:53.666616+00:00"
-      }
-    ],
-    "alexsnoor": [
-      {
-        "repo": "alexsnoor/personal-site-template",
-        "starred_at": "2025-09-05T16:33:53.666616+00:00"
-      }
-    ],
-    "guilhermemvieira": [
-      {
-        "repo": "guilhermemvieira/clone-tabnews",
-        "starred_at": "2025-09-05T23:26:54.290071+00:00"
-      }
-    ],
-    "vr428987": [
-      {
-        "repo": "vr428987/hell-word",
-        "starred_at": "2025-09-05T23:26:54.290071+00:00"
-      }
-    ],
-    "leeonon": [
-      {
-        "repo": "leeonon/collection",
-        "starred_at": "2025-09-05T23:26:54.290071+00:00"
-      }
-    ],
-    "Farahrama": [
-      {
-        "repo": "Farahrama/airbnb-clone-project",
-        "starred_at": "2025-09-05T23:26:54.290071+00:00"
-      }
-    ],
-    "yasarcelep": [
-      {
-        "repo": "yasarcelep/kamp",
-        "starred_at": "2025-09-05T23:26:54.290071+00:00"
-      }
-    ],
-    "vicotirah": [
-      {
-        "repo": "vicotirah/hackathon_agi",
-        "starred_at": "2025-09-05T23:26:54.290071+00:00"
-      }
-    ],
-    "netzflechter": [
-      {
-        "repo": "netzflechter/netzflechter.github.io",
-        "starred_at": "2025-09-05T23:26:54.290071+00:00"
-      }
-    ],
-    "ansrivas": [
-      {
-        "repo": "ansrivas/aiven-rs",
-        "starred_at": "2025-09-05T23:26:54.290071+00:00"
-      }
-    ],
-    "kbaran1998": [
-      {
-        "repo": "kbaran1998/container_runtime_comparison",
-        "starred_at": "2025-09-05T23:26:54.290071+00:00"
-      }
-    ],
-    "tomkat-cr": [
-      {
-        "repo": "tomkat-cr/ai_readme_generator",
-        "starred_at": "2025-09-06T01:57:29.882224+00:00"
-      }
-    ],
-    "rodcisal": [
-      {
-        "repo": "rodcisal/creadi.ch",
-        "starred_at": "2025-09-06T01:57:29.882224+00:00"
-      }
-    ],
-    "RainYaya": [
-      {
-        "repo": "RainYaya/movielia",
-        "starred_at": "2025-09-06T01:57:29.882224+00:00"
-      }
-    ],
-    "duycuong87vn": [
-      {
-        "repo": "duycuong87vn/falcon-REST",
-        "starred_at": "2025-09-06T01:57:29.882224+00:00"
-      }
-    ],
-    "Muiruriscode": [
-      {
-        "repo": "Muiruriscode/3D-threejs-projects",
-        "starred_at": "2025-09-06T01:57:29.882224+00:00"
-      }
-    ],
-    "oabuhamdan": [
-      {
-        "repo": "oabuhamdan/4-cards-game",
-        "starred_at": "2025-09-06T01:57:29.882224+00:00"
-      }
-    ],
-    "maganaluis": [
-      {
-        "repo": "maganaluis/go-http-server",
-        "starred_at": "2025-09-06T01:57:29.882224+00:00"
-      }
-    ],
-    "rickyrod4": [
-      {
-        "repo": "rickyrod4/algoPractice",
-        "starred_at": "2025-09-06T01:57:29.882224+00:00"
-      }
-    ],
-    "thanhvotran": [
-      {
-        "repo": "thanhvotran/algorithms_princeton",
-        "starred_at": "2025-09-06T01:57:29.882224+00:00"
-      }
-    ]
-  },
-  "unresponsive": {}
+  }
 }
