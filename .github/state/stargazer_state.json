@@ -988,6 +988,55 @@
       "last_unbalanced_attempt": "2025-09-07T05:32:21.773850+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "Isuleim": [
+      {
+        "repo": "Isuleim/Advanced-ML-for-Enhancing-Software-Security-Vulnerability-Classification-Anomaly-Detection",
+        "starred_at": "2025-09-07T08:31:59.240884+00:00"
+      }
+    ],
+    "bhargav-borah": [
+      {
+        "repo": "bhargav-borah/autocorrect",
+        "starred_at": "2025-09-07T08:31:59.240884+00:00"
+      }
+    ],
+    "aikusoni": [
+      {
+        "repo": "aikusoni/colab_study",
+        "starred_at": "2025-09-07T08:31:59.240884+00:00"
+      }
+    ],
+    "moskrc": [
+      {
+        "repo": "moskrc/cbrf_converter_rust",
+        "starred_at": "2025-09-07T08:31:59.240884+00:00"
+      }
+    ],
+    "ronaldborja": [
+      {
+        "repo": "ronaldborja/backendbanco",
+        "starred_at": "2025-09-07T08:31:59.240884+00:00"
+      }
+    ],
+    "amitcse": [
+      {
+        "repo": "amitcse/personalized-video-webapp",
+        "starred_at": "2025-09-07T08:31:59.240884+00:00"
+      }
+    ],
+    "bardaktonyden": [
+      {
+        "repo": "bardaktonyden/git-commands",
+        "starred_at": "2025-09-07T08:31:59.240884+00:00"
+      }
+    ],
+    "mvayngrib": [
+      {
+        "repo": "mvayngrib/adexample",
+        "starred_at": "2025-09-07T08:31:59.240884+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
