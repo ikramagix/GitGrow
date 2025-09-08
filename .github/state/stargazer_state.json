@@ -931,5 +931,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "Matheusafonsouza": [
+      {
+        "repo": "Matheusafonsouza/amqp-adapter",
+        "starred_at": "2025-09-08T16:36:44.423804+00:00"
+      }
+    ],
+    "tomabuct": [
+      {
+        "repo": "tomabuct/.files",
+        "starred_at": "2025-09-08T16:36:44.423804+00:00"
+      }
+    ],
+    "anic1618": [
+      {
+        "repo": "anic1618/anic1618.github.io",
+        "starred_at": "2025-09-08T16:36:44.423804+00:00"
+      }
+    ],
+    "roknicmilos": [
+      {
+        "repo": "roknicmilos/.github",
+        "starred_at": "2025-09-08T16:36:44.423804+00:00"
+      }
+    ],
+    "yarelismartin": [
+      {
+        "repo": "yarelismartin/90s-TV",
+        "starred_at": "2025-09-08T16:36:44.423804+00:00"
+      }
+    ],
+    "Molotov921": [
+      {
+        "repo": "Molotov921/animator_galaxy",
+        "starred_at": "2025-09-08T16:36:44.423804+00:00"
+      }
+    ],
+    "jehb": [
+      {
+        "repo": "jehb/awesomestuff",
+        "starred_at": "2025-09-08T16:36:44.423804+00:00"
+      }
+    ],
+    "athaulrehman0304": [
+      {
+        "repo": "athaulrehman0304/athaulrehman0304",
+        "starred_at": "2025-09-08T16:36:44.423804+00:00"
+      }
+    ],
+    "tino097": [
+      {
+        "repo": "tino097/awesome-django-rest-api",
+        "starred_at": "2025-09-08T16:36:44.423804+00:00"
+      }
+    ],
+    "ss892714028": [
+      {
+        "repo": "ss892714028/Algorithms",
+        "starred_at": "2025-09-08T16:36:44.423804+00:00"
+      }
+    ]
   }
 }
