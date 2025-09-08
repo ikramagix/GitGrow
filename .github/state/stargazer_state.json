@@ -988,6 +988,61 @@
       "last_unbalanced_attempt": "2025-09-08T05:34:36.022828+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "srijanshukla18": [
+      {
+        "repo": "srijanshukla18/global-publish",
+        "starred_at": "2025-09-08T08:40:46.946700+00:00"
+      }
+    ],
+    "ivan-karaivanov": [
+      {
+        "repo": "ivan-karaivanov/Apple-eCommerce",
+        "starred_at": "2025-09-08T08:40:46.946700+00:00"
+      }
+    ],
+    "amwLEE": [
+      {
+        "repo": "amwLEE/autonomous-maze-solving-robot",
+        "starred_at": "2025-09-08T08:40:46.946700+00:00"
+      }
+    ],
+    "rbs392": [
+      {
+        "repo": "rbs392/advent_of_code",
+        "starred_at": "2025-09-08T08:40:46.946700+00:00"
+      }
+    ],
+    "taghizad3h": [
+      {
+        "repo": "taghizad3h/arxiv_crawler",
+        "starred_at": "2025-09-08T08:40:46.946700+00:00"
+      }
+    ],
+    "srbcj": [
+      {
+        "repo": "srbcj/matrix",
+        "starred_at": "2025-09-08T08:40:46.946700+00:00"
+      }
+    ],
+    "Binwen6": [
+      {
+        "repo": "Binwen6/2020C",
+        "starred_at": "2025-09-08T08:40:46.946700+00:00"
+      }
+    ],
+    "mitch-jensen": [
+      {
+        "repo": "mitch-jensen/fastapi-playground",
+        "starred_at": "2025-09-08T08:40:46.946700+00:00"
+      }
+    ],
+    "maalekkozoori": [
+      {
+        "repo": "maalekkozoori/AndroidFragments",
+        "starred_at": "2025-09-08T08:40:46.946700+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
