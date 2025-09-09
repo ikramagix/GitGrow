@@ -996,6 +996,67 @@
       "last_unbalanced_attempt": "2025-09-09T05:33:36.872452+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "j68323704": [
+      {
+        "repo": "j68323704/jerardo-cervantes",
+        "starred_at": "2025-09-09T08:38:51.021489+00:00"
+      }
+    ],
+    "grachivera4": [
+      {
+        "repo": "grachivera4/grachivera4",
+        "starred_at": "2025-09-09T08:38:51.021489+00:00"
+      }
+    ],
+    "mahdikhoshdel": [
+      {
+        "repo": "mahdikhoshdel/amazon-sales-trend",
+        "starred_at": "2025-09-09T08:38:51.021489+00:00"
+      }
+    ],
+    "1hakann": [
+      {
+        "repo": "1hakann/001-counter-app",
+        "starred_at": "2025-09-09T08:38:51.021489+00:00"
+      }
+    ],
+    "gusguidry": [
+      {
+        "repo": "gusguidry/dotfiles",
+        "starred_at": "2025-09-09T08:38:51.021489+00:00"
+      }
+    ],
+    "mnajdova": [
+      {
+        "repo": "mnajdova/Android-Application-FindJob",
+        "starred_at": "2025-09-09T08:38:51.021489+00:00"
+      }
+    ],
+    "tapeykatt": [
+      {
+        "repo": "tapeykatt/tapeykatt.github.io",
+        "starred_at": "2025-09-09T08:38:51.021489+00:00"
+      }
+    ],
+    "kjmatsuda": [
+      {
+        "repo": "kjmatsuda/arduino_tank_robot",
+        "starred_at": "2025-09-09T08:38:51.021489+00:00"
+      }
+    ],
+    "23clock": [
+      {
+        "repo": "23clock/23clock",
+        "starred_at": "2025-09-09T08:38:51.021489+00:00"
+      }
+    ],
+    "shrikantchine": [
+      {
+        "repo": "shrikantchine/datastructures",
+        "starred_at": "2025-09-09T08:38:51.021489+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
