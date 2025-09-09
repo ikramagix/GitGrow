@@ -938,5 +938,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "machupicchubeta": [
+      {
+        "repo": "machupicchubeta/comfortable_mexican_sofa_sample",
+        "starred_at": "2025-09-09T16:38:00.466119+00:00"
+      }
+    ],
+    "VitorFigueiredoDev": [
+      {
+        "repo": "VitorFigueiredoDev/Gerador-de-Senhas-Aleat-rias",
+        "starred_at": "2025-09-09T16:38:00.466119+00:00"
+      }
+    ],
+    "tvarjao": [
+      {
+        "repo": "tvarjao/Estudos_JS",
+        "starred_at": "2025-09-09T16:38:00.466119+00:00"
+      }
+    ],
+    "kmdrn7": [
+      {
+        "repo": "kmdrn7/absensi-lumen-firebase",
+        "starred_at": "2025-09-09T16:38:00.466119+00:00"
+      }
+    ],
+    "yqmxm": [
+      {
+        "repo": "yqmxm/drag",
+        "starred_at": "2025-09-09T16:38:00.466119+00:00"
+      }
+    ],
+    "Alejandroid17": [
+      {
+        "repo": "Alejandroid17/addon-postgreSQL",
+        "starred_at": "2025-09-09T16:38:00.466119+00:00"
+      }
+    ],
+    "yotiosoft": [
+      {
+        "repo": "yotiosoft/AI-Reversi",
+        "starred_at": "2025-09-09T16:38:00.466119+00:00"
+      }
+    ],
+    "Shivraj97": [
+      {
+        "repo": "Shivraj97/blogger",
+        "starred_at": "2025-09-09T16:38:00.466119+00:00"
+      }
+    ],
+    "lukanvieira": [
+      {
+        "repo": "lukanvieira/Calculator_React",
+        "starred_at": "2025-09-09T16:38:00.466119+00:00"
+      }
+    ],
+    "zhanfang": [
+      {
+        "repo": "zhanfang/500px-img",
+        "starred_at": "2025-09-09T16:38:00.466119+00:00"
+      }
+    ]
   }
 }
