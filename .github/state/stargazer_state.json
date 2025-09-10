@@ -938,5 +938,49 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "bitflasher": [
+      {
+        "repo": "bitflasher/udacity-intro2ml",
+        "starred_at": "2025-09-10T16:36:45.721181+00:00"
+      }
+    ],
+    "milely": [
+      {
+        "repo": "milely/SRN.Pytorch",
+        "starred_at": "2025-09-10T16:36:45.721181+00:00"
+      }
+    ],
+    "theodore-s-beers": [
+      {
+        "repo": "theodore-s-beers/abjad-k8s",
+        "starred_at": "2025-09-10T16:36:45.721181+00:00"
+      }
+    ],
+    "CalebAmoh": [
+      {
+        "repo": "CalebAmoh/DOCUMENT-MANAGEMENT-UI",
+        "starred_at": "2025-09-10T16:36:45.721181+00:00"
+      }
+    ],
+    "a2un": [
+      {
+        "repo": "a2un/algorithmic_fairness",
+        "starred_at": "2025-09-10T16:36:45.721181+00:00"
+      }
+    ],
+    "ozeer": [
+      {
+        "repo": "ozeer/blog",
+        "starred_at": "2025-09-10T16:36:45.721181+00:00"
+      }
+    ],
+    "koffygh": [
+      {
+        "repo": "koffygh/bfs",
+        "starred_at": "2025-09-10T16:36:45.721181+00:00"
+      }
+    ]
   }
 }
