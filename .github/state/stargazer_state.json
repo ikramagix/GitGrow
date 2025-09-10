@@ -996,6 +996,61 @@
       "last_unbalanced_attempt": "2025-09-10T05:33:43.570645+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "kelset": [
+      {
+        "repo": "kelset/AdventOfCode2017",
+        "starred_at": "2025-09-10T08:37:35.030840+00:00"
+      }
+    ],
+    "msrogers2015": [
+      {
+        "repo": "msrogers2015/AniTrac",
+        "starred_at": "2025-09-10T08:37:35.030840+00:00"
+      }
+    ],
+    "KamTheCreator": [
+      {
+        "repo": "KamTheCreator/-React-Youtube-Clone-",
+        "starred_at": "2025-09-10T08:37:35.030840+00:00"
+      }
+    ],
+    "vitalsowath": [
+      {
+        "repo": "vitalsowath/vitalsowath",
+        "starred_at": "2025-09-10T08:37:35.030840+00:00"
+      }
+    ],
+    "priteshjha4u": [
+      {
+        "repo": "priteshjha4u/ngTodo",
+        "starred_at": "2025-09-10T08:37:35.030840+00:00"
+      }
+    ],
+    "AndreasWillibaldWeber": [
+      {
+        "repo": "AndreasWillibaldWeber/fsm-sim",
+        "starred_at": "2025-09-10T08:37:35.030840+00:00"
+      }
+    ],
+    "funoshi": [
+      {
+        "repo": "funoshi/aptos",
+        "starred_at": "2025-09-10T08:37:35.030840+00:00"
+      }
+    ],
+    "mmar": [
+      {
+        "repo": "mmar/awesome-tech-books",
+        "starred_at": "2025-09-10T08:37:35.030840+00:00"
+      }
+    ],
+    "prichodko": [
+      {
+        "repo": "prichodko/Demo",
+        "starred_at": "2025-09-10T08:37:35.030840+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
