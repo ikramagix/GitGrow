@@ -1012,6 +1012,61 @@
       "last_unbalanced_attempt": "2025-09-11T05:34:05.716244+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "pocketjoso": [
+      {
+        "repo": "pocketjoso/css-compare-screenshots",
+        "starred_at": "2025-09-11T08:36:00.704263+00:00"
+      }
+    ],
+    "TSchonleber": [
+      {
+        "repo": "TSchonleber/.snowai",
+        "starred_at": "2025-09-11T08:36:00.704263+00:00"
+      }
+    ],
+    "ifeuille": [
+      {
+        "repo": "ifeuille/FastMathTests",
+        "starred_at": "2025-09-11T08:36:00.704263+00:00"
+      }
+    ],
+    "mohamad-es": [
+      {
+        "repo": "mohamad-es/alibaba-sample-react",
+        "starred_at": "2025-09-11T08:36:00.704263+00:00"
+      }
+    ],
+    "bragamat": [
+      {
+        "repo": "bragamat/ads",
+        "starred_at": "2025-09-11T08:36:00.704263+00:00"
+      }
+    ],
+    "Mike97l": [
+      {
+        "repo": "Mike97l/project",
+        "starred_at": "2025-09-11T08:36:00.704263+00:00"
+      }
+    ],
+    "JohnEsleyer": [
+      {
+        "repo": "JohnEsleyer/allregions-aws",
+        "starred_at": "2025-09-11T08:36:00.704263+00:00"
+      }
+    ],
+    "gavanlamb": [
+      {
+        "repo": "gavanlamb/.net-vulnerable",
+        "starred_at": "2025-09-11T08:36:00.704263+00:00"
+      }
+    ],
+    "Ariful369": [
+      {
+        "repo": "Ariful369/MDA",
+        "starred_at": "2025-09-11T08:36:00.704263+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
