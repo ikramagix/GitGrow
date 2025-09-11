@@ -952,5 +952,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "amorimmaria": [
+      {
+        "repo": "amorimmaria/Assembly-MIPS",
+        "starred_at": "2025-09-11T16:34:40.681652+00:00"
+      }
+    ],
+    "rsrini7": [
+      {
+        "repo": "rsrini7/AkkaStarter",
+        "starred_at": "2025-09-11T16:34:40.681652+00:00"
+      }
+    ],
+    "rafaelmbsouza": [
+      {
+        "repo": "rafaelmbsouza/arbyte2",
+        "starred_at": "2025-09-11T16:34:40.681652+00:00"
+      }
+    ],
+    "jusx": [
+      {
+        "repo": "jusx/dotfiles",
+        "starred_at": "2025-09-11T16:34:40.681652+00:00"
+      }
+    ],
+    "m0saan": [
+      {
+        "repo": "m0saan/42-AI-Bootcamp",
+        "starred_at": "2025-09-11T16:34:40.681652+00:00"
+      }
+    ],
+    "imalbert": [
+      {
+        "repo": "imalbert/bob-prototype",
+        "starred_at": "2025-09-11T16:34:40.681652+00:00"
+      }
+    ],
+    "oochain": [
+      {
+        "repo": "oochain/gemini-terminal-chatbot",
+        "starred_at": "2025-09-11T16:34:40.681652+00:00"
+      }
+    ],
+    "pothitos": [
+      {
+        "repo": "pothitos/CV",
+        "starred_at": "2025-09-11T16:34:40.681652+00:00"
+      }
+    ],
+    "aaltatan": [
+      {
+        "repo": "aaltatan/beddi-react",
+        "starred_at": "2025-09-11T16:34:40.681652+00:00"
+      }
+    ]
   }
 }
