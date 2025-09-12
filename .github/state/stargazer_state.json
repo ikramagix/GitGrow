@@ -1028,6 +1028,55 @@
       "last_unbalanced_attempt": "2025-09-12T05:33:21.179640+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "avocado1109": [
+      {
+        "repo": "avocado1109/airdrop-frontend-cosmos",
+        "starred_at": "2025-09-12T08:36:08.469119+00:00"
+      }
+    ],
+    "arul-sinha": [
+      {
+        "repo": "arul-sinha/discordBot",
+        "starred_at": "2025-09-12T08:36:08.469119+00:00"
+      }
+    ],
+    "fecet": [
+      {
+        "repo": "fecet/alpaca-lora-Chinese",
+        "starred_at": "2025-09-12T08:36:08.469119+00:00"
+      }
+    ],
+    "aqrdka": [
+      {
+        "repo": "aqrdka/data-web",
+        "starred_at": "2025-09-12T08:36:08.469119+00:00"
+      }
+    ],
+    "blackstrip": [
+      {
+        "repo": "blackstrip/blackstrip",
+        "starred_at": "2025-09-12T08:36:08.469119+00:00"
+      }
+    ],
+    "Muhammad-Ramazanovich": [
+      {
+        "repo": "Muhammad-Ramazanovich/blockchain-freelancing",
+        "starred_at": "2025-09-12T08:36:08.469119+00:00"
+      }
+    ],
+    "anatfernandes": [
+      {
+        "repo": "anatfernandes/alura-imersao-java",
+        "starred_at": "2025-09-12T08:36:08.469119+00:00"
+      }
+    ],
+    "dan-gut1": [
+      {
+        "repo": "dan-gut1/auto-timeclock365",
+        "starred_at": "2025-09-12T08:36:08.469119+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
