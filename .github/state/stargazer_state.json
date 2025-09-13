@@ -1028,6 +1028,61 @@
       "last_unbalanced_attempt": "2025-09-13T05:31:55.965972+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "elvishabib": [
+      {
+        "repo": "elvishabib/Alinagnon",
+        "starred_at": "2025-09-13T08:32:26.461642+00:00"
+      }
+    ],
+    "aeltanawy": [
+      {
+        "repo": "aeltanawy/atom_config",
+        "starred_at": "2025-09-13T08:32:26.461642+00:00"
+      }
+    ],
+    "matthew-shaw": [
+      {
+        "repo": "matthew-shaw/awesome-service",
+        "starred_at": "2025-09-13T08:32:26.461642+00:00"
+      }
+    ],
+    "vitordcunha": [
+      {
+        "repo": "vitordcunha/fsw-foods",
+        "starred_at": "2025-09-13T08:32:26.461642+00:00"
+      }
+    ],
+    "ankitasingh170190": [
+      {
+        "repo": "ankitasingh170190/Demo",
+        "starred_at": "2025-09-13T08:32:26.461642+00:00"
+      }
+    ],
+    "drewdas": [
+      {
+        "repo": "drewdas/go-by-example",
+        "starred_at": "2025-09-13T08:32:26.461642+00:00"
+      }
+    ],
+    "ClaudioLazaro": [
+      {
+        "repo": "ClaudioLazaro/ansible-roles-microsoft-iis",
+        "starred_at": "2025-09-13T08:32:26.461642+00:00"
+      }
+    ],
+    "Struchu": [
+      {
+        "repo": "Struchu/Struchu",
+        "starred_at": "2025-09-13T08:32:26.461642+00:00"
+      }
+    ],
+    "tsautier": [
+      {
+        "repo": "tsautier/fazworkshop",
+        "starred_at": "2025-09-13T08:32:26.461642+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
