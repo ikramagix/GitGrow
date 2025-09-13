@@ -966,5 +966,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "dovelm": [
+      {
+        "repo": "dovelm/dovelm",
+        "starred_at": "2025-09-13T16:30:59.884144+00:00"
+      }
+    ],
+    "t3-goto": [
+      {
+        "repo": "t3-goto/cli-app",
+        "starred_at": "2025-09-13T16:30:59.884144+00:00"
+      }
+    ],
+    "Klowby": [
+      {
+        "repo": "Klowby/klowby.github.io",
+        "starred_at": "2025-09-13T16:30:59.884144+00:00"
+      }
+    ],
+    "belal-mazlom": [
+      {
+        "repo": "belal-mazlom/angular-image-crop",
+        "starred_at": "2025-09-13T16:30:59.884144+00:00"
+      }
+    ],
+    "pyropy": [
+      {
+        "repo": "pyropy/auto-tic-tac-toe",
+        "starred_at": "2025-09-13T16:30:59.884144+00:00"
+      }
+    ],
+    "manubravo": [
+      {
+        "repo": "manubravo/bookstore-ts",
+        "starred_at": "2025-09-13T16:30:59.884144+00:00"
+      }
+    ],
+    "vinhtran2611": [
+      {
+        "repo": "vinhtran2611/AI-Sudoku",
+        "starred_at": "2025-09-13T16:30:59.884144+00:00"
+      }
+    ],
+    "Cupnfish": [
+      {
+        "repo": "Cupnfish/cramp",
+        "starred_at": "2025-09-13T16:30:59.884144+00:00"
+      }
+    ],
+    "gokhanercan": [
+      {
+        "repo": "gokhanercan/ctt",
+        "starred_at": "2025-09-13T16:30:59.884144+00:00"
+      }
+    ]
   }
 }
