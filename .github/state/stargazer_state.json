@@ -1028,6 +1028,67 @@
       "last_unbalanced_attempt": "2025-09-14T05:31:41.195112+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "a-aloof": [
+      {
+        "repo": "a-aloof/random-dude-utils",
+        "starred_at": "2025-09-14T08:32:40.128074+00:00"
+      }
+    ],
+    "lisboaxd": [
+      {
+        "repo": "lisboaxd/30-days-of-code",
+        "starred_at": "2025-09-14T08:32:40.128074+00:00"
+      }
+    ],
+    "ohad24": [
+      {
+        "repo": "ohad24/dotfiles",
+        "starred_at": "2025-09-14T08:32:40.128074+00:00"
+      }
+    ],
+    "AhmedAliRezk5050": [
+      {
+        "repo": "AhmedAliRezk5050/Accounting",
+        "starred_at": "2025-09-14T08:32:40.128074+00:00"
+      }
+    ],
+    "Quatton": [
+      {
+        "repo": "Quatton/aoc_2024",
+        "starred_at": "2025-09-14T08:32:40.128074+00:00"
+      }
+    ],
+    "gideon-ogunbanjo": [
+      {
+        "repo": "gideon-ogunbanjo/brAIn",
+        "starred_at": "2025-09-14T08:32:40.128074+00:00"
+      }
+    ],
+    "agarjoshua": [
+      {
+        "repo": "agarjoshua/agarjoshua",
+        "starred_at": "2025-09-14T08:32:40.128074+00:00"
+      }
+    ],
+    "widra": [
+      {
+        "repo": "widra/widra",
+        "starred_at": "2025-09-14T08:32:40.128074+00:00"
+      }
+    ],
+    "Shoyayeb": [
+      {
+        "repo": "Shoyayeb/apple-iMac-pro",
+        "starred_at": "2025-09-14T08:32:40.128074+00:00"
+      }
+    ],
+    "JamesMGreene": [
+      {
+        "repo": "JamesMGreene/advent-of-code-2024",
+        "starred_at": "2025-09-14T08:32:40.128074+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
