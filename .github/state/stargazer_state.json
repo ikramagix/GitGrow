@@ -966,5 +966,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "Sidney2022": [
+      {
+        "repo": "Sidney2022/alx-low_level_programming",
+        "starred_at": "2025-09-15T16:37:03.481315+00:00"
+      }
+    ],
+    "nikalosa": [
+      {
+        "repo": "nikalosa/MemcachedFUSE",
+        "starred_at": "2025-09-15T16:37:03.481315+00:00"
+      }
+    ],
+    "gulunmu": [
+      {
+        "repo": "gulunmu/studyruby",
+        "starred_at": "2025-09-15T16:37:03.481315+00:00"
+      }
+    ],
+    "joelibaceta": [
+      {
+        "repo": "joelibaceta/30-seconds-of-ruby",
+        "starred_at": "2025-09-15T16:37:03.481315+00:00"
+      }
+    ],
+    "Samir221": [
+      {
+        "repo": "Samir221/4Geeks-flask-render-self",
+        "starred_at": "2025-09-15T16:37:03.481315+00:00"
+      }
+    ],
+    "guzztavo2": [
+      {
+        "repo": "guzztavo2/ANGULAR-CRUD",
+        "starred_at": "2025-09-15T16:37:03.481315+00:00"
+      }
+    ],
+    "rubensdemelo": [
+      {
+        "repo": "rubensdemelo/rubensdemelo",
+        "starred_at": "2025-09-15T16:37:03.481315+00:00"
+      }
+    ],
+    "jiafie7": [
+      {
+        "repo": "jiafie7/command-line-parse",
+        "starred_at": "2025-09-15T16:37:03.481315+00:00"
+      }
+    ],
+    "wojangAI": [
+      {
+        "repo": "wojangAI/pironmanv2-lowbrightness",
+        "starred_at": "2025-09-15T16:37:03.481315+00:00"
+      }
+    ],
+    "WangLiQing2012": [
+      {
+        "repo": "WangLiQing2012/WangLiQing2012",
+        "starred_at": "2025-09-15T16:37:03.481315+00:00"
+      }
+    ]
   }
 }
