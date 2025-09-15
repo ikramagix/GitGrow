@@ -39,7 +39,7 @@
 
 ### Maintainer-only
 
-* Local scripts (`.env`, `scripts/cleaner.py`, `scripts/gitgrow.py` for local runs).
+* Local scripts (`.env`, `scripts/duplicates.py`, `scripts/gitgrow.py` for local runs).
 * Manual workflows (`manual_follow.yml`, `manual_unfollow.yml`).
 * Stargazer shoutouts workflow is for repo analytics/discussion, not for general users.
 
