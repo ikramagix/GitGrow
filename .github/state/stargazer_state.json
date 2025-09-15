@@ -1028,6 +1028,61 @@
       "last_unbalanced_attempt": "2025-09-15T05:35:27.366626+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "kels-git": [
+      {
+        "repo": "kels-git/android-health-app",
+        "starred_at": "2025-09-15T08:37:45.172612+00:00"
+      }
+    ],
+    "Urpirio": [
+      {
+        "repo": "Urpirio/App-Taxio",
+        "starred_at": "2025-09-15T08:37:45.172612+00:00"
+      }
+    ],
+    "okings69": [
+      {
+        "repo": "okings69/github_main-",
+        "starred_at": "2025-09-15T08:37:45.172612+00:00"
+      }
+    ],
+    "kinshuk4": [
+      {
+        "repo": "kinshuk4/algorithms-cpp",
+        "starred_at": "2025-09-15T08:37:45.172612+00:00"
+      }
+    ],
+    "0XDE57": [
+      {
+        "repo": "0xDE57/alternativeRenderTechniques",
+        "starred_at": "2025-09-15T08:37:45.172612+00:00"
+      }
+    ],
+    "Nos-Talion": [
+      {
+        "repo": "Nos-Talion/My-Huggingface-Lerobot",
+        "starred_at": "2025-09-15T08:37:45.172612+00:00"
+      }
+    ],
+    "CruiseLiugit": [
+      {
+        "repo": "CruiseLiugit/AIAT",
+        "starred_at": "2025-09-15T08:37:45.172612+00:00"
+      }
+    ],
+    "krishddd": [
+      {
+        "repo": "krishddd/AI-assignment",
+        "starred_at": "2025-09-15T08:37:45.172612+00:00"
+      }
+    ],
+    "0x5844": [
+      {
+        "repo": "0x5844/autocorrect",
+        "starred_at": "2025-09-15T08:37:45.172612+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
