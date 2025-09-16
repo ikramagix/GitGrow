@@ -1028,6 +1028,67 @@
       "last_unbalanced_attempt": "2025-09-16T05:33:43.754193+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "EPSOFT": [
+      {
+        "repo": "EPSOFT/Advertising",
+        "starred_at": "2025-09-16T08:38:33.423808+00:00"
+      }
+    ],
+    "AflaxCade": [
+      {
+        "repo": "AflaxCade/AirBnB_clone_v2",
+        "starred_at": "2025-09-16T08:38:33.423808+00:00"
+      }
+    ],
+    "HalimaBouzidi": [
+      {
+        "repo": "HalimaBouzidi/CNNs-Tests-Jupyter-Notebooks",
+        "starred_at": "2025-09-16T08:38:33.423808+00:00"
+      }
+    ],
+    "NickSteven": [
+      {
+        "repo": "NickSteven/Gestion-SC",
+        "starred_at": "2025-09-16T08:38:33.423808+00:00"
+      }
+    ],
+    "aakashd245": [
+      {
+        "repo": "aakashd245/aakashd245",
+        "starred_at": "2025-09-16T08:38:33.423808+00:00"
+      }
+    ],
+    "zhaoyudong": [
+      {
+        "repo": "zhaoyudong/BAN5600",
+        "starred_at": "2025-09-16T08:38:33.423808+00:00"
+      }
+    ],
+    "SplashCodeDex": [
+      {
+        "repo": "SplashCodeDex/Momo_Merchants_App",
+        "starred_at": "2025-09-16T08:38:33.423808+00:00"
+      }
+    ],
+    "tonalidae": [
+      {
+        "repo": "tonalidae/affineCode",
+        "starred_at": "2025-09-16T08:38:33.423808+00:00"
+      }
+    ],
+    "rehmsen": [
+      {
+        "repo": "rehmsen/goparser.js",
+        "starred_at": "2025-09-16T08:38:33.423808+00:00"
+      }
+    ],
+    "rushilsrivastava": [
+      {
+        "repo": "rushilsrivastava/google-images-view-image",
+        "starred_at": "2025-09-16T08:38:33.423808+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
