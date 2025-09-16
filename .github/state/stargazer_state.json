@@ -974,5 +974,55 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "nyambogahezron": [
+      {
+        "repo": "nyambogahezron/ajax-php-suggestions",
+        "starred_at": "2025-09-16T16:36:37.235226+00:00"
+      }
+    ],
+    "mrgnw": [
+      {
+        "repo": "mrgnw/ananas-api",
+        "starred_at": "2025-09-16T16:36:37.235226+00:00"
+      }
+    ],
+    "yamashiro": [
+      {
+        "repo": "yamashiro/dot",
+        "starred_at": "2025-09-16T16:36:37.235226+00:00"
+      }
+    ],
+    "edwin1113": [
+      {
+        "repo": "edwin1113/AdminDashboard-Shadcn",
+        "starred_at": "2025-09-16T16:36:37.235226+00:00"
+      }
+    ],
+    "cybort": [
+      {
+        "repo": "cybort/51ss",
+        "starred_at": "2025-09-16T16:36:37.235226+00:00"
+      }
+    ],
+    "Fukkof": [
+      {
+        "repo": "Fukkof/Gita54",
+        "starred_at": "2025-09-16T16:36:37.235226+00:00"
+      }
+    ],
+    "cativovo": [
+      {
+        "repo": "cativovo/bookstore",
+        "starred_at": "2025-09-16T16:36:37.235226+00:00"
+      }
+    ],
+    "aduguid": [
+      {
+        "repo": "aduguid/Portable-Apps",
+        "starred_at": "2025-09-16T16:36:37.235226+00:00"
+      }
+    ]
   }
 }
