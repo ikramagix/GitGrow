@@ -1036,6 +1036,49 @@
       "last_unbalanced_attempt": "2025-09-17T05:34:04.304578+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "krpec": [
+      {
+        "repo": "krpec/backITup",
+        "starred_at": "2025-09-17T08:37:00.024992+00:00"
+      }
+    ],
+    "dmarro89": [
+      {
+        "repo": "dmarro89/1710.Maximum-Units-on-a-Truck-Leetcode",
+        "starred_at": "2025-09-17T08:37:00.024992+00:00"
+      }
+    ],
+    "bryanperris": [
+      {
+        "repo": "bryanperris/aosp-scripts",
+        "starred_at": "2025-09-17T08:37:00.024992+00:00"
+      }
+    ],
+    "powerofsoul": [
+      {
+        "repo": "powerofsoul/aws-developer-associate-questions",
+        "starred_at": "2025-09-17T08:37:00.024992+00:00"
+      }
+    ],
+    "EfosaE": [
+      {
+        "repo": "EfosaE/anambra-website-main",
+        "starred_at": "2025-09-17T08:37:00.024992+00:00"
+      }
+    ],
+    "MehdiMst00": [
+      {
+        "repo": "MehdiMst00/AuditLogManager",
+        "starred_at": "2025-09-17T08:37:00.024992+00:00"
+      }
+    ],
+    "marinho": [
+      {
+        "repo": "marinho/bipolar-python-client",
+        "starred_at": "2025-09-17T08:37:00.024992+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
