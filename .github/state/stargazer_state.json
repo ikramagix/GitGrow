@@ -973,5 +973,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "piris": [
+      {
+        "repo": "piris/curriculum-vitae-bootstrap-template",
+        "starred_at": "2025-09-17T16:36:09.468276+00:00"
+      }
+    ],
+    "mohimi-coder": [
+      {
+        "repo": "mohimi-coder/42-net-practice",
+        "starred_at": "2025-09-17T16:36:09.468276+00:00"
+      }
+    ],
+    "BrianKiarieMwaniki": [
+      {
+        "repo": "BrianKiarieMwaniki/awwwards",
+        "starred_at": "2025-09-17T16:36:09.468276+00:00"
+      }
+    ],
+    "jsparraq": [
+      {
+        "repo": "jsparraq/app-back",
+        "starred_at": "2025-09-17T16:36:09.468276+00:00"
+      }
+    ],
+    "soulprestigio": [
+      {
+        "repo": "soulprestigio/coedevp",
+        "starred_at": "2025-09-17T16:36:09.468276+00:00"
+      }
+    ],
+    "thanhtut": [
+      {
+        "repo": "thanhtut/fileserveredx",
+        "starred_at": "2025-09-17T16:36:09.468276+00:00"
+      }
+    ],
+    "aeke": [
+      {
+        "repo": "aeke/firebase-backup",
+        "starred_at": "2025-09-17T16:36:09.468276+00:00"
+      }
+    ],
+    "ABUNEMER87": [
+      {
+        "repo": "ABUNEMER87/ABUNEMER87",
+        "starred_at": "2025-09-17T16:36:09.468276+00:00"
+      }
+    ],
+    "chekos": [
+      {
+        "repo": "chekos/.github",
+        "starred_at": "2025-09-17T16:36:09.468276+00:00"
+      }
+    ],
+    "nisiyong": [
+      {
+        "repo": "nisiyong/gitlab-board-plus",
+        "starred_at": "2025-09-17T16:36:09.468276+00:00"
+      }
+    ]
   }
 }
