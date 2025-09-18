@@ -964,5 +964,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "Biold": [
+      {
+        "repo": "Biold/animated-octo-dollop",
+        "starred_at": "2025-09-18T16:36:04.329244+00:00"
+      }
+    ],
+    "hurby24": [
+      {
+        "repo": "hurby24/Discord-colored-text",
+        "starred_at": "2025-09-18T16:36:04.329244+00:00"
+      }
+    ],
+    "triplem": [
+      {
+        "repo": "triplem/auth-source-gopass",
+        "starred_at": "2025-09-18T16:36:04.329244+00:00"
+      }
+    ],
+    "mlboy": [
+      {
+        "repo": "mlboy/mlboy.github.io",
+        "starred_at": "2025-09-18T16:36:04.329244+00:00"
+      }
+    ],
+    "umairqamardev": [
+      {
+        "repo": "umairqamardev/Amazon-Web-Scraping",
+        "starred_at": "2025-09-18T16:36:04.329244+00:00"
+      }
+    ],
+    "zlmturnout": [
+      {
+        "repo": "zlmturnout/ARPES_BeamSpotSize",
+        "starred_at": "2025-09-18T16:36:04.329244+00:00"
+      }
+    ],
+    "7225859103": [
+      {
+        "repo": "7225859103/API-Projects",
+        "starred_at": "2025-09-18T16:36:04.329244+00:00"
+      }
+    ],
+    "sumitk": [
+      {
+        "repo": "sumitk/commerce_kickstart_app",
+        "starred_at": "2025-09-18T16:36:04.329244+00:00"
+      }
+    ],
+    "EzequielMelo": [
+      {
+        "repo": "EzequielMelo/CodoACodo_Anime-Page",
+        "starred_at": "2025-09-18T16:36:04.329244+00:00"
+      }
+    ]
   }
 }
