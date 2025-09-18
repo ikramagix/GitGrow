@@ -1036,6 +1036,55 @@
       "last_unbalanced_attempt": "2025-09-18T05:33:28.660082+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "0mariano": [
+      {
+        "repo": "0mariano/0mariano",
+        "starred_at": "2025-09-18T08:36:48.987831+00:00"
+      }
+    ],
+    "bhza": [
+      {
+        "repo": "bhza/estrutura-de-dados-site",
+        "starred_at": "2025-09-18T08:36:48.987831+00:00"
+      }
+    ],
+    "adamschwartz": [
+      {
+        "repo": "adamschwartz/Apartment",
+        "starred_at": "2025-09-18T08:36:48.987831+00:00"
+      }
+    ],
+    "vaayne": [
+      {
+        "repo": "vaayne/cloudflare-workers",
+        "starred_at": "2025-09-18T08:36:48.987831+00:00"
+      }
+    ],
+    "bimalagadtaula": [
+      {
+        "repo": "bimalagadtaula/bimlagd",
+        "starred_at": "2025-09-18T08:36:48.987831+00:00"
+      }
+    ],
+    "doroh228": [
+      {
+        "repo": "doroh228/Android_Quest_API",
+        "starred_at": "2025-09-18T08:36:48.987831+00:00"
+      }
+    ],
+    "aafa": [
+      {
+        "repo": "aafa/aafa.github.io",
+        "starred_at": "2025-09-18T08:36:48.987831+00:00"
+      }
+    ],
+    "umarh148": [
+      {
+        "repo": "umarh148/umarh148",
+        "starred_at": "2025-09-18T08:36:48.987831+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
