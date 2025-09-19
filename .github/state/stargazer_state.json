@@ -962,5 +962,55 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "matthewrhysbarras": [
+      {
+        "repo": "matthewrhysbarras/WhiteboardSummary",
+        "starred_at": "2025-09-19T16:35:31.626295+00:00"
+      }
+    ],
+    "michaelaboctario": [
+      {
+        "repo": "michaelaboctario/contact-form",
+        "starred_at": "2025-09-19T16:35:31.626295+00:00"
+      }
+    ],
+    "blast-hardcheese": [
+      {
+        "repo": "blast-hardcheese/2019-scala-world-guardrail",
+        "starred_at": "2025-09-19T16:35:31.626295+00:00"
+      }
+    ],
+    "ShadeVybes": [
+      {
+        "repo": "ShadeVybes/cloud-templates",
+        "starred_at": "2025-09-19T16:35:31.626295+00:00"
+      }
+    ],
+    "MondoGao": [
+      {
+        "repo": "MondoGao/bootstrap-codealong-cb-gh-000",
+        "starred_at": "2025-09-19T16:35:31.626295+00:00"
+      }
+    ],
+    "vanessa-dev": [
+      {
+        "repo": "vanessa-dev/app-github-explorer",
+        "starred_at": "2025-09-19T16:35:31.626295+00:00"
+      }
+    ],
+    "jw6": [
+      {
+        "repo": "jw6/AdvanceWebDev",
+        "starred_at": "2025-09-19T16:35:31.626295+00:00"
+      }
+    ],
+    "DiamondGotCat": [
+      {
+        "repo": "DiamondGotCat/AIChatEX",
+        "starred_at": "2025-09-19T16:35:31.626295+00:00"
+      }
+    ]
   }
 }
