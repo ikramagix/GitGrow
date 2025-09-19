@@ -1,4 +1,4 @@
-# cleaner.py
+# duplicates.py
 #!/usr/bin/env python3
 import sys
 import pathlib

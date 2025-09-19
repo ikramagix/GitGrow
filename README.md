@@ -38,7 +38,7 @@ The motto **“You only get what you give”** drives GitGrowBot’s behavior:
   - Duplicates and dead accounts are continuously pruned and removed.
   - Unfollows non-reciprocals.  
   - Skips any usernames you whitelist.  
-- **Cleaner utility** (`scripts/cleaner.py`)  
+- **Cleaner utility** (`scripts/duplicates.py`)  
   - Deduplicates and prunes dead GitHub usernames locally.  
 - **Offline logging**  
   - Records missing usernames in `logs/offline_usernames-<timestamp>.txt`.  
@@ -47,7 +47,7 @@ The motto **“You only get what you give”** drives GitGrowBot’s behavior:
   - `.env` support for local testing (optional).  
 - **Modular code**  
   - `scripts/gitgrow.py` for main logic.  
-  - `scripts/cleaner.py` for list maintenance. 
+  - `scripts/duplicates.py` for list maintenance. 
   - `scripts/integrity.py` for users existence check.
   - `scripts/orgs.py` for optional org member targeting (deprecated, see [CHANGELOG.md](./CHANGELOG.md))
   - `scripts/autotrack.py` tracks all unique stargazers across your repos, logs "unstargazers," and updates `.github/state/stargazer_state.json` (persisted to the `tracker-data` branch).
@@ -88,14 +88,14 @@ You can join this list too—see below (**⭐ & Join more than 91,000 users!**).
 
 ## Local testing
 
-If you want to test the bot locally, you can use the provided `scripts/cleaner.py` and `scripts/gitgrow.py` scripts.
+If you want to test the bot locally, you can use the provided `scripts/duplicates.py` and `scripts/gitgrow.py` scripts.
 
 1. Copy `.env.example` → `.env` and fill in your PAT.
 2. Run the following commands:
 
 ```bash
 # Example local run of cleanup
-python scripts/cleaner.py
+python scripts/duplicates.py
 
 # Example local dry-run of follow bot
 python scripts/gitgrow.py
@@ -146,7 +146,7 @@ Let's grow! 💪
 ├── scripts
 │   ├── gitgrow.py                    # Main follow/unfollow driver
 │   ├── unfollowers.py                # Unfollow-only logic
-│   ├── cleaner.py                    # Username list maintenance
+│   ├── duplicates.py                    # Username list maintenance
 │   ├── integrity.py                  # Username existence check and cleaning
 │   ├── autostarback.py               # Stargazer reciprocity logic: stars/un-stars
 │   ├── autotrack.py                  # Stargazer tracker/state generator (called by autostarback.py)
@@ -154,7 +154,7 @@ Let's grow! 💪
 ├── tests
 │   ├── test_bot_core_behavior.py     # follow/unfollow/follow-back
 │   ├── test_unfollowers.py           # unfollow-only logic
-│   └── test_cleaner.py              # cleaner dedupe + missing-user removal
+│   └── test_duplicates.py              # cleaner dedupe + missing-user removal
 ```
 
 ### Manual Troubleshooting Runners (optional)
