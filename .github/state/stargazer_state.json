@@ -1024,6 +1024,61 @@
       "last_unbalanced_attempt": "2025-09-19T05:33:19.022592+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "mojalefakodisang": [
+      {
+        "repo": "mojalefakodisang/alx-backend",
+        "starred_at": "2025-09-19T08:36:35.428966+00:00"
+      }
+    ],
+    "ysnghr": [
+      {
+        "repo": "ysnghr/CS210-Data-Science",
+        "starred_at": "2025-09-19T08:36:35.428966+00:00"
+      }
+    ],
+    "Ro0tk1t": [
+      {
+        "repo": "Ro0tk1t/awd_tools",
+        "starred_at": "2025-09-19T08:36:35.428966+00:00"
+      }
+    ],
+    "jas-ho": [
+      {
+        "repo": "jas-ho/ansible-dev-setup",
+        "starred_at": "2025-09-19T08:36:35.428966+00:00"
+      }
+    ],
+    "mrtenkorang": [
+      {
+        "repo": "mrtenkorang/farm_backend",
+        "starred_at": "2025-09-19T08:36:35.428966+00:00"
+      }
+    ],
+    "AryanHamedani": [
+      {
+        "repo": "AryanHamedani/cloudflare-worker-webhook-proxy",
+        "starred_at": "2025-09-19T08:36:35.428966+00:00"
+      }
+    ],
+    "wes321": [
+      {
+        "repo": "wes321/slack-readonly-channel",
+        "starred_at": "2025-09-19T08:36:35.428966+00:00"
+      }
+    ],
+    "allanhue": [
+      {
+        "repo": "allanhue/allanhue.github.io",
+        "starred_at": "2025-09-19T08:36:35.428966+00:00"
+      }
+    ],
+    "karr-x1": [
+      {
+        "repo": "karr-x1/karr-x1",
+        "starred_at": "2025-09-19T08:36:35.428966+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
