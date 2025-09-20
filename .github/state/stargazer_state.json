@@ -1024,6 +1024,67 @@
       "last_unbalanced_attempt": "2025-09-20T05:33:19.097084+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "MichaelWalker-git": [
+      {
+        "repo": "MichaelWalker-git/AjaxTypeAhead",
+        "starred_at": "2025-09-20T08:33:43.477449+00:00"
+      }
+    ],
+    "hfcorriez": [
+      {
+        "repo": "hfcorriez/composer-packer",
+        "starred_at": "2025-09-20T08:33:43.477449+00:00"
+      }
+    ],
+    "ByteBusterNikon": [
+      {
+        "repo": "ByteBusterNikon/SystemSecurityScripts",
+        "starred_at": "2025-09-20T08:33:43.477449+00:00"
+      }
+    ],
+    "ishawly": [
+      {
+        "repo": "ishawly/blog",
+        "starred_at": "2025-09-20T08:33:43.477449+00:00"
+      }
+    ],
+    "vknyazkova": [
+      {
+        "repo": "vknyazkova/koreanlyrics_bot",
+        "starred_at": "2025-09-20T08:33:43.477449+00:00"
+      }
+    ],
+    "joaotinti75": [
+      {
+        "repo": "joaotinti75/Codewars",
+        "starred_at": "2025-09-20T08:33:43.477449+00:00"
+      }
+    ],
+    "juergenhoetzel": [
+      {
+        "repo": "juergenhoetzel/adventofcode2022",
+        "starred_at": "2025-09-20T08:33:43.477449+00:00"
+      }
+    ],
+    "Andy2168": [
+      {
+        "repo": "Andy2168/data241108",
+        "starred_at": "2025-09-20T08:33:43.477449+00:00"
+      }
+    ],
+    "joaometzdorf": [
+      {
+        "repo": "joaometzdorf/alura-space",
+        "starred_at": "2025-09-20T08:33:43.477449+00:00"
+      }
+    ],
+    "AidenLM": [
+      {
+        "repo": "AidenLM/AidenLM",
+        "starred_at": "2025-09-20T08:33:43.477449+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
