@@ -962,5 +962,43 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "AvipsaMukhopadhyay": [
+      {
+        "repo": "AvipsaMukhopadhyay/data-mnist-ml",
+        "starred_at": "2025-09-20T16:32:18.393386+00:00"
+      }
+    ],
+    "WhiskersReneeWe": [
+      {
+        "repo": "WhiskersReneeWe/AWS_sagemaker_deployment",
+        "starred_at": "2025-09-20T16:32:18.393386+00:00"
+      }
+    ],
+    "mnajdova": [
+      {
+        "repo": "mnajdova/27412-nextjs-with-styled-components",
+        "starred_at": "2025-09-20T16:32:18.393386+00:00"
+      }
+    ],
+    "Abusayid693": [
+      {
+        "repo": "Abusayid693/Binary-image-classification",
+        "starred_at": "2025-09-20T16:32:18.393386+00:00"
+      }
+    ],
+    "jaxiinofea": [
+      {
+        "repo": "jaxiinofea/jaxiinofea.github.com",
+        "starred_at": "2025-09-20T16:32:18.393386+00:00"
+      }
+    ],
+    "nikhilsharma26500": [
+      {
+        "repo": "nikhilsharma26500/Coalition-Technology-OA",
+        "starred_at": "2025-09-20T16:32:18.393386+00:00"
+      }
+    ]
   }
 }
