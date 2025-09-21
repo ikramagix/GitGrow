@@ -1032,6 +1032,61 @@
       "last_unbalanced_attempt": "2025-09-21T05:33:16.955103+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "melandres8": [
+      {
+        "repo": "melandres8/0-Fix_My_Code_Challenge",
+        "starred_at": "2025-09-21T08:31:53.679782+00:00"
+      }
+    ],
+    "xnaok": [
+      {
+        "repo": "xnaok/js_examples",
+        "starred_at": "2025-09-21T08:31:53.679782+00:00"
+      }
+    ],
+    "floydwch": [
+      {
+        "repo": "floydwch/atomic-loader",
+        "starred_at": "2025-09-21T08:31:53.679782+00:00"
+      }
+    ],
+    "MohsenMoeinfar": [
+      {
+        "repo": "MohsenMoeinfar/CA_Course",
+        "starred_at": "2025-09-21T08:31:53.679782+00:00"
+      }
+    ],
+    "LeroyK111": [
+      {
+        "repo": "LeroyK111/AdminPanel",
+        "starred_at": "2025-09-21T08:31:53.679782+00:00"
+      }
+    ],
+    "mintRaven-05": [
+      {
+        "repo": "mintRaven-05/Atlas",
+        "starred_at": "2025-09-21T08:31:53.679782+00:00"
+      }
+    ],
+    "Emadalshamery": [
+      {
+        "repo": "Emadalshamery/Emadalshamery",
+        "starred_at": "2025-09-21T08:31:53.679782+00:00"
+      }
+    ],
+    "zealotous": [
+      {
+        "repo": "zealotous/custom-opensearch-dashboard",
+        "starred_at": "2025-09-21T08:31:53.679782+00:00"
+      }
+    ],
+    "criscotero": [
+      {
+        "repo": "criscotero/arch-install-x230",
+        "starred_at": "2025-09-21T08:31:53.679782+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
