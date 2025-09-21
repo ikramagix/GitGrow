@@ -976,5 +976,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "derekwin": [
+      {
+        "repo": "derekwin/Artist_blog",
+        "starred_at": "2025-09-21T16:33:33.596850+00:00"
+      }
+    ],
+    "dxhuii": [
+      {
+        "repo": "dxhuii/cms",
+        "starred_at": "2025-09-21T16:33:33.596850+00:00"
+      }
+    ],
+    "nixward": [
+      {
+        "repo": "nixward/gitimmersion",
+        "starred_at": "2025-09-21T16:33:33.596850+00:00"
+      }
+    ],
+    "MSC72m": [
+      {
+        "repo": "MSC72m/auto-coolify",
+        "starred_at": "2025-09-21T16:33:33.596850+00:00"
+      }
+    ],
+    "Lazyb0y": [
+      {
+        "repo": "Lazyb0y/another-4096",
+        "starred_at": "2025-09-21T16:33:33.596850+00:00"
+      }
+    ],
+    "imsobear": [
+      {
+        "repo": "imsobear/ChatGPT-Next-Web",
+        "starred_at": "2025-09-21T16:33:33.596850+00:00"
+      }
+    ],
+    "ossan-dev": [
+      {
+        "repo": "ossan-dev/auth-series",
+        "starred_at": "2025-09-21T16:33:33.596850+00:00"
+      }
+    ],
+    "absop": [
+      {
+        "repo": "absop/2048",
+        "starred_at": "2025-09-21T16:33:33.596850+00:00"
+      }
+    ],
+    "jameszenartist": [
+      {
+        "repo": "jameszenartist/carousel-business-website",
+        "starred_at": "2025-09-21T16:33:33.596850+00:00"
+      }
+    ]
   }
 }
