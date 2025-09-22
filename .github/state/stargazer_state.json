@@ -1056,6 +1056,67 @@
       "last_unbalanced_attempt": "2025-09-22T05:34:30.783892+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "kirill-markin": [
+      {
+        "repo": "kirill-markin/aspect-health-forms-directus-poc",
+        "starred_at": "2025-09-22T08:39:50.132780+00:00"
+      }
+    ],
+    "bright-spark": [
+      {
+        "repo": "bright-spark/11ty-landing-page",
+        "starred_at": "2025-09-22T08:39:50.132780+00:00"
+      }
+    ],
+    "elidakirigo": [
+      {
+        "repo": "elidakirigo/automation",
+        "starred_at": "2025-09-22T08:39:50.132780+00:00"
+      }
+    ],
+    "shhahhussain": [
+      {
+        "repo": "shhahhussain/adminpanel-react",
+        "starred_at": "2025-09-22T08:39:50.132780+00:00"
+      }
+    ],
+    "Jareechang": [
+      {
+        "repo": "Jareechang/amazon-cloudfront-cache-policy",
+        "starred_at": "2025-09-22T08:39:50.132780+00:00"
+      }
+    ],
+    "HerzelS": [
+      {
+        "repo": "HerzelS/cost-effectiveness-analyser",
+        "starred_at": "2025-09-22T08:39:50.132780+00:00"
+      }
+    ],
+    "snowjs08": [
+      {
+        "repo": "snowjs08/java-hello-world",
+        "starred_at": "2025-09-22T08:39:50.132780+00:00"
+      }
+    ],
+    "fouzeddin": [
+      {
+        "repo": "fouzeddin/katacoda-scenarios",
+        "starred_at": "2025-09-22T08:39:50.132780+00:00"
+      }
+    ],
+    "m1guelvrrl0": [
+      {
+        "repo": "m1guelvrrl0/pg-scheduler",
+        "starred_at": "2025-09-22T08:39:50.132780+00:00"
+      }
+    ],
+    "jmauras24": [
+      {
+        "repo": "jmauras24/acme-employee-directory",
+        "starred_at": "2025-09-22T08:39:50.132780+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
