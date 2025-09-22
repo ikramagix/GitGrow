@@ -990,5 +990,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "kcliu": [
+      {
+        "repo": "kcliu/apiMetrics",
+        "starred_at": "2025-09-22T16:37:59.560599+00:00"
+      }
+    ],
+    "dubgeiser": [
+      {
+        "repo": "dubgeiser/aoc2015",
+        "starred_at": "2025-09-22T16:37:59.560599+00:00"
+      }
+    ],
+    "GrimNihilist": [
+      {
+        "repo": "GrimNihilist/GrimNihilist",
+        "starred_at": "2025-09-22T16:37:59.560599+00:00"
+      }
+    ],
+    "michaelhood": [
+      {
+        "repo": "michaelhood/strace",
+        "starred_at": "2025-09-22T16:37:59.560599+00:00"
+      }
+    ],
+    "zohremaniee": [
+      {
+        "repo": "zohremaniee/personalweb",
+        "starred_at": "2025-09-22T16:37:59.560599+00:00"
+      }
+    ],
+    "Sergio-Martinez1": [
+      {
+        "repo": "Sergio-Martinez1/Competitive_Programming_Problems",
+        "starred_at": "2025-09-22T16:37:59.560599+00:00"
+      }
+    ],
+    "THEFIG06": [
+      {
+        "repo": "THEFIG06/actions-learning-pathway",
+        "starred_at": "2025-09-22T16:37:59.560599+00:00"
+      }
+    ],
+    "GufranBhatti": [
+      {
+        "repo": "GufranBhatti/EDA-on-Zomato-Dataset",
+        "starred_at": "2025-09-22T16:37:59.560599+00:00"
+      }
+    ],
+    "ybpheno16": [
+      {
+        "repo": "ybpheno16/Badges",
+        "starred_at": "2025-09-22T16:37:59.560599+00:00"
+      }
+    ]
   }
 }
