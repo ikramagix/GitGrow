@@ -1056,6 +1056,67 @@
       "last_unbalanced_attempt": "2025-09-23T05:35:07.284180+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "rob-mur": [
+      {
+        "repo": "rob-mur/cute-animal-finder",
+        "starred_at": "2025-09-23T08:37:24.746423+00:00"
+      }
+    ],
+    "alterkleo": [
+      {
+        "repo": "alterkleo/gvng",
+        "starred_at": "2025-09-23T08:37:24.746423+00:00"
+      }
+    ],
+    "muradorucov": [
+      {
+        "repo": "muradorucov/146TestGit",
+        "starred_at": "2025-09-23T08:37:24.746423+00:00"
+      }
+    ],
+    "TrippleA-Ashaba": [
+      {
+        "repo": "TrippleA-Ashaba/beeblebrox",
+        "starred_at": "2025-09-23T08:37:24.746423+00:00"
+      }
+    ],
+    "7956968": [
+      {
+        "repo": "7956968/airport",
+        "starred_at": "2025-09-23T08:37:24.746423+00:00"
+      }
+    ],
+    "Debbie-Yuan": [
+      {
+        "repo": "Debbie-Yuan/GOIM",
+        "starred_at": "2025-09-23T08:37:24.746423+00:00"
+      }
+    ],
+    "adtariq": [
+      {
+        "repo": "adtariq/imageloader",
+        "starred_at": "2025-09-23T08:37:24.746423+00:00"
+      }
+    ],
+    "SaddamDeveloper": [
+      {
+        "repo": "SaddamDeveloper/ami",
+        "starred_at": "2025-09-23T08:37:24.746423+00:00"
+      }
+    ],
+    "ArionDutta33": [
+      {
+        "repo": "ArionDutta33/add_remove_friend",
+        "starred_at": "2025-09-23T08:37:24.746423+00:00"
+      }
+    ],
+    "nick-cheatwood7": [
+      {
+        "repo": "nick-cheatwood7/c3-series-chart",
+        "starred_at": "2025-09-23T08:37:24.746423+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
