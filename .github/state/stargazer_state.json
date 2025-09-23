@@ -990,5 +990,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "SarthakC": [
+      {
+        "repo": "SarthakC/Cross-Reveal",
+        "starred_at": "2025-09-23T16:37:32.240806+00:00"
+      }
+    ],
+    "Wilovy09": [
+      {
+        "repo": "Wilovy09/AcademEat-PWA",
+        "starred_at": "2025-09-23T16:37:32.240806+00:00"
+      }
+    ],
+    "Victor-Novakoski": [
+      {
+        "repo": "Victor-Novakoski/contacts-front",
+        "starred_at": "2025-09-23T16:37:32.240806+00:00"
+      }
+    ],
+    "StanislavNO": [
+      {
+        "repo": "StanislavNO/ARCHITECTURE_GAME",
+        "starred_at": "2025-09-23T16:37:32.240806+00:00"
+      }
+    ],
+    "tzing": [
+      {
+        "repo": "tzing/dotFiles",
+        "starred_at": "2025-09-23T16:37:32.240806+00:00"
+      }
+    ],
+    "piotrusio": [
+      {
+        "repo": "piotrusio/gbt",
+        "starred_at": "2025-09-23T16:37:32.240806+00:00"
+      }
+    ],
+    "apppur": [
+      {
+        "repo": "apppur/allocator",
+        "starred_at": "2025-09-23T16:37:32.240806+00:00"
+      }
+    ],
+    "inrekrutik": [
+      {
+        "repo": "inrekrutik/inrekrutik",
+        "starred_at": "2025-09-23T16:37:32.240806+00:00"
+      }
+    ],
+    "LawrenceOnen": [
+      {
+        "repo": "LawrenceOnen/LawrenceOnen.github.io",
+        "starred_at": "2025-09-23T16:37:32.240806+00:00"
+      }
+    ]
   }
 }
