@@ -1056,6 +1056,67 @@
       "last_unbalanced_attempt": "2025-09-24T05:33:59.034331+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "Usmanbosho": [
+      {
+        "repo": "Usmanbosho/Codest",
+        "starred_at": "2025-09-24T08:39:34.828253+00:00"
+      }
+    ],
+    "cerw": [
+      {
+        "repo": "cerw/docker-laravel-7.2",
+        "starred_at": "2025-09-24T08:39:34.828253+00:00"
+      }
+    ],
+    "3zzazakl": [
+      {
+        "repo": "3zzazakl/alx-backend-javascript",
+        "starred_at": "2025-09-24T08:39:34.828253+00:00"
+      }
+    ],
+    "LeoRlucena": [
+      {
+        "repo": "LeoRlucena/basic-java",
+        "starred_at": "2025-09-24T08:39:34.828253+00:00"
+      }
+    ],
+    "bkodes": [
+      {
+        "repo": "bkodes/bkodes",
+        "starred_at": "2025-09-24T08:39:34.828253+00:00"
+      }
+    ],
+    "raulfruiz": [
+      {
+        "repo": "raulfruiz/Math-wit-python",
+        "starred_at": "2025-09-24T08:39:34.828253+00:00"
+      }
+    ],
+    "pomdtr": [
+      {
+        "repo": "pomdtr/alfred-workflowy",
+        "starred_at": "2025-09-24T08:39:34.828253+00:00"
+      }
+    ],
+    "efatmae": [
+      {
+        "repo": "efatmae/Comparative_analysis_word_embeddings_on_social_NLP_tasks",
+        "starred_at": "2025-09-24T08:39:34.828253+00:00"
+      }
+    ],
+    "yiwang": [
+      {
+        "repo": "yiwang/android-2d-sprite-animation",
+        "starred_at": "2025-09-24T08:39:34.828253+00:00"
+      }
+    ],
+    "Eclipsecrypt": [
+      {
+        "repo": "Eclipsecrypt/3",
+        "starred_at": "2025-09-24T08:39:34.828253+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
