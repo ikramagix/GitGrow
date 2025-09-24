@@ -990,5 +990,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "AhmedElbehary-Dev": [
+      {
+        "repo": "AhmedElbehary-Dev/eat-n-split-app",
+        "starred_at": "2025-09-24T16:38:41.154018+00:00"
+      }
+    ],
+    "id-2": [
+      {
+        "repo": "id-2/11ty-landing-page",
+        "starred_at": "2025-09-24T16:38:41.154018+00:00"
+      }
+    ],
+    "jgautheron": [
+      {
+        "repo": "jgautheron/Biscuit",
+        "starred_at": "2025-09-24T16:38:41.154018+00:00"
+      }
+    ],
+    "wabscale": [
+      {
+        "repo": "wabscale/anubis-visualizations",
+        "starred_at": "2025-09-24T16:38:41.154018+00:00"
+      }
+    ],
+    "wojons": [
+      {
+        "repo": "wojons/agent-zero-pkgs",
+        "starred_at": "2025-09-24T16:38:41.154018+00:00"
+      }
+    ],
+    "codeslord": [
+      {
+        "repo": "codeslord/copalette",
+        "starred_at": "2025-09-24T16:38:41.154018+00:00"
+      }
+    ],
+    "andreeaelenasamur": [
+      {
+        "repo": "andreeaelenasamur/andreea-page",
+        "starred_at": "2025-09-24T16:38:41.154018+00:00"
+      }
+    ],
+    "bharadpy": [
+      {
+        "repo": "bharadpy/bolt_boilerplate",
+        "starred_at": "2025-09-24T16:38:41.154018+00:00"
+      }
+    ],
+    "pujansoni": [
+      {
+        "repo": "pujansoni/Adventure_Gear_Rental_System",
+        "starred_at": "2025-09-24T16:38:41.154018+00:00"
+      }
+    ]
   }
 }
