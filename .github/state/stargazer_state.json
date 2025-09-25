@@ -997,5 +997,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "brewinstallpapi": [
+      {
+        "repo": "brewinstallpapi/sourceControlLab",
+        "starred_at": "2025-09-25T16:37:26.965165+00:00"
+      }
+    ],
+    "jacobstanley": [
+      {
+        "repo": "jacobstanley/acme-flipping-tables",
+        "starred_at": "2025-09-25T16:37:26.965165+00:00"
+      }
+    ],
+    "AlirezaFB01": [
+      {
+        "repo": "AlirezaFB01/Machine-learning",
+        "starred_at": "2025-09-25T16:37:26.965165+00:00"
+      }
+    ],
+    "xiaozhongjishu": [
+      {
+        "repo": "xiaozhongjishu/xiaozhongjishu.github.io",
+        "starred_at": "2025-09-25T16:37:26.965165+00:00"
+      }
+    ],
+    "Discrete-Mathematics": [
+      {
+        "repo": "Discrete-Mathematics/ai-self-learning",
+        "starred_at": "2025-09-25T16:37:26.965165+00:00"
+      }
+    ],
+    "mlliarm": [
+      {
+        "repo": "mlliarm/bird-classifier",
+        "starred_at": "2025-09-25T16:37:26.965165+00:00"
+      }
+    ],
+    "suzanshakya": [
+      {
+        "repo": "suzanshakya/advance-table",
+        "starred_at": "2025-09-25T16:37:26.965165+00:00"
+      }
+    ],
+    "OpetherMB": [
+      {
+        "repo": "OpetherMB/camping",
+        "starred_at": "2025-09-25T16:37:26.965165+00:00"
+      }
+    ],
+    "bryaneburr": [
+      {
+        "repo": "bryaneburr/wiki_spider",
+        "starred_at": "2025-09-25T16:37:26.965165+00:00"
+      }
+    ]
   }
 }
