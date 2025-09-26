@@ -1010,5 +1010,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "myckhel": [
+      {
+        "repo": "myckhel/bisi-daniels-photography",
+        "starred_at": "2025-09-26T16:37:03.464950+00:00"
+      }
+    ],
+    "jose-pepe-bsas": [
+      {
+        "repo": "jose-pepe-bsas/alma-mia-yoga",
+        "starred_at": "2025-09-26T16:37:03.464950+00:00"
+      }
+    ],
+    "stingh711": [
+      {
+        "repo": "stingh711/blog-source",
+        "starred_at": "2025-09-26T16:37:03.464950+00:00"
+      }
+    ],
+    "9637231757": [
+      {
+        "repo": "9637231757/data-analysis-utils",
+        "starred_at": "2025-09-26T16:37:03.464950+00:00"
+      }
+    ],
+    "aaltatan": [
+      {
+        "repo": "aaltatan/awd_assignment",
+        "starred_at": "2025-09-26T16:37:03.464950+00:00"
+      }
+    ],
+    "muzykantov": [
+      {
+        "repo": "muzykantov/airflow-etl-pipeline",
+        "starred_at": "2025-09-26T16:37:03.464950+00:00"
+      }
+    ],
+    "Tejas-gaikwad": [
+      {
+        "repo": "Tejas-gaikwad/BB_task_1",
+        "starred_at": "2025-09-26T16:37:03.464950+00:00"
+      }
+    ],
+    "mgallo": [
+      {
+        "repo": "mgallo/website",
+        "starred_at": "2025-09-26T16:37:03.464950+00:00"
+      }
+    ],
+    "AyesigyeBruce": [
+      {
+        "repo": "AyesigyeBruce/AyesigyeBruce",
+        "starred_at": "2025-09-26T16:37:03.464950+00:00"
+      }
+    ]
   }
 }
