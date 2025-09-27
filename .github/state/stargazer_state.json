@@ -1078,6 +1078,61 @@
       "last_unbalanced_attempt": "2025-09-27T05:32:24.353678+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "kadocolak": [
+      {
+        "repo": "kadocolak/data-cyrpto-generator-javascript",
+        "starred_at": "2025-09-27T08:32:20.087091+00:00"
+      }
+    ],
+    "AmirHamzah-1Fz": [
+      {
+        "repo": "AmirHamzah-1Fz/bmi-calculator",
+        "starred_at": "2025-09-27T08:32:20.087091+00:00"
+      }
+    ],
+    "fshabashev": [
+      {
+        "repo": "fshabashev/apache_beam_tests",
+        "starred_at": "2025-09-27T08:32:20.087091+00:00"
+      }
+    ],
+    "FutabaRio": [
+      {
+        "repo": "FutabaRio/docker-compose",
+        "starred_at": "2025-09-27T08:32:20.087091+00:00"
+      }
+    ],
+    "VictorBK": [
+      {
+        "repo": "VictorBK/AirBnB_clone_v2",
+        "starred_at": "2025-09-27T08:32:20.087091+00:00"
+      }
+    ],
+    "Rahugg": [
+      {
+        "repo": "Rahugg/anisearch",
+        "starred_at": "2025-09-27T08:32:20.087091+00:00"
+      }
+    ],
+    "NesianUso": [
+      {
+        "repo": "NesianUso/github-slideshow",
+        "starred_at": "2025-09-27T08:32:20.087091+00:00"
+      }
+    ],
+    "taylorpoe": [
+      {
+        "repo": "taylorpoe/Blueberry",
+        "starred_at": "2025-09-27T08:32:20.087091+00:00"
+      }
+    ],
+    "optipessimist": [
+      {
+        "repo": "optipessimist/WYY-comments",
+        "starred_at": "2025-09-27T08:32:20.087091+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
