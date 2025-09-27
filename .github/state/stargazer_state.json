@@ -1017,5 +1017,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "clouby": [
+      {
+        "repo": "clouby/basic-webrtc",
+        "starred_at": "2025-09-27T16:32:38.290015+00:00"
+      }
+    ],
+    "Neddie28": [
+      {
+        "repo": "Neddie28/Airbnb-Clone",
+        "starred_at": "2025-09-27T16:32:38.290015+00:00"
+      }
+    ],
+    "caenguidanos": [
+      {
+        "repo": "caenguidanos/AngularListadoEquipoJugadores",
+        "starred_at": "2025-09-27T16:32:38.290015+00:00"
+      }
+    ],
+    "Valiev-Koyiljon": [
+      {
+        "repo": "Valiev-Koyiljon/AI_lessons",
+        "starred_at": "2025-09-27T16:32:38.290015+00:00"
+      }
+    ],
+    "arsyst": [
+      {
+        "repo": "arsyst/geogsm",
+        "starred_at": "2025-09-27T16:32:38.290015+00:00"
+      }
+    ],
+    "rgroves": [
+      {
+        "repo": "rgroves/100-days-of-code-logs",
+        "starred_at": "2025-09-27T16:32:38.290015+00:00"
+      }
+    ],
+    "andrewgryan": [
+      {
+        "repo": "andrewgryan/arcsec",
+        "starred_at": "2025-09-27T16:32:38.290015+00:00"
+      }
+    ],
+    "d-k9": [
+      {
+        "repo": "d-k9/cit-1100-01",
+        "starred_at": "2025-09-27T16:32:38.290015+00:00"
+      }
+    ],
+    "kohhash": [
+      {
+        "repo": "kohhash/Angular-Messagener",
+        "starred_at": "2025-09-27T16:32:38.290015+00:00"
+      }
+    ]
   }
 }
