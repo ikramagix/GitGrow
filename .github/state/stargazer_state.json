@@ -1017,5 +1017,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "Debakel": [
+      {
+        "repo": "Debakel/arge-consumption-mock",
+        "starred_at": "2025-09-28T16:31:44.782888+00:00"
+      }
+    ],
+    "Olooce": [
+      {
+        "repo": "Olooce/DB-Initializer",
+        "starred_at": "2025-09-28T16:31:44.782888+00:00"
+      }
+    ],
+    "atrithakar": [
+      {
+        "repo": "atrithakar/BrightnessControl",
+        "starred_at": "2025-09-28T16:31:44.782888+00:00"
+      }
+    ],
+    "Darken-027": [
+      {
+        "repo": "Darken-027/GranjaDeAjoFrontend",
+        "starred_at": "2025-09-28T16:31:44.782888+00:00"
+      }
+    ],
+    "Th3c0d3d1": [
+      {
+        "repo": "Th3c0d3d1/conditional-profile",
+        "starred_at": "2025-09-28T16:31:44.782888+00:00"
+      }
+    ],
+    "BohemianHacks": [
+      {
+        "repo": "BohemianHacks/algoInt",
+        "starred_at": "2025-09-28T16:31:44.782888+00:00"
+      }
+    ],
+    "elmar": [
+      {
+        "repo": "elmar/autocutsel-debian",
+        "starred_at": "2025-09-28T16:31:44.782888+00:00"
+      }
+    ],
+    "Micheal833": [
+      {
+        "repo": "Micheal833/Micheal833",
+        "starred_at": "2025-09-28T16:31:44.782888+00:00"
+      }
+    ],
+    "messense": [
+      {
+        "repo": "messense/aliyundrive-webdav",
+        "starred_at": "2025-09-28T16:31:44.782888+00:00"
+      }
+    ],
+    "llipe20": [
+      {
+        "repo": "llipe20/json-serve-projeto-havertz-api",
+        "starred_at": "2025-09-28T16:31:44.782888+00:00"
+      }
+    ]
   }
 }
