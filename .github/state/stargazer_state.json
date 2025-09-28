@@ -1086,6 +1086,55 @@
       "last_unbalanced_attempt": "2025-09-28T05:33:01.290757+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "Linutux": [
+      {
+        "repo": "Linutux/Gourmet",
+        "starred_at": "2025-09-28T08:32:29.764781+00:00"
+      }
+    ],
+    "stpeyyee": [
+      {
+        "repo": "stpeyyee/echarts-react-example",
+        "starred_at": "2025-09-28T08:32:29.764781+00:00"
+      }
+    ],
+    "eglavin": [
+      {
+        "repo": "eglavin/ansible-playbook",
+        "starred_at": "2025-09-28T08:32:29.764781+00:00"
+      }
+    ],
+    "KleberVales": [
+      {
+        "repo": "KleberVales/anotacoes-em-Java",
+        "starred_at": "2025-09-28T08:32:29.764781+00:00"
+      }
+    ],
+    "Saveliy113": [
+      {
+        "repo": "Saveliy113/canvas",
+        "starred_at": "2025-09-28T08:32:29.764781+00:00"
+      }
+    ],
+    "kmrunal2008": [
+      {
+        "repo": "kmrunal2008/kish",
+        "starred_at": "2025-09-28T08:32:29.764781+00:00"
+      }
+    ],
+    "nick-aschenbach": [
+      {
+        "repo": "nick-aschenbach/accuweather",
+        "starred_at": "2025-09-28T08:32:29.764781+00:00"
+      }
+    ],
+    "andysongsx": [
+      {
+        "repo": "andysongsx/sqlserver2excel",
+        "starred_at": "2025-09-28T08:32:29.764781+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
