@@ -1086,6 +1086,61 @@
       "last_unbalanced_attempt": "2025-09-29T05:35:16.748162+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "ParsaHaghighatgoo": [
+      {
+        "repo": "ParsaHaghighatgoo/ai-lecture-hoc",
+        "starred_at": "2025-09-29T08:42:01.805546+00:00"
+      }
+    ],
+    "lustyfingers": [
+      {
+        "repo": "lustyfingers/lustyfingers",
+        "starred_at": "2025-09-29T08:42:01.805546+00:00"
+      }
+    ],
+    "vsidou": [
+      {
+        "repo": "vsidou/ReflowSolderingHotplate",
+        "starred_at": "2025-09-29T08:42:01.805546+00:00"
+      }
+    ],
+    "gardusig": [
+      {
+        "repo": "gardusig/crowler",
+        "starred_at": "2025-09-29T08:42:01.805546+00:00"
+      }
+    ],
+    "chsejune": [
+      {
+        "repo": "chsejune/chsejune.github.io",
+        "starred_at": "2025-09-29T08:42:01.805546+00:00"
+      }
+    ],
+    "joselisboaa": [
+      {
+        "repo": "joselisboaa/APS",
+        "starred_at": "2025-09-29T08:42:01.805546+00:00"
+      }
+    ],
+    "sochoi": [
+      {
+        "repo": "sochoi/sowonder",
+        "starred_at": "2025-09-29T08:42:01.805546+00:00"
+      }
+    ],
+    "Hephzibah7": [
+      {
+        "repo": "Hephzibah7/-CrackYourPlacement",
+        "starred_at": "2025-09-29T08:42:01.805546+00:00"
+      }
+    ],
+    "jayteen": [
+      {
+        "repo": "jayteen/sample-django-start",
+        "starred_at": "2025-09-29T08:42:01.805546+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
