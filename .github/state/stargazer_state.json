@@ -1017,5 +1017,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "Adven00": [
+      {
+        "repo": "Adven00/ADesktop",
+        "starred_at": "2025-09-29T16:31:03.850512+00:00"
+      }
+    ],
+    "LulaSvob": [
+      {
+        "repo": "LulaSvob/django-crm",
+        "starred_at": "2025-09-29T16:31:03.850512+00:00"
+      }
+    ],
+    "karlwilbur": [
+      {
+        "repo": "karlwilbur/castle",
+        "starred_at": "2025-09-29T16:31:03.850512+00:00"
+      }
+    ],
+    "ArjunVaidy": [
+      {
+        "repo": "ArjunVaidy/Arjun-Vaidy---Frontend-Developer",
+        "starred_at": "2025-09-29T16:31:03.850512+00:00"
+      }
+    ],
+    "99eren99": [
+      {
+        "repo": "99eren99/computer-product-recommender-api",
+        "starred_at": "2025-09-29T16:31:03.850512+00:00"
+      }
+    ],
+    "geoffreyvanwyk": [
+      {
+        "repo": "geoffreyvanwyk/ansible-role-moodle_uninstall",
+        "starred_at": "2025-09-29T16:31:03.850512+00:00"
+      }
+    ],
+    "0x8f701": [
+      {
+        "repo": "0x8f701/actix-aggregator",
+        "starred_at": "2025-09-29T16:31:03.850512+00:00"
+      }
+    ],
+    "Connor9994": [
+      {
+        "repo": "Connor9994/Admin-Commands",
+        "starred_at": "2025-09-29T16:31:03.850512+00:00"
+      }
+    ],
+    "swdreams": [
+      {
+        "repo": "swdreams/BloodTest",
+        "starred_at": "2025-09-29T16:31:03.850512+00:00"
+      }
+    ]
   }
 }
