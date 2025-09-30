@@ -1017,5 +1017,61 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "shanggangli": [
+      {
+        "repo": "shanggangli/ChatGLM-6B-finetuning",
+        "starred_at": "2025-09-30T16:37:40.222891+00:00"
+      }
+    ],
+    "kentzhang-geek": [
+      {
+        "repo": "kentzhang-geek/ARTS_AlgorithmDaily",
+        "starred_at": "2025-09-30T16:37:40.222891+00:00"
+      }
+    ],
+    "sdil": [
+      {
+        "repo": "sdil/awesome-goakt",
+        "starred_at": "2025-09-30T16:37:40.222891+00:00"
+      }
+    ],
+    "shivanshs9": [
+      {
+        "repo": "shivanshs9/acs-vm-migration",
+        "starred_at": "2025-09-30T16:37:40.222891+00:00"
+      }
+    ],
+    "Shifin-Malik": [
+      {
+        "repo": "Shifin-Malik/Card-Flip-Game",
+        "starred_at": "2025-09-30T16:37:40.222891+00:00"
+      }
+    ],
+    "mikeHSU0429": [
+      {
+        "repo": "mikeHSU0429/netify-demo",
+        "starred_at": "2025-09-30T16:37:40.222891+00:00"
+      }
+    ],
+    "twilight-SL": [
+      {
+        "repo": "twilight-SL/BinChilling",
+        "starred_at": "2025-09-30T16:37:40.222891+00:00"
+      }
+    ],
+    "dee990": [
+      {
+        "repo": "dee990/dee990",
+        "starred_at": "2025-09-30T16:37:40.222891+00:00"
+      }
+    ],
+    "elvinny-is-coding": [
+      {
+        "repo": "elvinny-is-coding/bagels",
+        "starred_at": "2025-09-30T16:37:40.222891+00:00"
+      }
+    ]
   }
 }
