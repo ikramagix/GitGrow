@@ -1086,6 +1086,67 @@
       "last_unbalanced_attempt": "2025-09-30T05:35:24.482485+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "Rishi-121": [
+      {
+        "repo": "Rishi-121/BestEnlist-Intership-Repo",
+        "starred_at": "2025-09-30T08:41:50.730229+00:00"
+      }
+    ],
+    "artbycrunk": [
+      {
+        "repo": "artbycrunk/backoid",
+        "starred_at": "2025-09-30T08:41:50.730229+00:00"
+      }
+    ],
+    "StevenZoernack": [
+      {
+        "repo": "StevenZoernack/ReputationBoss-Wikipedia-",
+        "starred_at": "2025-09-30T08:41:50.730229+00:00"
+      }
+    ],
+    "CharaeKeow": [
+      {
+        "repo": "CharaeKeow/bank-app",
+        "starred_at": "2025-09-30T08:41:50.730229+00:00"
+      }
+    ],
+    "Pingid": [
+      {
+        "repo": "Pingid/3D-Geometry",
+        "starred_at": "2025-09-30T08:41:50.730229+00:00"
+      }
+    ],
+    "metlandus": [
+      {
+        "repo": "metlandus/bootcamp",
+        "starred_at": "2025-09-30T08:41:50.730229+00:00"
+      }
+    ],
+    "ue": [
+      {
+        "repo": "ue/alphabetical-sorter",
+        "starred_at": "2025-09-30T08:41:50.730229+00:00"
+      }
+    ],
+    "MK2I": [
+      {
+        "repo": "MK2I/box.py",
+        "starred_at": "2025-09-30T08:41:50.730229+00:00"
+      }
+    ],
+    "SachinMhetre678": [
+      {
+        "repo": "SachinMhetre678/ANN_Churn_Prediction",
+        "starred_at": "2025-09-30T08:41:50.730229+00:00"
+      }
+    ],
+    "kirai": [
+      {
+        "repo": "kirai/bio_hacking",
+        "starred_at": "2025-09-30T08:41:50.730229+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
