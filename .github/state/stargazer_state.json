@@ -1094,6 +1094,55 @@
       "last_unbalanced_attempt": "2025-10-01T05:34:49.609961+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "hotman727": [
+      {
+        "repo": "hotman727/businessfrance-front-master",
+        "starred_at": "2025-10-01T08:38:45.860383+00:00"
+      }
+    ],
+    "aim27": [
+      {
+        "repo": "aim27/aim27",
+        "starred_at": "2025-10-01T08:38:45.860383+00:00"
+      }
+    ],
+    "armangral": [
+      {
+        "repo": "armangral/armangral",
+        "starred_at": "2025-10-01T08:38:45.860383+00:00"
+      }
+    ],
+    "DanielTamkin": [
+      {
+        "repo": "DanielTamkin/centerThis.js",
+        "starred_at": "2025-10-01T08:38:45.860383+00:00"
+      }
+    ],
+    "ambadyanands": [
+      {
+        "repo": "ambadyanands/rescuevolunteer",
+        "starred_at": "2025-10-01T08:38:45.860383+00:00"
+      }
+    ],
+    "MahmoudMabrok": [
+      {
+        "repo": "MahmoudMabrok/-LogInLayouts",
+        "starred_at": "2025-10-01T08:38:45.860383+00:00"
+      }
+    ],
+    "Iuryaaraujo": [
+      {
+        "repo": "Iuryaaraujo/aula-lazy",
+        "starred_at": "2025-10-01T08:38:45.860383+00:00"
+      }
+    ],
+    "Asadaaaaa": [
+      {
+        "repo": "Asadaaaaa/artristik-tte-database",
+        "starred_at": "2025-10-01T08:38:45.860383+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
