@@ -1024,5 +1024,55 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "fabiomarastoni": [
+      {
+        "repo": "fabiomarastoni/test",
+        "starred_at": "2025-10-01T16:37:05.493587+00:00"
+      }
+    ],
+    "hdragomir": [
+      {
+        "repo": "hdragomir/Conway-s-Game-of-Life",
+        "starred_at": "2025-10-01T16:37:05.493587+00:00"
+      }
+    ],
+    "yimun": [
+      {
+        "repo": "yimun/ApiEncryptDemo",
+        "starred_at": "2025-10-01T16:37:05.493587+00:00"
+      }
+    ],
+    "Sauloxd": [
+      {
+        "repo": "Sauloxd/better-hire-saul",
+        "starred_at": "2025-10-01T16:37:05.493587+00:00"
+      }
+    ],
+    "ayezabashir": [
+      {
+        "repo": "ayezabashir/aynchronous-JS",
+        "starred_at": "2025-10-01T16:37:05.493587+00:00"
+      }
+    ],
+    "la3rence": [
+      {
+        "repo": "la3rence/cf-llm-hono",
+        "starred_at": "2025-10-01T16:37:05.493587+00:00"
+      }
+    ],
+    "yan-pi": [
+      {
+        "repo": "yan-pi/alexandria-books",
+        "starred_at": "2025-10-01T16:37:05.493587+00:00"
+      }
+    ],
+    "rinderschwein": [
+      {
+        "repo": "rinderschwein/flume-avro-serializer",
+        "starred_at": "2025-10-01T16:37:05.493587+00:00"
+      }
+    ]
   }
 }
