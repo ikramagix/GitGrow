@@ -1094,6 +1094,67 @@
       "last_unbalanced_attempt": "2025-10-02T05:32:32.641221+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "Danyseifedine": [
+      {
+        "repo": "Danyseifedine/1-hour-application-DOIT",
+        "starred_at": "2025-10-02T08:36:36.788620+00:00"
+      }
+    ],
+    "lcsvcn": [
+      {
+        "repo": "lcsvcn/alemao",
+        "starred_at": "2025-10-02T08:36:36.788620+00:00"
+      }
+    ],
+    "nelsonsoh8": [
+      {
+        "repo": "nelsonsoh8/dcit318-assignment1-11134637",
+        "starred_at": "2025-10-02T08:36:36.788620+00:00"
+      }
+    ],
+    "dayne": [
+      {
+        "repo": "dayne/actions-test",
+        "starred_at": "2025-10-02T08:36:36.788620+00:00"
+      }
+    ],
+    "ClementSreeves": [
+      {
+        "repo": "ClementSreeves/advent-of-code-2015",
+        "starred_at": "2025-10-02T08:36:36.788620+00:00"
+      }
+    ],
+    "Sab89saul": [
+      {
+        "repo": "Sab89saul/Sab89saul",
+        "starred_at": "2025-10-02T08:36:36.788620+00:00"
+      }
+    ],
+    "praise002": [
+      {
+        "repo": "praise002/4-card-feature",
+        "starred_at": "2025-10-02T08:36:36.788620+00:00"
+      }
+    ],
+    "heysamtexas": [
+      {
+        "repo": "heysamtexas/calendar-sync",
+        "starred_at": "2025-10-02T08:36:36.788620+00:00"
+      }
+    ],
+    "arona504": [
+      {
+        "repo": "arona504/projetangular",
+        "starred_at": "2025-10-02T08:36:36.788620+00:00"
+      }
+    ],
+    "BadAllOff": [
+      {
+        "repo": "BadAllOff/advanced_js_thinknetica",
+        "starred_at": "2025-10-02T08:36:36.788620+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
