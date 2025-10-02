@@ -1,34 +1,37 @@
-[![GitGrowBot Follower (Scheduled)](https://github.com/ikramagix/GitGrowBot/actions/workflows/run_follow.yml/badge.svg)](https://github.com/ikramagix/GitGrowBot/actions/workflows/run_follow.yml)
-[![GitGrowBot Unfollower (Scheduled)](https://github.com/ikramagix/GitGrowBot/actions/workflows/run_unfollow.yml/badge.svg)](https://github.com/ikramagix/GitGrowBot/actions/workflows/run_unfollow.yml)
-[![GitGrowBot Stargazer Shoutouts (Manual)](https://github.com/ikramagix/GitGrowBot/actions/workflows/stargazer_shoutouts.yml/badge.svg)](https://github.com/ikramagix/GitGrowBot/actions/workflows/stargazer_shoutouts.yml)
+[![GitGrow Follower (Scheduled)](https://github.com/ikramagix/GitGrow/actions/workflows/run_follow.yml/badge.svg)](https://github.com/ikramagix/GitGrow/actions/workflows/run_follow.yml)
+[![GitGrow Unfollower (Scheduled)](https://github.com/ikramagix/GitGrow/actions/workflows/run_unfollow.yml/badge.svg)](https://github.com/ikramagix/GitGrow/actions/workflows/run_unfollow.yml)
+[![GitGrow Stargazer Shoutouts (Manual)](https://github.com/ikramagix/GitGrow/actions/workflows/stargazer_shoutouts.yml/badge.svg)](https://github.com/ikramagix/GitGrow/actions/workflows/stargazer_shoutouts.yml)
 
-# GitGrowBot
+# GitGrow
 
-GitGrowBot is your personal GitHub networking assistant. It's an automation tool designed to help you **grow** and **nurture** your developer network organically. With GitGrowBot, you’ll:
+GitGrow is your personal GitHub networking assistant. It's an automation tool designed to help you **grow** and **nurture** your developer network organically. With GitGrow, you’ll:
 
 * **Follow** users from our curated list, up to a configurable limit per run.
 * **Unfollow** anyone who doesn’t follow you back, because **reciprocity** matters.
 * **Star** and **unstar** repositories with the same give-and-take logic.
 
-All actions run on a schedule (or on demand) in GitHub Actions, so you never need to manually review your follow list. Just set it up, sit back, and let GitGrowBot handle your networking while you focus on coding.
+All actions run on a schedule (or on demand) in GitHub Actions, so you never need to manually review your follow list. Just set it up, sit back, and let GitGrow handle your networking while you focus on coding.
 
 - 🤔 [How it works](#how-it-works)
 - ❔[Features](#features)
 - ⏭️ [Getting started](#getting-started)
 - [Local testing](#local-testing)
-- ⭐ [Join more than 91,000 users!](#join-more-than-91000-users)
+- ⭐ [Join the list and grow your network](#join-the-list-and-grow-your-network)
 - [Configuration](#configuration)
 - [Repository structure](#repository-structure)
 - [Manual Troubleshooting Runners (optional)](#manual-troubleshooting-runners-optional)
 - 🤝 [Contributing](#contributing)
 
+> [!WARNING]
+> The `usernames.txt` list, originally compiled by @ikramagix and @gr33kurious for the GitGrow project, may include usernames sourced from various GitHub projects, renamed or deleted sources, or due to copy-pasting errors. We do not intend to spam or cause harm. If you want your username removed, please open an issue, and we will delete it within 48 hours.
+
 ## How it works
 
-The motto **“You only get what you give”** drives GitGrowBot’s behavior:
+The motto **“You only get what you give”** drives GitGrow’s behavior:
 
-1. GitGrowBot **follow** someone for you—chances are, they’ll notice and **follow you back** (especially if they use GitGrowBot too!).  
-2. If they **don’t** reciprocate by the next run, GitGrowBot quietly **unfollows** them.
-3. You star their repo, they star yours; you unstar, GitGrowBot unstars theirs.
+1. GitGrow **follow** someone for you—chances are, they’ll notice and **follow you back** (especially if they use GitGrow too!).  
+2. If they **don’t** reciprocate by the next run, GitGrow quietly **unfollows** them.
+3. You star their repo, they star yours; you unstar, GitGrow unstars theirs.
 
 ## Features
 
@@ -69,13 +72,13 @@ The motto **“You only get what you give”** drives GitGrowBot’s behavior:
   
 ## Getting started
 
-GitGrowBot is designed to be easy to set up and use. Here’s how you can get started:
+GitGrow is designed to be easy to set up and use. Here’s how you can get started:
 
 1. **Fork** or **clone** this repo.
 2. In **Settings → Secrets → Actions**, add your Github PAT as `PAT_TOKEN` (scope: `user:follow`, `public_repo` for starring).
 3. In **Settings → Variables → Repository variables**, add **`BOT_USER`** with _your_ GitHub username. *This prevents the workflow from running in other people’s forks unless they set their own name.*
-4. **91,000+ members like you who want to grow are waiting for you in** `config/usernames.txt`.  
-You can join this list too—see below (**⭐ & Join more than 91,000 users!**).
+4. **A lot of members like you might want to connect via** `config/usernames.txt`.  
+You can join this list too—see below (**⭐ & Join the list and grow your network**).
 5. (Optional) Tweak the schedules in your workflow files:
     - `.github/workflows/run_follow.yml` runs **hourly at minute 5** by default.
     - `.github/workflows/run_unfollow.yml` runs **every 10 hours at minute 5** (UTC) by default.
@@ -84,7 +87,7 @@ You can join this list too—see below (**⭐ & Join more than 91,000 users!**).
 7. (Optional) Copy `.env.example` → `.env` for local testing (or contributors).
 8. **Enable** GitHub Actions in your repo settings.
 9. (One-time setup) Manually create the `tracker-data` branch in your repository. This branch is used to store and version the persistent stargazer state files (`.github/state/stargazer_state.json`) required for full stargazer reciprocity and tracking.
-10. Sit back and code—**GitGrowBot** does the networking (and starring) for you!
+10. Sit back and code—**GitGrow** does the networking (and starring) for you!
 
 ## Local testing
 
@@ -101,14 +104,9 @@ python scripts/cleaner.py
 python scripts/gitgrow.py
 ````
 
-## Join more than 91,000 users!
+## Join the list and grow your network
 
-Want in? It’s effortless. If you:
-
-1. **Star** this repository, **AND**
-2. **Follow** both **[@ikramagix](https://github.com/ikramagix)** and **[@gr33kurious](https://github.com/gr33kurious)**
-
-then your username will be **automatically** added to the master `usernames.txt` list alongside the **91,000+** active members!
+Want in? It’s effortless. If you **star** this repository, then your username will be **automatically** added to the master `usernames.txt` list alongside the other members!
 
 Let's grow! 💪
 
@@ -137,7 +135,7 @@ Let's grow! 💪
 ├── .gitignore
 ├── README.md
 ├── config
-│   ├── usernames.txt                  # 91,000+ community members (deduped, activity filtered)
+│   ├── usernames.txt                  # List of GitHub community members (deduped, activity filtered)
 │   ├── organizations.txt              # (Optional) org members, only relevant if using run_orgs.yml
 │   └── whitelist.txt                  # accounts to always skip
 ├── logs                               # CI artifacts (gitignored)
@@ -155,22 +153,23 @@ Let's grow! 💪
 │   ├── test_bot_core_behavior.py     # follow/unfollow/follow-back
 │   ├── test_unfollowers.py           # unfollow-only logic
 │   └── test_cleaner.py              # cleaner dedupe + missing-user removal
+└────
 ```
 
 ### Manual Troubleshooting Runners (optional)
 
 If you ever need to isolate one step for debugging, head to your repo’s **Actions** tab:
 
-* **GitGrowBot Manual Follow** (`.github/workflows/manual_follow.yml`)
+* **GitGrow Manual Follow** (`.github/workflows/manual_follow.yml`)
   Manually triggers **only** the follow & follow-back logic.
-* **GitGrowBot Manual Unfollow** (`.github/workflows/manual_unfollow.yml`)
+* **GitGrow Manual Unfollow** (`.github/workflows/manual_unfollow.yml`)
   Manually triggers **only** the unfollow non-reciprocals logic.
 
 Choose the workflow, click **Run workflow**, select your branch, and go!
 
 ## Contributing
 
-We started building GitGrowBot as a peer-to-peer coding challenge on a sleepless night. But it doesn't have to end here.
+We started building GitGrow as a peer-to-peer coding challenge on a sleepless night. But it doesn't have to end here.
 Feel free to:
 
 1. **Open an issue** to suggest new features, report bugs, or share ideas.
@@ -180,9 +179,19 @@ Feel free to:
 
 Every contribution, big or small, helps everyone grow. Thank you for pitching in!
 
-### With 💛 from contributors like you: 
+### With 💛 from contributors like you:
 
-<a href="https://github.com/ikramagix"><img src="https://img.shields.io/badge/ikramagix-000000?style=flat&logo=github&labelColor=0057ff&color=ffffff" alt="ikramagix"></a> <a href="https://github.com/gr33kurious"><img src="https://img.shields.io/badge/gr33kurious-000000?style=flat&logo=github&labelColor=ab1103&color=ffffff" alt="gr33kurious"></a>
+<a href="https://github.com/ikramagix"><img src="https://img.shields.io/badge/ikramagix-000000?style=flat&logo=github&labelColor=040ABD&color=ffffff" alt="ikramagix"></a> 
+<a href="https://github.com/gr33kurious"><img src="https://img.shields.io/badge/gr33kurious-000000?style=flat&logo=github&labelColor=800000&color=ffffff" alt="gr33kurious"></a> 
+<a href="https://github.com/DaniilBaida"><img src="https://img.shields.io/badge/DaniilBaida-000000?style=flat&logo=github&labelColor=FF8C00&color=ffffff" alt="DaniilBaida"></a> 
+<a href="https://github.com/kyborq"><img src="https://img.shields.io/badge/kyborq-000000?style=flat&logo=github&labelColor=008000&color=ffffff" alt="kyborq"></a> 
+<a href="https://github.com/druskus20"><img src="https://img.shields.io/badge/druskus20-000000?style=flat&logo=github&labelColor=004080&color=ffffff" alt="druskus20"></a> 
+<a href="https://github.com/SoraTenshi"><img src="https://img.shields.io/badge/SoraTenshi-000000?style=flat&logo=github&labelColor=400080&color=ffffff" alt="SoraTenshi"></a> 
+<a href="https://github.com/lucianosrp"><img src="https://img.shields.io/badge/lucianosrp-000000?style=flat&logo=github&labelColor=800080&color=ffffff" alt="lucianosrp"></a> 
+<a href="https://github.com/henrikvtcodes"><img src="https://img.shields.io/badge/henrikvtcodes-000000?style=flat&logo=github&labelColor=784404&color=ffffff" alt="henrikvtcodes"></a>
+
+> [!NOTE]
+> This section is automatically generated from GitHub contributors. If you do not want to appear, please open an issue, and we'll remove you.
 
 **Happy networking & happy coding!**
 *And thank you for saying thank you! If you find this project useful, please consider giving it a star or supporting us on **buymeacoffee** below.*
