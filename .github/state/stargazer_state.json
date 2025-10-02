@@ -1031,5 +1031,67 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "williamrodriguesdev": [
+      {
+        "repo": "williamrodriguesdev/agencia-finans",
+        "starred_at": "2025-10-02T16:36:04.750329+00:00"
+      }
+    ],
+    "abdelmalek0": [
+      {
+        "repo": "abdelmalek0/abdelmalek0",
+        "starred_at": "2025-10-02T16:36:04.750329+00:00"
+      }
+    ],
+    "yogeshpatel-bestpeers": [
+      {
+        "repo": "yogeshpatel-bestpeers/django",
+        "starred_at": "2025-10-02T16:36:04.750329+00:00"
+      }
+    ],
+    "IsrafilHossain5": [
+      {
+        "repo": "IsrafilHossain5/IsrafilHossain5",
+        "starred_at": "2025-10-02T16:36:04.750329+00:00"
+      }
+    ],
+    "HuaYuan-Tseng": [
+      {
+        "repo": "HuaYuan-Tseng/get-current-time-comparison",
+        "starred_at": "2025-10-02T16:36:04.750329+00:00"
+      }
+    ],
+    "neuraloverflow": [
+      {
+        "repo": "neuraloverflow/Articles",
+        "starred_at": "2025-10-02T16:36:04.750329+00:00"
+      }
+    ],
+    "riwuzi": [
+      {
+        "repo": "riwuzi/-",
+        "starred_at": "2025-10-02T16:36:04.750329+00:00"
+      }
+    ],
+    "YousifAbozid": [
+      {
+        "repo": "YousifAbozid/50-Projects-In-50-Days",
+        "starred_at": "2025-10-02T16:36:04.750329+00:00"
+      }
+    ],
+    "r37r0m0d3l": [
+      {
+        "repo": "r37r0m0d3l/Array-to-XML-PHP",
+        "starred_at": "2025-10-02T16:36:04.750329+00:00"
+      }
+    ],
+    "joydance": [
+      {
+        "repo": "joydance/HXmarinAndroid",
+        "starred_at": "2025-10-02T16:36:04.750329+00:00"
+      }
+    ]
   }
 }
