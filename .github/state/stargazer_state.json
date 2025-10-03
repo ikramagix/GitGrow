@@ -1045,5 +1045,55 @@
       ],
       "starred_back": []
     }
+  },
+  "growth_starred": {
+    "miqueiaspcoelho": [
+      {
+        "repo": "miqueiaspcoelho/ChamadosPage",
+        "starred_at": "2025-10-03T16:35:11.525464+00:00"
+      }
+    ],
+    "zhoutianrui-tongji": [
+      {
+        "repo": "zhoutianrui-tongji/playwright",
+        "starred_at": "2025-10-03T16:35:11.525464+00:00"
+      }
+    ],
+    "YhMjQx": [
+      {
+        "repo": "YhMjQx/network-security",
+        "starred_at": "2025-10-03T16:35:11.525464+00:00"
+      }
+    ],
+    "Sanjay3639": [
+      {
+        "repo": "Sanjay3639/Flutter-App-Dev",
+        "starred_at": "2025-10-03T16:35:11.525464+00:00"
+      }
+    ],
+    "okroutDev": [
+      {
+        "repo": "okroutDev/firespro",
+        "starred_at": "2025-10-03T16:35:11.525464+00:00"
+      }
+    ],
+    "iamajay979": [
+      {
+        "repo": "iamajay979/Ajayblogs",
+        "starred_at": "2025-10-03T16:35:11.525464+00:00"
+      }
+    ],
+    "cvelas31": [
+      {
+        "repo": "cvelas31/data_engineer_resources",
+        "starred_at": "2025-10-03T16:35:11.525464+00:00"
+      }
+    ],
+    "nicky-lenaers": [
+      {
+        "repo": "nicky-lenaers/dne-project",
+        "starred_at": "2025-10-03T16:35:11.525464+00:00"
+      }
+    ]
   }
 }
