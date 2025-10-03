@@ -1118,6 +1118,67 @@
       "last_unbalanced_attempt": "2025-10-03T05:34:06.809914+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "ketsindian": [
+      {
+        "repo": "ketsindian/Design-Practices",
+        "starred_at": "2025-10-03T08:35:41.971854+00:00"
+      }
+    ],
+    "ahbalbaid": [
+      {
+        "repo": "ahbalbaid/ahbalbaid.github.io",
+        "starred_at": "2025-10-03T08:35:41.971854+00:00"
+      }
+    ],
+    "kirill-developer": [
+      {
+        "repo": "kirill-developer/hello-world",
+        "starred_at": "2025-10-03T08:35:41.971854+00:00"
+      }
+    ],
+    "SxYxuse": [
+      {
+        "repo": "SxYxuse/nextjs15-boilerplate",
+        "starred_at": "2025-10-03T08:35:41.971854+00:00"
+      }
+    ],
+    "Yosskavo": [
+      {
+        "repo": "Yosskavo/born2beroot",
+        "starred_at": "2025-10-03T08:35:41.971854+00:00"
+      }
+    ],
+    "timthedevel0per": [
+      {
+        "repo": "timthedevel0per/Tasklist_2023",
+        "starred_at": "2025-10-03T08:35:41.971854+00:00"
+      }
+    ],
+    "hoa00": [
+      {
+        "repo": "hoa00/dhtmlxGantt-locale-vietnamese",
+        "starred_at": "2025-10-03T08:35:41.971854+00:00"
+      }
+    ],
+    "Tocyuki": [
+      {
+        "repo": "Tocyuki/ansible-devenv-role",
+        "starred_at": "2025-10-03T08:35:41.971854+00:00"
+      }
+    ],
+    "onyxvail": [
+      {
+        "repo": "onyxvail/AirBnB_clone",
+        "starred_at": "2025-10-03T08:35:41.971854+00:00"
+      }
+    ],
+    "wyangx": [
+      {
+        "repo": "wyangx/base-admin-api-egg",
+        "starred_at": "2025-10-03T08:35:41.971854+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
