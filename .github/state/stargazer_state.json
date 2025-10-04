@@ -1111,6 +1111,61 @@
       "last_unbalanced_attempt": "2025-10-04T05:32:21.324128+00:00"
     }
   },
-  "growth_starred": {},
+  "growth_starred": {
+    "nehalecky": [
+      {
+        "repo": "nehalecky/CS7637-Knowledge-Based-AI",
+        "starred_at": "2025-10-04T08:32:41.698063+00:00"
+      }
+    ],
+    "machadoprx": [
+      {
+        "repo": "machadoprx/CoolConvNN",
+        "starred_at": "2025-10-04T08:32:41.698063+00:00"
+      }
+    ],
+    "silvesterwali": [
+      {
+        "repo": "silvesterwali/apollo-server-prisma-ts",
+        "starred_at": "2025-10-04T08:32:41.698063+00:00"
+      }
+    ],
+    "Sayykii": [
+      {
+        "repo": "Sayykii/last-fm-widget",
+        "starred_at": "2025-10-04T08:32:41.698063+00:00"
+      }
+    ],
+    "rohitd4007": [
+      {
+        "repo": "rohitd4007/30-Days-of-Typescript",
+        "starred_at": "2025-10-04T08:32:41.698063+00:00"
+      }
+    ],
+    "solebox": [
+      {
+        "repo": "solebox/.vim",
+        "starred_at": "2025-10-04T08:32:41.698063+00:00"
+      }
+    ],
+    "ahmedaaamm2": [
+      {
+        "repo": "ahmedaaamm2/27junaredc25",
+        "starred_at": "2025-10-04T08:32:41.698063+00:00"
+      }
+    ],
+    "sisPedro": [
+      {
+        "repo": "sisPedro/manu",
+        "starred_at": "2025-10-04T08:32:41.698063+00:00"
+      }
+    ],
+    "blockchainchangeworld": [
+      {
+        "repo": "blockchainchangeworld/blockchainchangeworld",
+        "starred_at": "2025-10-04T08:32:41.698063+00:00"
+      }
+    ]
+  },
   "unresponsive": {}
 }
